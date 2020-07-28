@@ -7,19 +7,12 @@
         "Posting period": "7/16/2020 - 7/31/2020"
     },
     {
-        "title": "409 Vallejo Street",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/409%20vallejo.jpg?itok=O73FQNnX",
+        "title": "2362 Vallejo Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2362%20vallejo.jpg?itok=zp4S6KjP",
         "Site number": "1",
-        "Reason(s) for removal": "Dead; replanting currently not planned due to very difficult planting area and difficult access to water, hillside already has a lot of vegetation",
-        "Posting period": "7/6/2020 - 7/21/2020"
-    },
-    {
-        "title": "413 Vallejo Street",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/413%20vallejo.jpg?itok=egnUvN1M",
-        "Reason(s) for removal": "Dead due to being topped; replanting currently not planned due to very difficult planting area and difficult access to water, hillside already has a lot of vegetation",
-        "Posting period": "7/6/2020 - 7/21/2020"
+        "Reason(s) for removal": "In poor condition, fruiting bodies on trunk, decay, BUF previously notified property owner to remove and replace tree, now tree is not stable; will be replaced",
+        "Posting period": "7/23/2020 - 8/7/2020"
     },
     {
         "title": "4210 Ocean Avenue",
@@ -41,6 +34,20 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4210%20ocean%20ave%20-%20tree%209.jpg?itok=yzcoMKVj",
         "Reason(s) for removal": "Property owner applied for removal permit (785453); ramp design to become compliant with ADA violation notice is within footprint of trees on Ocean Avenue entrance. Project redesigned in attempt to save trees but could not meet compliance without placing in footprint, trees on Everglade Drive frontage were saved; three new trees will be planted on Everglade frontage where existing gaps in plantings exist.",
         "Posting period": "7/8/2020 - 8/8/2020"
+    },
+    {
+        "title": "439 Hill Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/439%20hill%20st.jpg?itok=z7vLKVj0",
+        "Reason(s) for removal": "Property owner applied for removal permit (785281); tree is blocking sidewalk and parking lane and needs to be removed for the construction of a new driveway, not an ideal street tree due to low branch canopy; will be replaced by property owner",
+        "Posting period": "7/22/2020 - 8/21/2020"
+    },
+    {
+        "title": "1975 - 2399 Market Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Upper%20Market%20pic.png?itok=ogeCFTln",
+        "Reason(s) for removal": "Removals and replacements all part of construction contract for the Upper Marker Street Safety Project led by the SFMTA (https://www.sfmta.com/projects/upper-market-street-safety-project); all trees will be replaced by project.\nClick on this PDF for details.\nFor more information contact Steven Keller: stephen.keller@sfdpw.org, (628) 271-2814\n",
+        "Posting period": "7/24/2020 - 8/23/2020"
     },
     {
         "title": "50 Elsie Street",
