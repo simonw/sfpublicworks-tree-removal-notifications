@@ -1,10 +1,17 @@
 [
     {
-        "title": "273 Pixley Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/273%20pixley.jpg?itok=33SRWXJ-",
-        "Reason(s) for removal": "Property owner applied for removal permit (785524); tree is diseased and dead, has no leaves and hasn't bloomed for the past 18 months; will be replaced",
-        "Posting period": "7/16/2020 - 7/31/2020"
+        "title": "501 Funston Avenue",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/501%20funston%20-%20tree%206.jpg?itok=BgX9UGqk",
+        "Reason(s) for removal": "Advanced canopy decline, fruiting bodies, signs of root decay; will be replaced",
+        "Posting period": "8/3/2020 - 8/18/2020"
+    },
+    {
+        "title": "501 Funston Avenue",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/501%20funston%20-%20tree%208.jpg?itok=ri2aSwZl",
+        "Reason(s) for removal": "Advanced canopy decline, recent large limb failure with decay, included bark in codominant stems; will be replaced",
+        "Posting period": "8/3/2020 - 8/18/2020"
     },
     {
         "title": "2362 Vallejo Street",
@@ -13,6 +20,13 @@
         "Site number": "1",
         "Reason(s) for removal": "In poor condition, fruiting bodies on trunk, decay, BUF previously notified property owner to remove and replace tree, now tree is not stable; will be replaced",
         "Posting period": "7/23/2020 - 8/7/2020"
+    },
+    {
+        "title": "66 Cleary Court",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/66%20cleary.jpg?itok=nU5uJ9wZ",
+        "Reason(s) for removal": "Property owner applied for removal permit (785475); tree is in decline, evidence of insect damage, large, dead, limbs a hang over road and sidewalk; this is a significant tree that will be replaced by the property owner",
+        "Posting period": "8/1/2020 - 9/1/2020"
     },
     {
         "title": "4210 Ocean Avenue",
@@ -36,6 +50,13 @@
         "Posting period": "7/8/2020 - 8/8/2020"
     },
     {
+        "title": "1980 8th Avenue",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1980%208th%20ave.jpg?itok=KnVZg-Z_",
+        "Reason(s) for removal": "Tree failure due to included bark (typical of Liquidambar) caused large section of main stem to be weakened by tear out, tear out now prone to decay, not stable in long term; Foresthill HOA will replant",
+        "Posting period": "7/29/2020 - 8/13/2020"
+    },
+    {
         "title": "439 Hill Street",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/439%20hill%20st.jpg?itok=z7vLKVj0",
@@ -50,10 +71,31 @@
         "Posting period": "7/24/2020 - 8/23/2020"
     },
     {
+        "title": "2001 Market Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2001%20market%20st%20-%20tree%204.jpg?itok=NiV3bhUl",
+        "Reason(s) for removal": "Additional tree proposed for removal in conjunction with Upper Market Street Safety Project led by the SFMTA (https://www.sfmta.com/projects/upper-market-street-safety-project); extreme lean due to wind, structure is not salvageable; will be replaced by project.\nFor more information contact Steven Keller: stephen.keller@sfdpw.org, (628) 271-2814",
+        "Posting period": "7/24/2020 - 8/23/2020"
+    },
+    {
+        "title": "2001 Market Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2001%20market%20st%20-%20tree%205.jpg?itok=tty4BZuX",
+        "Reason(s) for removal": "Additional tree proposed for removal in conjunction with Upper Market Street Safety Project led by the SFMTA (https://www.sfmta.com/projects/upper-market-street-safety-project); extreme lean due to wind, structure is not salvageable; will be replaced by project.\nFor more information contact Steven Keller: stephen.keller@sfdpw.org, (628) 271-2814",
+        "Posting period": "7/24/2020 - 8/23/2020"
+    },
+    {
         "title": "50 Elsie Street",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/50%20elsie.jpg?itok=jNWl7NC2",
         "Reason(s) for removal": "Several neighbors on block requested removal of tree, ficus causing significant sidewalk damage and has poor upper canopy structure; will be replaced in same location",
         "Posting period": "7/15/2020 - 8/14/2020"
+    },
+    {
+        "title": "2585 3rd Street",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2585%203rd%20st.jpg?itok=i24-qXTT",
+        "Reason(s) for removal": "Lean is obstructing sidewalk and pedestrian right-of-way, particularly for vision impaired, pruning will not mitigate lean; will be replaced",
+        "Posting period": "7/30/2020 - 8/30/2020"
     }
 ]
