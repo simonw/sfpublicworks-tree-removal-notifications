@@ -7,11 +7,25 @@
         "Posting period": "11/2/2020 - 12/2/2020"
     },
     {
+        "title": "90X Guy Place",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/90x%20guy%20place.jpg?itok=4qId7CLI",
+        "Reason(s) for removal": "Dead, dangerous or likely to fall and is obstructing existing infrastructure (street light); cannot be replaced due to conflict with underground utilites and proximity to street light",
+        "Posting period": "11/9/2020 - 11/24/2020"
+    },
+    {
         "title": "169 6th Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/169%206th%20st.jpg?itok=gBa6hO63",
         "Reason(s) for removal": "Removal permit for construction (787665); unhealthy tree to be removed for 6th Street Pedestrian Safety Project which will widen sidewalk; removal site will be replaced and another tree planted around the corner on Natoma Street",
         "Posting period": "11/2/2020 - 12/2/2020"
+    },
+    {
+        "title": "80 Pierce Streeet",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/80%20pierce.jpg?itok=rkQPbLzL",
+        "Reason(s) for removal": "99% canopy dieback, decay in branch stubs; will be replaced",
+        "Posting period": "11/9/2020 - 11/24/2020"
     },
     {
         "title": "458 Alvarado Street",
@@ -33,20 +47,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/145%20guerrero.jpg?itok=lGqe4A6d",
         "Reason(s) for removal": "Property owner applied for removal permit (787703); Eucalyptus approved for removal due to significant westerly lean towards Guerrero and damage to fence; replacement tree will be planted somewhere else on the property",
         "Posting period": "10/26/2020 - 11/25/2020"
-    },
-    {
-        "title": "2356 15th Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2356%2015th%20st.jpg?itok=D3swcgAf",
-        "Reason(s) for removal": "Removal and replacement of one ficus tree, significant root pruning is needed to restore sidewalk and repair broken water line; property owner has agreed to plant and water a new tree",
-        "Posting period": "10/5/2020 - 11/4/2020"
-    },
-    {
-        "title": "254 Roosevelt Way",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/254%20roosevelt.jpg?itok=L3NAE4jH",
-        "Reason(s) for removal": "Property owner applied for removal permit (787694); construction of new garage and driveway in location of tree, removal also warranted due to significant amount of sidewalk uplift and required root pruning to fix sidewalk; cannot be replaced due to narrow sidewalk",
-        "Posting period": "10/5/2020 - 11/4/2020"
     },
     {
         "title": "599X Ogden Avenue (598 Banks Street)",
