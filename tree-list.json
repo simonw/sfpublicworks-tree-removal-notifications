@@ -1,5 +1,12 @@
 [
     {
+        "title": "1522 26th Avenue",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1522%2026th%20ave.jpg?itok=VIDPgiiC",
+        "Reason(s) for removal": "Has decay at branch unions, there are no adequate lateral limbs to reduce limb weight, tree will continue to fail and poses hazard for pedestrians and vehicles; will be replaced",
+        "Posting period": "11/16/2020 - 12/1/2020"
+    },
+    {
         "title": "1655 Waller Street",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1655%20waller.jpg?itok=njCoUn0j",
@@ -19,6 +26,13 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/169%206th%20st.jpg?itok=gBa6hO63",
         "Reason(s) for removal": "Removal permit for construction (787665); unhealthy tree to be removed for 6th Street Pedestrian Safety Project which will widen sidewalk; removal site will be replaced and another tree planted around the corner on Natoma Street",
         "Posting period": "11/2/2020 - 12/2/2020"
+    },
+    {
+        "title": "702 Foerster Street",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/702%20foerester.jpg?itok=6qz9kdHJ",
+        "Reason(s) for removal": "Property owner applied for removal permit (786655); foundational damage to be repaired will destabilize tree, tree growing into home structure (roof), owner has flooding due to gaps in foundation where underground creek is eroding home and redwood has tapped into this water source; property owner will replace",
+        "Posting period": "11/16/2020 - 12/16/2020"
     },
     {
         "title": "80 Pierce Streeet",
@@ -49,24 +63,24 @@
         "Posting period": "10/26/2020 - 11/25/2020"
     },
     {
+        "title": "7 Heyman Street",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/7%20heyman.jpg?itok=L0qA8ipY",
+        "Reason(s) for removal": "All residents on block contacted BUF to discuss tree removal, four of six ficus on block were approved for removal due to poor structure (codominant leaders, included bark); residents have committed to help watering reaplcement trees",
+        "Posting period": "11/16/2020 - 12/16/2020"
+    },
+    {
+        "title": "11 Heyman Street",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/11%20heyman.jpg?itok=Vu0H7OkB",
+        "Reason(s) for removal": "All residents on block contacted BUF to discuss tree removal, four of six ficus on block were approved for removal due to poor structure (codominant leaders, included bark); residents have committed to help watering reaplcement trees",
+        "Posting period": "11/16/2020 - 12/16/2020"
+    },
+    {
         "title": "599X Ogden Avenue (598 Banks Street)",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/599x%20ogden%20-%20tree%201.jpg?itok=AA-K6FxR",
         "Reason(s) for removal": "Property owner applied for removal permit (787709) for three trees; date palm on corner too large of a species for confined space, no space for growth, root will eventually damage retaining wall and foundation, and will eventually grow into high voltage powerlines; property owner will replace with a small stature tree. Two queen palms are damaging windows and building facade, and will eventually grow into high voltage power lines;",
         "Posting period": "10/19/2020 - 11/18/2020"
-    },
-    {
-        "title": "1367 De Haro Street",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1367%20de%20haro.jpg?itok=ifykGBQh",
-        "Reason(s) for removal": "Tree has significant lean, which has increased noticeably over the last five years, evidence of previous branch failures over roadway; will be replaced",
-        "Posting period": "10/12/2020 - 11/12/2020"
-    },
-    {
-        "title": "1127 Munich Street",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1127%20munich.jpg?itok=Wow9eqVT",
-        "Reason(s) for removal": "Removal permit for construction (786647); tree is dying and is in poor condition; will be replaced",
-        "Posting period": "10/12/2020 - 11/12/2020"
     }
 ]
