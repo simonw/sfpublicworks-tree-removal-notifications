@@ -1,5 +1,12 @@
 [
     {
+        "title": "3126 Clay Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3126%20clay.jpg?itok=BEih1MVt",
+        "Reason(s) for removal": "Precious branch failure, a vehicle accident has seen the tree lose two of its three remaining main stems, remaining stem is attached with included bark and is structurally unsound, no protection from prevailing wind; not replaceable due to proximity to street light",
+        "Posting period": "11/23/2020 - 12/8/2020"
+    },
+    {
         "title": "1522 26th Avenue",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1522%2026th%20ave.jpg?itok=VIDPgiiC",
@@ -35,18 +42,32 @@
         "Posting period": "11/16/2020 - 12/16/2020"
     },
     {
+        "title": "271 Upper Terrace",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/271%20Upper%20Terr.jpg?itok=dXIbjA07",
+        "Reason(s) for removal": "Removal permit for construction of new building",
+        "Posting period": "11/23/2020 - 12/23/2020"
+    },
+    {
+        "title": "303 Upper Terrace",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/303%20Upper%20Terr.jpg?itok=wxp8W-zE",
+        "Reason(s) for removal": "Removal permit for construction of new building",
+        "Posting period": "11/23/2020 - 12/23/2020"
+    },
+    {
+        "title": "4500 17th Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4500%2017th-2.jpg?itok=gGBWd2XQ",
+        "Reason(s) for removal": "Removal permit for construction of new building (785313); will be replaced, additionally new trees will be planted to maximum capacity given site constraints of utilities, driveways, streetlights etc. around new parcels and buildings",
+        "Posting period": "11/23/2020 - 12/23/2020"
+    },
+    {
         "title": "80 Pierce Streeet",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/80%20pierce.jpg?itok=rkQPbLzL",
         "Reason(s) for removal": "99% canopy dieback, decay in branch stubs; will be replaced",
         "Posting period": "11/9/2020 - 11/24/2020"
-    },
-    {
-        "title": "458 Alvarado Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/458%20alvarado.jpg?itok=OBtCO7KH",
-        "Reason(s) for removal": "Posing immediate stuctural hazard, scaffold branches are supported by support straps, significant decay in lower trunk; will be replaced",
-        "Posting period": "11/2/2020 - 11/17/2020"
     },
     {
         "title": "3751 20th Street",
@@ -77,10 +98,24 @@
         "Posting period": "11/16/2020 - 12/16/2020"
     },
     {
-        "title": "599X Ogden Avenue (598 Banks Street)",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/599x%20ogden%20-%20tree%201.jpg?itok=AA-K6FxR",
-        "Reason(s) for removal": "Property owner applied for removal permit (787709) for three trees; date palm on corner too large of a species for confined space, no space for growth, root will eventually damage retaining wall and foundation, and will eventually grow into high voltage powerlines; property owner will replace with a small stature tree. Two queen palms are damaging windows and building facade, and will eventually grow into high voltage power lines;",
-        "Posting period": "10/19/2020 - 11/18/2020"
+        "title": "1919 Palou Avenue",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1919%20palou.jpg?itok=yf3kyNPx",
+        "Reason(s) for removal": "Permit removal for construction of Palou Streetscape Project (787858); in decline; will be replaced",
+        "Posting period": "11/23/2020 - 12/23/2020"
+    },
+    {
+        "title": "1400 Palou Avenue",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1400%20palou.jpg?itok=2GJN1l3Z",
+        "Reason(s) for removal": "Permit removal for construction of Palou Streetscape Project (787858); in very poor condition; will be replaced",
+        "Posting period": "11/23/2020 - 12/23/2020"
+    },
+    {
+        "title": "401 Orizaba Avenue",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20orizaba.jpg?itok=rILkRzQ_",
+        "Reason(s) for removal": "In very poor condition, growing too close to home, pushing against home, leaning over sidewalk obstructing pedestrian traffic, and roots are uplifting driveway; not replaceable due to proximity to existing infrastructure (house foundation and driveway)",
+        "Posting period": "11/23/2020 - 12/23/2020"
     }
 ]
