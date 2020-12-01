@@ -7,6 +7,20 @@
         "Posting period": "11/23/2020 - 12/8/2020"
     },
     {
+        "title": "2300 Mason Street",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2300%20mason%20-%20tree%203.jpg?itok=zFPZTTgS",
+        "Reason(s) for removal": "Will be wind exposed when tree 4 is removed, has no taper, low live crown ratio, codomimant stems, no laterals to reduce to fix structure due to tall spindly form; will be replaced",
+        "Posting period": "11/30/2020 - 12/15/2020"
+    },
+    {
+        "title": "2300 Mason Street",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2300%20mason%20-%20tree%204.jpg?itok=6ATNoGEh",
+        "Reason(s) for removal": "Old decay and heavy end weight, poor union, old wound wood in old crack, could fail at any moment; can be replaced once basin is shifted away from underground gas line",
+        "Posting period": "11/30/2020 - 12/15/2020"
+    },
+    {
         "title": "1522 26th Avenue",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1522%2026th%20ave.jpg?itok=VIDPgiiC",
@@ -14,18 +28,18 @@
         "Posting period": "11/16/2020 - 12/1/2020"
     },
     {
+        "title": "1453 McAllister Street",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1453%20mcallister.jpg?itok=-AOTHfT3",
+        "Reason(s) for removal": "Property owner applied for removal permit (787796); significant canopy decline, much smaller and less vigorous than neighboring tree of same species and age; property owner to remove and replace",
+        "Posting period": "11/30/2020 - 12/30/2020"
+    },
+    {
         "title": "1655 Waller Street",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1655%20waller.jpg?itok=njCoUn0j",
         "Reason(s) for removal": "Extensive decay in central/major branch union, canopy decline, Bailey's acacia trees have brittle wood making decay in branch union more concerning as it increases likelihood of branch failure; may be replaced depending on underground utility checks",
         "Posting period": "11/2/2020 - 12/2/2020"
-    },
-    {
-        "title": "90X Guy Place",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/90x%20guy%20place.jpg?itok=4qId7CLI",
-        "Reason(s) for removal": "Dead, dangerous or likely to fall and is obstructing existing infrastructure (street light); cannot be replaced due to conflict with underground utilites and proximity to street light",
-        "Posting period": "11/9/2020 - 11/24/2020"
     },
     {
         "title": "169 6th Street",
@@ -38,7 +52,7 @@
         "title": "702 Foerster Street",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/702%20foerester.jpg?itok=6qz9kdHJ",
-        "Reason(s) for removal": "Property owner applied for removal permit (786655); foundational damage to be repaired will destabilize tree, tree growing into home structure (roof), owner has flooding due to gaps in foundation where underground creek is eroding home and redwood has tapped into this water source; property owner will replace",
+        "Reason(s) for removal": "Property owner applied for removal permit (786655); foundational damage to be repaired will destabilize tree, tree growing into home structure (roof), owner has flooding due to gaps in foundation where underground creek is eroding home and redwood has tapped into this water source; property owner to remove and replace",
         "Posting period": "11/16/2020 - 12/16/2020"
     },
     {
@@ -61,27 +75,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4500%2017th-2.jpg?itok=gGBWd2XQ",
         "Reason(s) for removal": "Removal permit for construction of new building (785313); will be replaced, additionally new trees will be planted to maximum capacity given site constraints of utilities, driveways, streetlights etc. around new parcels and buildings",
         "Posting period": "11/23/2020 - 12/23/2020"
-    },
-    {
-        "title": "80 Pierce Streeet",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/80%20pierce.jpg?itok=rkQPbLzL",
-        "Reason(s) for removal": "99% canopy dieback, decay in branch stubs; will be replaced",
-        "Posting period": "11/9/2020 - 11/24/2020"
-    },
-    {
-        "title": "3751 20th Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3751%2020th.jpg?itok=hHejrGvN",
-        "Reason(s) for removal": "Property owner applied for removal permit (787719); tree meets ficus removal criteria; will be replaced",
-        "Posting period": "10/26/2020 - 11/25/2020"
-    },
-    {
-        "title": "145 Guerrero Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/145%20guerrero.jpg?itok=lGqe4A6d",
-        "Reason(s) for removal": "Property owner applied for removal permit (787703); Eucalyptus approved for removal due to significant westerly lean towards Guerrero and damage to fence; replacement tree will be planted somewhere else on the property",
-        "Posting period": "10/26/2020 - 11/25/2020"
     },
     {
         "title": "7 Heyman Street",
