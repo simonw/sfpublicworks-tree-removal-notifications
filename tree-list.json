@@ -1,5 +1,26 @@
 [
     {
+        "title": "834 27th Avenue",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/834%2027th.jpg?itok=AMa_8FBL",
+        "Reason(s) for removal": "Arbutus with very large canker, nearly 50 percent trunk bark is missing and likely close to 50 percent dead wood in trunk, vertical crack, over 5 ft tall; replaceable in set back",
+        "Posting period": "12/7/2020 - 12/22/2020"
+    },
+    {
+        "title": "1868 Greenwich Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1868%20greenwich.jpg?itok=K4HYCNQz",
+        "Reason(s) for removal": "Property owner applied for removal permit (787727); significant tree is close to withinfootprint of new building construction and cannot be preserved, species does not tolerate root pruning and excavation; property owner to pay in-lieu fee for loss of permanent site",
+        "Posting period": "12/7/2020 - 1/6/2021"
+    },
+    {
+        "title": "1240 Lombard Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1240%20lombard.jpg?itok=Tr5J04wy",
+        "Reason(s) for removal": "Property owner applied for removal permit (787860); tree has outgrown space and is damaging property and foundation; replacement not suitable and therefore not required",
+        "Posting period": "12/7/2020 - 1/6/2021"
+    },
+    {
         "title": "3126 Clay Street",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3126%20clay.jpg?itok=BEih1MVt",
@@ -21,11 +42,11 @@
         "Posting period": "11/30/2020 - 12/15/2020"
     },
     {
-        "title": "1522 26th Avenue",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1522%2026th%20ave.jpg?itok=VIDPgiiC",
-        "Reason(s) for removal": "Has decay at branch unions, there are no adequate lateral limbs to reduce limb weight, tree will continue to fail and poses hazard for pedestrians and vehicles; will be replaced",
-        "Posting period": "11/16/2020 - 12/1/2020"
+        "title": "900X Van Ness Avenue (in median)",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/900X%20van%20ness.jpg?itok=rQPYWGLp",
+        "Reason(s) for removal": "Removal permit for construction of Van Ness BRT project (787880); median to be reduced for BRT project, trees will be destabilized by root cutting, excavation will occur with 2.5' from trunk on both sides of trees, bus pad cannot be reduced; will be replaced with Corymbia Citriodora",
+        "Posting period": "12/7/2020 - 1/6/2021"
     },
     {
         "title": "1453 McAllister Street",
@@ -33,20 +54,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1453%20mcallister.jpg?itok=-AOTHfT3",
         "Reason(s) for removal": "Property owner applied for removal permit (787796); significant canopy decline, much smaller and less vigorous than neighboring tree of same species and age; property owner to remove and replace",
         "Posting period": "11/30/2020 - 12/30/2020"
-    },
-    {
-        "title": "1655 Waller Street",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1655%20waller.jpg?itok=njCoUn0j",
-        "Reason(s) for removal": "Extensive decay in central/major branch union, canopy decline, Bailey's acacia trees have brittle wood making decay in branch union more concerning as it increases likelihood of branch failure; may be replaced depending on underground utility checks",
-        "Posting period": "11/2/2020 - 12/2/2020"
-    },
-    {
-        "title": "169 6th Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/169%206th%20st.jpg?itok=gBa6hO63",
-        "Reason(s) for removal": "Removal permit for construction (787665); unhealthy tree to be removed for 6th Street Pedestrian Safety Project which will widen sidewalk; removal site will be replaced and another tree planted around the corner on Natoma Street",
-        "Posting period": "11/2/2020 - 12/2/2020"
     },
     {
         "title": "702 Foerster Street",
