@@ -1,10 +1,17 @@
 [
     {
-        "title": "834 27th Avenue",
+        "title": "140 20th Avenue",
         "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/834%2027th.jpg?itok=AMa_8FBL",
-        "Reason(s) for removal": "Arbutus with very large canker, nearly 50 percent trunk bark missing and likely close to 50 percent dead wood in trunk, vertical crack, over 5 ft tall; replaceable in set back",
-        "Posting period": "12/7/2020 - 12/22/2020"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/140%2020th%20ave.jpg?itok=dqPSRvsk",
+        "Reason(s) for removal": "In decline, large cavity in base of tree so extensive that you can see through the tree's root flare, also being overtaken by neighboring tree; can be replaced, but on south end of property",
+        "Posting period": "12/14/2020 - 12/29/2020"
+    },
+    {
+        "title": "3641 California Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3641%20california.jpg?itok=n4Do3VOi",
+        "Reason(s) for removal": "Removal permit for construction (787838); significant tree that falls within the foortprint of a new mixed use building (housing and commercial space); in-lieu fee will be paid due to loss of permanent planting space and one new tree will be planted at the curb",
+        "Posting period": "12/14/2020 - 1/13/2021"
     },
     {
         "title": "1868 Greenwich Street",
@@ -21,25 +28,46 @@
         "Posting period": "12/7/2020 - 1/6/2021"
     },
     {
-        "title": "3126 Clay Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3126%20clay.jpg?itok=BEih1MVt",
-        "Reason(s) for removal": "Precious branch failure, a vehicle accident has seen the tree lose two of its three remaining main stems, remaining stem is attached with included bark and is structurally unsound, no protection from prevailing wind; not replaceable due to proximity to street light",
-        "Posting period": "11/23/2020 - 12/8/2020"
+        "title": "1351 42nd Ave",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1351%2042nd%20Ave%20seq%202%20Tree%20ID%20183688.jpg?itok=MnJniWF6",
+        "Reason(s) for removal": "Associated with permit 785244. Reasons for removal: All trees in poor condition. BUF will allow developer to remove and replace trees in poor health. Site is being developed into the \"Francis Scott Key Annex Educator Housing\", https://sfmohcd.org/francis-scott-key-annex. BUF denied 14 trees proposed for removal.",
+        "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "2300 Mason Street",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2300%20mason%20-%20tree%203.jpg?itok=zFPZTTgS",
-        "Reason(s) for removal": "Will be wind exposed when tree 4 is removed, has no taper, low live crown ratio, codomimant stems, no laterals to reduce to fix structure due to tall spindly form; will be replaced",
-        "Posting period": "11/30/2020 - 12/15/2020"
+        "title": "1351 42nd Ave",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1351%2042nd%20Ave%20seq%204%20Tree%20ID%20183700.jpg?itok=mBIcN88M",
+        "Reason(s) for removal": "Associated with permit 785244. Reasons for removal: All trees in poor condition. BUF will allow developer to remove and replace trees in poor health. Site is being developed into the \"Francis Scott Key Annex Educator Housing\", https://sfmohcd.org/francis-scott-key-annex. BUF denied 14 trees proposed for removal.",
+        "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "2300 Mason Street",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2300%20mason%20-%20tree%204.jpg?itok=6ATNoGEh",
-        "Reason(s) for removal": "Old decay and heavy end weight, poor union, old wound wood in old crack, could fail at any moment; can be replaced once basin is shifted away from underground gas line",
-        "Posting period": "11/30/2020 - 12/15/2020"
+        "title": "1360 43rd Ave",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1360%2043rd%20St.%20seq%202%20Tree%20ID%2047885.jpg?itok=F3IqFtSb",
+        "Reason(s) for removal": "Associated with permit 785244. Reasons for removal: All trees in poor condition. BUF will allow developer to remove and replace trees in poor health. Site is being developed into the \"Francis Scott Key Annex Educator Housing\", https://sfmohcd.org/francis-scott-key-annex. BUF denied 14 trees proposed for removal.",
+        "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
+        "title": "1360 43rd Ave",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1360%2043rd%20St.%20seq%207%20Tree%20ID%2075807.jpg?itok=LTu0n9PW",
+        "Reason(s) for removal": "Associated with permit 785244. Reasons for removal: All trees in poor condition. BUF will allow developer to remove and replace trees in poor health. Site is being developed into the \"Francis Scott Key Annex Educator Housing\", https://sfmohcd.org/francis-scott-key-annex. BUF denied 14 trees proposed for removal.",
+        "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
+        "title": "1360 43rd Ave",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1360%2043rd%20St.%20seq%2012%20Tree%20ID%2077528.jpg?itok=FABnLoKx",
+        "Reason(s) for removal": "Associated with permit 785244. Reasons for removal: All trees in poor condition. BUF will allow developer to remove and replace trees in poor health. Site is being developed into the \"Francis Scott Key Annex Educator Housing\", https://sfmohcd.org/francis-scott-key-annex. BUF denied 14 trees proposed for removal.",
+        "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
+        "title": "52 Ashbury Street",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/52%20ashbury.jpg?itok=6HuiIPXL",
+        "Reason(s) for removal": "One viable trunk (stem) remaining after several large branch failures in the past two years, amount of damaged tissue existing at similar points around remaining trunk/stem has significantly weakened structural integrity of tree, there are several wounds in the same area around the stem reducing its load bearing capacity, multiple unsealed wounds indicate low vigor, pruning remaining foliage unlikely to mitigate risk and will further stress the tree; will be replaced",
+        "Posting period": "12/14/2020 - 12/29/2020"
     },
     {
         "title": "900X Van Ness Avenue (in median)",
@@ -56,73 +84,59 @@
         "Posting period": "11/30/2020 - 12/30/2020"
     },
     {
+        "title": "1169 Market St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%206%20Tree%20ID%2013998%20Permit%20787866.jpg?itok=l2nwwirL",
+        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
+        "title": "1169 Market St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%208%20Tree%20ID%2014000%20Permit%20787866.jpg?itok=9nmkztSn",
+        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
+        "title": "1169 Market St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%209%20Tree%20ID%2014001%20Permit%20787866.jpg?itok=CkIlZZbq",
+        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
+        "title": "1169 Market St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2010%20Tree%20ID%2014002%20Permit%20787866.jpg?itok=TPqdmfqQ",
+        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
+        "title": "1169 Market St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2011%20Tree%20ID%2014003%20Permit%20787866.jpg?itok=SdZ1HOhi",
+        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
+        "title": "1169 Market St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2012%20Tree%20ID%20200891%20Permit%20787866.jpg?itok=XHss3UJZ",
+        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
+        "title": "1169 Market St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2013%20Tree%20ID%20200892%20Permit%20787866.jpg?itok=tiKJ6GRD",
+        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
         "title": "160 Miraloma Drive",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/160%20miraloma.jpg?itok=Haln3HKT",
         "Reason(s) for removal": "Property owner applied for removal permit (787859); tree is growing right up againt house and rennovations to aging foundation cannot occur without destablizing the tree; may be replaced, inspector still working with property owner",
         "Posting period": "12/7/2020 - 1/6/2021"
-    },
-    {
-        "title": "702 Foerster Street",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/702%20foerester.jpg?itok=6qz9kdHJ",
-        "Reason(s) for removal": "Property owner applied for removal permit (786655); foundational damage to be repaired will destabilize tree, tree growing into home structure (roof), owner has flooding due to gaps in foundation where underground creek is eroding home and redwood has tapped into this water source; property owner to remove and replace",
-        "Posting period": "11/16/2020 - 12/16/2020"
-    },
-    {
-        "title": "271 Upper Terrace",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/271%20Upper%20Terr.jpg?itok=dXIbjA07",
-        "Reason(s) for removal": "Removal permit for construction of new building",
-        "Posting period": "11/23/2020 - 12/23/2020"
-    },
-    {
-        "title": "303 Upper Terrace",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/303%20Upper%20Terr.jpg?itok=wxp8W-zE",
-        "Reason(s) for removal": "Removal permit for construction of new building",
-        "Posting period": "11/23/2020 - 12/23/2020"
-    },
-    {
-        "title": "4500 17th Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4500%2017th-2.jpg?itok=gGBWd2XQ",
-        "Reason(s) for removal": "Removal permit for construction of new building (785313); will be replaced, additionally new trees will be planted to maximum capacity given site constraints of utilities, driveways, streetlights etc. around new parcels and buildings",
-        "Posting period": "11/23/2020 - 12/23/2020"
-    },
-    {
-        "title": "7 Heyman Street",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/7%20heyman.jpg?itok=L0qA8ipY",
-        "Reason(s) for removal": "All residents on block contacted BUF to discuss tree removal, four of six ficus on block were approved for removal due to poor structure (codominant leaders, included bark); residents have committed to help watering reaplcement trees",
-        "Posting period": "11/16/2020 - 12/16/2020"
-    },
-    {
-        "title": "11 Heyman Street",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/11%20heyman.jpg?itok=Vu0H7OkB",
-        "Reason(s) for removal": "All residents on block contacted BUF to discuss tree removal, four of six ficus on block were approved for removal due to poor structure (codominant leaders, included bark); residents have committed to help watering reaplcement trees",
-        "Posting period": "11/16/2020 - 12/16/2020"
-    },
-    {
-        "title": "1919 Palou Avenue",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1919%20palou.jpg?itok=yf3kyNPx",
-        "Reason(s) for removal": "Permit removal for construction of Palou Streetscape Project (787858); in decline; will be replaced",
-        "Posting period": "11/23/2020 - 12/23/2020"
-    },
-    {
-        "title": "1400 Palou Avenue",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1400%20palou.jpg?itok=2GJN1l3Z",
-        "Reason(s) for removal": "Permit removal for construction of Palou Streetscape Project (787858); in very poor condition; will be replaced",
-        "Posting period": "11/23/2020 - 12/23/2020"
-    },
-    {
-        "title": "401 Orizaba Avenue",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20orizaba.jpg?itok=rILkRzQ_",
-        "Reason(s) for removal": "In very poor condition, growing too close to home, pushing against home, leaning over sidewalk obstructing pedestrian traffic, and roots are uplifting driveway; not replaceable due to proximity to existing infrastructure (house foundation and driveway)",
-        "Posting period": "11/23/2020 - 12/23/2020"
     }
 ]
