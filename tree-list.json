@@ -1,17 +1,17 @@
 [
     {
-        "title": "140 20th Avenue",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/140%2020th%20ave.jpg?itok=dqPSRvsk",
-        "Reason(s) for removal": "In decline, large cavity in base of tree so extensive that you can see through the tree's root flare, also being overtaken by neighboring tree; can be replaced, but on south end of property",
-        "Posting period": "12/14/2020 - 12/29/2020"
-    },
-    {
         "title": "3641 California Street",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3641%20california.jpg?itok=n4Do3VOi",
         "Reason(s) for removal": "Removal permit for construction (787838); significant tree that falls within the foortprint of a new mixed use building (housing and commercial space); in-lieu fee will be paid due to loss of permanent planting space and one new tree will be planted at the curb",
         "Posting period": "12/14/2020 - 1/13/2021"
+    },
+    {
+        "title": "2400 Clay Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2400%20Clay%20Street%20tree%20ID%20131104.jpg?itok=IWOufhxI",
+        "Reason(s) for removal": "Tree spotted during regular tree inspection maintenance. Tree has lean. Shows signs of root decay. 90 percent canopy loss. Soil shifts when tree is pushed.",
+        "Posting period": "1/4/2021 - 1/19/2021"
     },
     {
         "title": "1868 Greenwich Street",
@@ -63,25 +63,11 @@
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "52 Ashbury Street",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/52%20ashbury.jpg?itok=6HuiIPXL",
-        "Reason(s) for removal": "One viable trunk (stem) remaining after several large branch failures in the past two years, amount of damaged tissue existing at similar points around remaining trunk/stem has significantly weakened structural integrity of tree, there are several wounds in the same area around the stem reducing its load bearing capacity, multiple unsealed wounds indicate low vigor, pruning remaining foliage unlikely to mitigate risk and will further stress the tree; will be replaced",
-        "Posting period": "12/14/2020 - 12/29/2020"
-    },
-    {
         "title": "900X Van Ness Avenue (in median)",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/900X%20van%20ness.jpg?itok=rQPYWGLp",
         "Reason(s) for removal": "Removal permit for construction of Van Ness BRT project (787880); median to be reduced for BRT project, trees will be destabilized by root cutting, excavation will occur with 2.5' from trunk on both sides of trees, bus pad cannot be reduced; will be replaced with Corymbia Citriodora",
         "Posting period": "12/7/2020 - 1/6/2021"
-    },
-    {
-        "title": "1453 McAllister Street",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1453%20mcallister.jpg?itok=-AOTHfT3",
-        "Reason(s) for removal": "Property owner applied for removal permit (787796); significant canopy decline, much smaller and less vigorous than neighboring tree of same species and age; property owner to remove and replace",
-        "Posting period": "11/30/2020 - 12/30/2020"
     },
     {
         "title": "1169 Market St.",
