@@ -1,17 +1,17 @@
 [
     {
-        "title": "3641 California Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3641%20california.jpg?itok=n4Do3VOi",
-        "Reason(s) for removal": "Removal permit for construction (787838); significant tree that falls within the foortprint of a new mixed use building (housing and commercial space); in-lieu fee will be paid due to loss of permanent planting space and one new tree will be planted at the curb",
-        "Posting period": "12/14/2020 - 1/13/2021"
-    },
-    {
         "title": "2400 Clay Street",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2400%20Clay%20Street%20tree%20ID%20131104.jpg?itok=IWOufhxI",
         "Reason(s) for removal": "Tree spotted during regular tree inspection maintenance. Tree has lean. Shows signs of root decay. 90 percent canopy loss. Soil shifts when tree is pushed.",
         "Posting period": "1/4/2021 - 1/19/2021"
+    },
+    {
+        "title": "3641 California Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3641%20california.jpg?itok=n4Do3VOi",
+        "Reason(s) for removal": "Removal permit for construction (787838); significant tree that falls within the foortprint of a new mixed use building (housing and commercial space); in-lieu fee will be paid due to loss of permanent planting space and one new tree will be planted at the curb",
+        "Posting period": "12/14/2020 - 1/13/2021"
     },
     {
         "title": "1868 Greenwich Street",
@@ -28,38 +28,38 @@
         "Posting period": "12/7/2020 - 1/6/2021"
     },
     {
-        "title": "1351 42nd Ave",
+        "title": "1351 42nd Avenue",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1351%2042nd%20Ave%20seq%202%20Tree%20ID%20183688.jpg?itok=MnJniWF6",
-        "Reason(s) for removal": "Associated with permit 785244. Reasons for removal: All trees in poor condition. BUF will allow developer to remove and replace trees in poor health. Site is being developed into the \"Francis Scott Key Annex Educator Housing\", https://sfmohcd.org/francis-scott-key-annex. BUF denied 14 trees proposed for removal.",
+        "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "1351 42nd Ave",
+        "title": "1351 42nd Avenue",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1351%2042nd%20Ave%20seq%204%20Tree%20ID%20183700.jpg?itok=mBIcN88M",
-        "Reason(s) for removal": "Associated with permit 785244. Reasons for removal: All trees in poor condition. BUF will allow developer to remove and replace trees in poor health. Site is being developed into the \"Francis Scott Key Annex Educator Housing\", https://sfmohcd.org/francis-scott-key-annex. BUF denied 14 trees proposed for removal.",
+        "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "1360 43rd Ave",
+        "title": "1360 43rd Avenue",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1360%2043rd%20St.%20seq%202%20Tree%20ID%2047885.jpg?itok=F3IqFtSb",
-        "Reason(s) for removal": "Associated with permit 785244. Reasons for removal: All trees in poor condition. BUF will allow developer to remove and replace trees in poor health. Site is being developed into the \"Francis Scott Key Annex Educator Housing\", https://sfmohcd.org/francis-scott-key-annex. BUF denied 14 trees proposed for removal.",
+        "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "1360 43rd Ave",
+        "title": "1360 43rd Avenue",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1360%2043rd%20St.%20seq%207%20Tree%20ID%2075807.jpg?itok=LTu0n9PW",
-        "Reason(s) for removal": "Associated with permit 785244. Reasons for removal: All trees in poor condition. BUF will allow developer to remove and replace trees in poor health. Site is being developed into the \"Francis Scott Key Annex Educator Housing\", https://sfmohcd.org/francis-scott-key-annex. BUF denied 14 trees proposed for removal.",
+        "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "1360 43rd Ave",
+        "title": "1360 43rd Avenue",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1360%2043rd%20St.%20seq%2012%20Tree%20ID%2077528.jpg?itok=FABnLoKx",
-        "Reason(s) for removal": "Associated with permit 785244. Reasons for removal: All trees in poor condition. BUF will allow developer to remove and replace trees in poor health. Site is being developed into the \"Francis Scott Key Annex Educator Housing\", https://sfmohcd.org/francis-scott-key-annex. BUF denied 14 trees proposed for removal.",
+        "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
@@ -70,52 +70,52 @@
         "Posting period": "12/7/2020 - 1/6/2021"
     },
     {
-        "title": "1169 Market St.",
+        "title": "1169 Market Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%206%20Tree%20ID%2013998%20Permit%20787866.jpg?itok=l2nwwirL",
-        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "1169 Market St.",
+        "title": "1169 Market Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%208%20Tree%20ID%2014000%20Permit%20787866.jpg?itok=9nmkztSn",
-        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "1169 Market St.",
+        "title": "1169 Market Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%209%20Tree%20ID%2014001%20Permit%20787866.jpg?itok=CkIlZZbq",
-        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "1169 Market St.",
+        "title": "1169 Market Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2010%20Tree%20ID%2014002%20Permit%20787866.jpg?itok=TPqdmfqQ",
-        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "1169 Market St.",
+        "title": "1169 Market Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2011%20Tree%20ID%2014003%20Permit%20787866.jpg?itok=SdZ1HOhi",
-        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "1169 Market St.",
+        "title": "1169 Market Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2012%20Tree%20ID%20200891%20Permit%20787866.jpg?itok=XHss3UJZ",
-        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "1169 Market St.",
+        "title": "1169 Market Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2013%20Tree%20ID%20200892%20Permit%20787866.jpg?itok=tiKJ6GRD",
-        "Reason(s) for removal": "Construction related removal application at 1169 Market St. Permit #787866. 13 trees applied for, 7 trees approved (trees 6, 8-13) and denied 6 (trees 1-5, 7).",
+        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
