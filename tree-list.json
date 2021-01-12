@@ -1,9 +1,16 @@
 [
     {
+        "title": "782 40th Avenue",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/782%2040th%20ave.jpg?itok=X1O0hU4E",
+        "Reason(s) for removal": "Property owner applied for removal permit (787818); dead; will be replaced by property owner as part of permit",
+        "Posting period": "1/11/2021 - 1/26/2021"
+    },
+    {
         "title": "2400 Clay Street",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2400%20Clay%20Street%20tree%20ID%20131104.jpg?itok=IWOufhxI",
-        "Reason(s) for removal": "Tree spotted during regular tree inspection maintenance. Tree has lean. Shows signs of root decay. 90 percent canopy loss. Soil shifts when tree is pushed.",
+        "Reason(s) for removal": "Tree has lean, clear signs of root decay, 90 percent canopy loss, soil shifts when tree is pushed; will be replaced",
         "Posting period": "1/4/2021 - 1/19/2021"
     },
     {
@@ -12,20 +19,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3641%20california.jpg?itok=n4Do3VOi",
         "Reason(s) for removal": "Removal permit for construction (787838); significant tree that falls within the foortprint of a new mixed use building (housing and commercial space); in-lieu fee will be paid due to loss of permanent planting space and one new tree will be planted at the curb",
         "Posting period": "12/14/2020 - 1/13/2021"
-    },
-    {
-        "title": "1868 Greenwich Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1868%20greenwich.jpg?itok=K4HYCNQz",
-        "Reason(s) for removal": "Property owner applied for removal permit (787727); significant tree within footprint of planned new building construction and cannot be preserved, species does not tolerate root pruning and excavation; property owner to pay in-lieu fee for loss of permanent site",
-        "Posting period": "12/7/2020 - 1/6/2021"
-    },
-    {
-        "title": "1240 Lombard Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1240%20lombard.jpg?itok=Tr5J04wy",
-        "Reason(s) for removal": "Property owner applied for removal permit (787860); tree has outgrown space and is damaging property and foundation; replacement not suitable and therefore not required",
-        "Posting period": "12/7/2020 - 1/6/2021"
     },
     {
         "title": "1351 42nd Avenue",
@@ -61,13 +54,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1360%2043rd%20St.%20seq%2012%20Tree%20ID%2077528.jpg?itok=FABnLoKx",
         "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
         "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "900X Van Ness Avenue (in median)",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/900X%20van%20ness.jpg?itok=rQPYWGLp",
-        "Reason(s) for removal": "Removal permit for construction of Van Ness BRT project (787880); median to be reduced for BRT project, trees will be destabilized by root cutting, excavation will occur with 2.5' from trunk on both sides of trees, bus pad cannot be reduced; will be replaced with Corymbia Citriodora",
-        "Posting period": "12/7/2020 - 1/6/2021"
     },
     {
         "title": "1169 Market Street",
@@ -119,10 +105,17 @@
         "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
-        "title": "160 Miraloma Drive",
+        "title": "489 Colon Avenue",
         "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/160%20miraloma.jpg?itok=Haln3HKT",
-        "Reason(s) for removal": "Property owner applied for removal permit (787859); tree is growing right up againt house and rennovations to aging foundation cannot occur without destablizing the tree; may be replaced, inspector still working with property owner",
-        "Posting period": "12/7/2020 - 1/6/2021"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/489%20colon%20ave.jpg?itok=upKIdBRv",
+        "Reason(s) for removal": "Cabling is failing to keep tree intact, crown is thinning, main unions have decay and new cracks are forming, removal or reduction of limbs will eliminate canopy and acacia cannot compartmentalize decay, slowly failing; can be replaced and while it is not adjacent homeowner's responsibility we will ask if they would be willing to water a tree from BUF",
+        "Posting period": "1/11/2021 - 1/26/2021"
+    },
+    {
+        "title": "105 Danvers Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/129%20danvers.jpg?itok=s_BDCSXg",
+        "Reason(s) for removal": "Property owner applied for removal permit (787958); significant root decay, heart rot present in trunk; can be replaced, but site must be shifted south to move 25ft from STOP sign",
+        "Posting period": "1/11/2021 - 1/26/2021"
     }
 ]
