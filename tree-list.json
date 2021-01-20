@@ -1,5 +1,12 @@
 [
     {
+        "title": "500 Arguello Boulevard",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/500%20arguello.jpg?itok=EapHLcpc",
+        "Reason(s) for removal": "Has large five foot vertical cavity, is declining, likely won't survive root pruning required for sidewalk repairs, roots girdled by grate",
+        "Posting period": "1/19/2021 - 2/18/2021"
+    },
+    {
         "title": "782 40th Avenue",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/782%2040th%20ave.jpg?itok=X1O0hU4E",
@@ -7,18 +14,18 @@
         "Posting period": "1/11/2021 - 1/26/2021"
     },
     {
+        "title": "1667 Green Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1667%20green.jpg?itok=U35crvDf",
+        "Reason(s) for removal": "Dead, this is an evergreen species, root pruning required for sewer repair; can be replaced but needs to be shifted six feet East",
+        "Posting period": "1/19/2021 - 2/3/2021"
+    },
+    {
         "title": "2400 Clay Street",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2400%20Clay%20Street%20tree%20ID%20131104.jpg?itok=IWOufhxI",
         "Reason(s) for removal": "Tree has lean, clear signs of root decay, 90 percent canopy loss, soil shifts when tree is pushed; will be replaced",
         "Posting period": "1/4/2021 - 1/19/2021"
-    },
-    {
-        "title": "3641 California Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3641%20california.jpg?itok=n4Do3VOi",
-        "Reason(s) for removal": "Removal permit for construction (787838); significant tree that falls within the foortprint of a new mixed use building (housing and commercial space); in-lieu fee will be paid due to loss of permanent planting space and one new tree will be planted at the curb",
-        "Posting period": "12/14/2020 - 1/13/2021"
     },
     {
         "title": "1351 42nd Avenue",
@@ -103,6 +110,20 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2013%20Tree%20ID%20200892%20Permit%20787866.jpg?itok=tiKJ6GRD",
         "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
         "Posting period": "12/28/2020 - 1/27/2021"
+    },
+    {
+        "title": "2X Miraloma Drive",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2x%20miraloma.jpg?itok=_348UR5c",
+        "Reason(s) for removal": "Declining and structurally problematic given proximity to the pedestrian bridge",
+        "Posting period": "1/19/2021 - 2/18/2021"
+    },
+    {
+        "title": "1987 8th Avenue",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1987%208th%20ave.jpg?itok=wCEy61cQ",
+        "Reason(s) for removal": "Has fungal decay and is 50% dead, upon being monitored for several months its condition worsened, has experienced large limb failure which has weakened the structure and allows for more decay; Forest Hill",
+        "Posting period": "1/19/2021 - 2/3/2021"
     },
     {
         "title": "489 Colon Avenue",
