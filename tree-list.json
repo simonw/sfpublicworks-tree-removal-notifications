@@ -1,5 +1,12 @@
 [
     {
+        "title": "733 Arguello Boulevard",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/733%20arguello.jpg?itok=1ya1xOJd",
+        "Reason(s) for removal": "90 percent canopy decline, has declined steadily for more than three years, decay in large branches and very poor structure; will be replaced",
+        "Posting period": "2/1/2021 - 3/3/2021"
+    },
+    {
         "title": "500 Arguello Boulevard",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/500%20arguello.jpg?itok=EapHLcpc",
@@ -7,11 +14,11 @@
         "Posting period": "1/19/2021 - 2/18/2021"
     },
     {
-        "title": "782 40th Avenue",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/782%2040th%20ave.jpg?itok=X1O0hU4E",
-        "Reason(s) for removal": "Property owner applied for removal permit (787818); dead; will be replaced by property owner as part of permit",
-        "Posting period": "1/11/2021 - 1/26/2021"
+        "title": "2655 Broderick Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2655%20broderick.jpg?itok=E3dC_qBr",
+        "Reason(s) for removal": "Decay evident and widespread, fruiting bodies (mushroom) and missing bark, white rot, declining canopy, has experienced multiple limb failures; will be replaced",
+        "Posting period": "2/1/2021 - 2/16/2021"
     },
     {
         "title": "1667 Green Street",
@@ -19,90 +26,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1667%20green.jpg?itok=U35crvDf",
         "Reason(s) for removal": "Dead, this is an evergreen species, root pruning required for sewer repair; can be replaced but needs to be shifted six feet East",
         "Posting period": "1/19/2021 - 2/3/2021"
-    },
-    {
-        "title": "1351 42nd Avenue",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1351%2042nd%20Ave%20seq%202%20Tree%20ID%20183688.jpg?itok=MnJniWF6",
-        "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1351 42nd Avenue",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1351%2042nd%20Ave%20seq%204%20Tree%20ID%20183700.jpg?itok=mBIcN88M",
-        "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1360 43rd Avenue",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1360%2043rd%20St.%20seq%202%20Tree%20ID%2047885.jpg?itok=F3IqFtSb",
-        "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1360 43rd Avenue",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1360%2043rd%20St.%20seq%207%20Tree%20ID%2075807.jpg?itok=LTu0n9PW",
-        "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1360 43rd Avenue",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1360%2043rd%20St.%20seq%2012%20Tree%20ID%2077528.jpg?itok=FABnLoKx",
-        "Reason(s) for removal": "Removal permit for construction of Francis Scott Key Annex Educator Housing (785244); tree in poor condition; will be replaced; More information:",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1169 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%206%20Tree%20ID%2013998%20Permit%20787866.jpg?itok=l2nwwirL",
-        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1169 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%208%20Tree%20ID%2014000%20Permit%20787866.jpg?itok=9nmkztSn",
-        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1169 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%209%20Tree%20ID%2014001%20Permit%20787866.jpg?itok=CkIlZZbq",
-        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1169 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2010%20Tree%20ID%2014002%20Permit%20787866.jpg?itok=TPqdmfqQ",
-        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1169 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2011%20Tree%20ID%2014003%20Permit%20787866.jpg?itok=SdZ1HOhi",
-        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1169 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2012%20Tree%20ID%20200891%20Permit%20787866.jpg?itok=XHss3UJZ",
-        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
-        "Posting period": "12/28/2020 - 1/27/2021"
-    },
-    {
-        "title": "1169 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1169%20Market%20St.%20seq%2013%20Tree%20ID%20200892%20Permit%20787866.jpg?itok=tiKJ6GRD",
-        "Reason(s) for removal": "Removal permit for construction of residential apartments (787866); fourth phase of Trinity Place development; will be replaced",
-        "Posting period": "12/28/2020 - 1/27/2021"
     },
     {
         "title": "2X Miraloma Drive",
@@ -119,17 +42,17 @@
         "Posting period": "1/19/2021 - 2/3/2021"
     },
     {
-        "title": "489 Colon Avenue",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/489%20colon%20ave.jpg?itok=upKIdBRv",
-        "Reason(s) for removal": "Cabling is failing to keep tree intact, crown is thinning, main unions have decay and new cracks are forming, removal or reduction of limbs will eliminate canopy and acacia cannot compartmentalize decay, slowly failing; can be replaced and while it is not adjacent homeowner's responsibility we will ask if they would be willing to water a tree from BUF",
-        "Posting period": "1/11/2021 - 1/26/2021"
+        "title": "380 Cumberland Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/380%20cumberland.jpg?itok=E2Vm29s1",
+        "Reason(s) for removal": "Property owner applied for removal permit (787960); extreme decline in health with no potentioal for recovery, as time goes on the likelihood of a catastrophic failure will increase; will be replaced",
+        "Posting period": "2/1/2021 - 2/16/2021"
     },
     {
-        "title": "105 Danvers Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/129%20danvers.jpg?itok=s_BDCSXg",
-        "Reason(s) for removal": "Property owner applied for removal permit (787958); significant root decay, heart rot present in trunk; can be replaced, but site must be shifted south to move 25ft from STOP sign",
-        "Posting period": "1/11/2021 - 1/26/2021"
+        "title": "399X Eugenia Avenue (301 Eugenia Avenue)",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/399X%20eugenia.jpg?itok=s-vLc9sJ",
+        "Reason(s) for removal": "Large wound at main branch union, as decay progresse tree will fail; will be replaced",
+        "Posting period": "2/1/2021 - 2/16/2021"
     }
 ]
