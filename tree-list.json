@@ -1,5 +1,12 @@
 [
     {
+        "title": "880 El Camino Del Mar",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/880%20el%20camino.jpg?itok=7Q6jA_D7",
+        "Reason(s) for removal": "Property owner applied for removal permit (787966); three trees are infected with Arbutus Canker which has caused large portions of the trunk to decay and crack, the fungal infection is starting to affect the canopies of the trees, unfortunately there is no treatment to stop the infection; property owner to replace with two magnolias for better spacing, also working with applicant on options for more replacements or adding more permeable sidewalk",
+        "Posting period": "2/8/2021 - 3/10/2021"
+    },
+    {
         "title": "733 Arguello Boulevard",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/733%20arguello.jpg?itok=1ya1xOJd",
@@ -21,13 +28,6 @@
         "Posting period": "2/1/2021 - 2/16/2021"
     },
     {
-        "title": "1667 Green Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1667%20green.jpg?itok=U35crvDf",
-        "Reason(s) for removal": "Dead, this is an evergreen species, root pruning required for sewer repair; can be replaced but needs to be shifted six feet East",
-        "Posting period": "1/19/2021 - 2/3/2021"
-    },
-    {
         "title": "2X Miraloma Drive",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2x%20miraloma.jpg?itok=_348UR5c",
@@ -35,18 +35,18 @@
         "Posting period": "1/19/2021 - 2/18/2021"
     },
     {
-        "title": "1987 8th Avenue",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1987%208th%20ave.jpg?itok=wCEy61cQ",
-        "Reason(s) for removal": "Has fungal decay and is 50% dead, upon being monitored for several months its condition worsened, has experienced large limb failure which has weakened the structure and allows for more decay; Forest Hill",
-        "Posting period": "1/19/2021 - 2/3/2021"
-    },
-    {
         "title": "380 Cumberland Street",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/380%20cumberland.jpg?itok=E2Vm29s1",
         "Reason(s) for removal": "Property owner applied for removal permit (787960); extreme decline in health with no potentioal for recovery, as time goes on the likelihood of a catastrophic failure will increase; will be replaced",
         "Posting period": "2/1/2021 - 2/16/2021"
+    },
+    {
+        "title": "1634 Alabama Street",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1634%20alabama.jpg?itok=4V2eeF8L",
+        "Reason(s) for removal": "Tree is unstable, significant decay at base, high likelihood the tree will fall over within one year if left standing; will be replaced",
+        "Posting period": "2/8/2021 - 2/23/2021"
     },
     {
         "title": "399X Eugenia Avenue (301 Eugenia Avenue)",
