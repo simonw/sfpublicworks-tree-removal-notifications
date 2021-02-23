@@ -28,18 +28,18 @@
         "Posting period": "2/1/2021 - 3/3/2021"
     },
     {
-        "title": "500 Arguello Boulevard",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/500%20arguello.jpg?itok=EapHLcpc",
-        "Reason(s) for removal": "Has large five foot vertical cavity, is declining, likely won't survive root pruning required for sidewalk repairs, roots girdled by grate; can be replaced but needs to be shifted South",
-        "Posting period": "1/19/2021 - 2/18/2021"
+        "title": "1020 Baker Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1020%20baker-whole%20tree.jpg?itok=e4IYBRe0",
+        "Reason(s) for removal": "Tree was planted without a permit as a multistemmed shrub, was planted on top of communication and gas lines, root pruning required for repairs to sidewalk, adjacent wall and walkway are unsustainable, mature size will continue to outgrow space; not replaceable due to utility conflicts and space restrictions",
+        "Posting period": "2/22/2021 - 3/23/2021"
     },
     {
-        "title": "2655 Broderick Street",
+        "title": "2033 Baker Street",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2655%20broderick.jpg?itok=E3dC_qBr",
-        "Reason(s) for removal": "Decay evident and widespread, fruiting bodies (mushroom) and missing bark, white rot, declining canopy, has experienced multiple limb failures; will be replaced",
-        "Posting period": "2/1/2021 - 2/16/2021"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2033%20baker-whole%20tree.jpg?itok=RiEBJgBG",
+        "Reason(s) for removal": "Property owner applied for removal permit (788133); arbutus has fungal symptoms of canker cracking cray patches on trunk and thin canopy, disease is not fault of owner, it is new and attacking Arbutus across the Bay Area; owner wishes to replace with full canopy tree as soon as possible, basin can be expanded to shift tree away from gas lines",
+        "Posting period": "2/22/2021 - 3/9/2021"
     },
     {
         "title": "576 Union Street",
@@ -56,11 +56,11 @@
         "Posting period": "2/16/2021 - 3/3/2021"
     },
     {
-        "title": "2X Miraloma Drive",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2x%20miraloma.jpg?itok=_348UR5c",
-        "Reason(s) for removal": "Declining and structurally problematic given proximity to the pedestrian bridge",
-        "Posting period": "1/19/2021 - 2/18/2021"
+        "title": "966 Dolores Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/966%20dolores-whole%20tree.jpg?itok=dyK0yMND",
+        "Reason(s) for removal": "Significant pocket of decay inside lower portion of trunk extending vertically below ground and up into trunk, visible pocket of decay is at least 1 cubic yard, catastrophic failure is imminent within decade; will be replanted",
+        "Posting period": "2/22/2021 - 3/9/2021"
     },
     {
         "title": "184 Amber Drive",
@@ -70,24 +70,10 @@
         "Posting period": "2/16/2021 - 3/3/2021"
     },
     {
-        "title": "380 Cumberland Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/380%20cumberland.jpg?itok=E2Vm29s1",
-        "Reason(s) for removal": "Property owner applied for removal permit (787960); extreme decline in health with no potentioal for recovery, as time goes on the likelihood of a catastrophic failure will increase; will be replaced",
-        "Posting period": "2/1/2021 - 2/16/2021"
-    },
-    {
         "title": "1634 Alabama Street",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1634%20alabama.jpg?itok=4V2eeF8L",
         "Reason(s) for removal": "Tree is unstable, significant decay at base, high likelihood the tree will fall over within one year if left standing; will be replaced",
         "Posting period": "2/8/2021 - 2/23/2021"
-    },
-    {
-        "title": "399X Eugenia Avenue (301 Eugenia Avenue)",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/399X%20eugenia.jpg?itok=s-vLc9sJ",
-        "Reason(s) for removal": "Large wound at main branch union, as decay progresse tree will fail; will be replaced",
-        "Posting period": "2/1/2021 - 2/16/2021"
     }
 ]
