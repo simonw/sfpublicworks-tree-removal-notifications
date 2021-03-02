@@ -1,5 +1,12 @@
 [
     {
+        "title": "101 Beaumount Avenue",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/101%20beaumount.jpg?itok=JCqE1G9i",
+        "Reason(s) for removal": "Tree suffered large branch failure, decay in remaining stem, presence of multiple fruiting bodies on trunk flare and old branch union, has very extensive decay overall and a cavity in main stem; cannot be replaced due to narrow sidewalk and nearby landscape area's proximity to property",
+        "Posting period": "3/1/2021 - 3/16/2021"
+    },
+    {
         "title": "695 35th Avenue",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/695%2035th%20-%20tree%201.jpg?itok=XdeREwZe",
@@ -68,12 +75,5 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/184%20amber.jpg?itok=iJfix5sX",
         "Reason(s) for removal": "Property owner applied for removal permit (785564); nearly dead, decay present and only green leaves have started browning; cannot be replaced due to narrow sidewalk and presence of underground utilities",
         "Posting period": "2/16/2021 - 3/3/2021"
-    },
-    {
-        "title": "1634 Alabama Street",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1634%20alabama.jpg?itok=4V2eeF8L",
-        "Reason(s) for removal": "Tree is unstable, significant decay at base, high likelihood the tree will fall over within one year if left standing; will be replaced",
-        "Posting period": "2/8/2021 - 2/23/2021"
     }
 ]
