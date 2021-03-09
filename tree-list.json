@@ -7,20 +7,6 @@
         "Posting period": "3/1/2021 - 3/16/2021"
     },
     {
-        "title": "695 35th Avenue",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/695%2035th%20-%20tree%201.jpg?itok=XdeREwZe",
-        "Reason(s) for removal": "Still alive, but extensively decayed, ganoderma fruiting body at base, remaining structure is unsustainable; will be replaced",
-        "Posting period": "2/16/2021 - 3/3/2021"
-    },
-    {
-        "title": "695 35th Avenue",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/695%2035th%20-%20tree%204.jpg?itok=uS4sGd3F",
-        "Reason(s) for removal": "Dead; will be replaced",
-        "Posting period": "2/16/2021 - 3/3/2021"
-    },
-    {
         "title": "880 El Camino Del Mar",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/880%20el%20camino.jpg?itok=7Q6jA_D7",
@@ -28,11 +14,11 @@
         "Posting period": "2/8/2021 - 3/10/2021"
     },
     {
-        "title": "733 Arguello Boulevard",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/733%20arguello.jpg?itok=1ya1xOJd",
-        "Reason(s) for removal": "90 percent canopy decline, has declined steadily for more than three years, decay in large branches and very poor structure; will be replaced",
-        "Posting period": "2/1/2021 - 3/3/2021"
+        "title": "1909 Broderick Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1909%20broderick.jpg?itok=lvVIMPO1",
+        "Reason(s) for removal": "Property owner applied for removal permit (788012); proposed removal for driveway rerouting, construction would require removal of much healthier street tree, attempted topiary on this Pittosporum, structure is poor due to lions tailing, canopy has been systematically reduced, decay in branches, cannot be replaced, property owner to pay appraised in lieu fee of $2,700",
+        "Posting period": "3/8/2021 - 4/7/2021"
     },
     {
         "title": "1020 Baker Street",
@@ -63,11 +49,11 @@
         "Posting period": "2/16/2021 - 3/18/2021"
     },
     {
-        "title": "1615 Sutter Street",
+        "title": "1852 Fell Street",
         "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1615%20sutter.jpg?itok=uSRszam0",
-        "Reason(s) for removal": "One-third to one-half of tree failed and caused tear-out in main stem, failure is at main union therefore compromising structural integrity where other limbs arise from main union, tree has lived bark back of failure, likely to fail if storm brings non-prevailing wind direction, tear-out is so large that tree cannot compartmentalize the wound; will be replaced",
-        "Posting period": "2/16/2021 - 3/3/2021"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1852%20fell.jpg?itok=rgARWVQC",
+        "Reason(s) for removal": "Property owner applied for removal permit (788012); condition is good, despite some evidence of root decay, primary concern is site constraints on trunk and canopy, base of trunk pressing against neighboring staircase; cannot be replaced in exact location, but possibility if small stature replacement to the east in the set back",
+        "Posting period": "3/8/2021 - 4/7/2021"
     },
     {
         "title": "966 Dolores Street",
@@ -77,10 +63,10 @@
         "Posting period": "2/22/2021 - 3/9/2021"
     },
     {
-        "title": "184 Amber Drive",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/184%20amber.jpg?itok=iJfix5sX",
-        "Reason(s) for removal": "Property owner applied for removal permit (785564); nearly dead, decay present and only green leaves have started browning; cannot be replaced due to narrow sidewalk and presence of underground utilities",
-        "Posting period": "2/16/2021 - 3/3/2021"
+        "title": "1666 Wallace Avenue",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1666%20wallace.jpg?itok=9SUyucIC",
+        "Reason(s) for removal": "Significant dry rot in trunk and canopy; may be replaced pending underground utilities check",
+        "Posting period": "3/8/2021 - 4/7/2021"
     }
 ]
