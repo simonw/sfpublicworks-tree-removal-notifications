@@ -1,10 +1,10 @@
 [
     {
-        "title": "101 Beaumount Avenue",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/101%20beaumount.jpg?itok=JCqE1G9i",
-        "Reason(s) for removal": "Tree suffered large branch failure, decay in remaining stem, presence of multiple fruiting bodies on trunk flare and old branch union, has very extensive decay overall and a cavity in main stem; cannot be replaced due to narrow sidewalk and nearby landscape area's proximity to property",
-        "Posting period": "3/1/2021 - 3/16/2021"
+        "title": "2860 Greenwich Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2860%20greenwich.jpg?itok=yb0d-0w5",
+        "Reason(s) for removal": "Property owner applied for removal permit (788126); Extensive decay, branch failures, and fruiting bodies present, these trees were topped many years ago allowing decay to enter into branches and creating poor structure; tree one (1) cannot be replaced due to proximity to gas line, tree two (2) will be replaced",
+        "Posting period": "3/22/2021 - 4/21/2021"
     },
     {
         "title": "1909 Broderick Street",
@@ -28,13 +28,6 @@
         "Posting period": "3/1/2021 - 3/31/2021"
     },
     {
-        "title": "576 Union Street",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/576%20union.jpg?itok=YilQkLvz",
-        "Reason(s) for removal": "Has suffered transplant shock and main trunk has died; will be replaced",
-        "Posting period": "2/16/2021 - 3/18/2021"
-    },
-    {
         "title": "1852 Fell Street",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1852%20fell.jpg?itok=rgARWVQC",
@@ -47,6 +40,27 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/129%20lunado.jpg?itok=L7vgEgfw",
         "Reason(s) for removal": "Property owner applied for removal permit (788168); Cypress on Junipero Serra side of 129 Lunado, has poor structure and roots will be destabilized when repairs to retaining wall and garage door occur, pavement in backyard also requires repair and root pruning is unavoidable as assessed by BUF Staff, past failures caused by decay in poor unions, owner has hired arborists to attempt to mitigate structure but structure is too poor to remedy and cuts are too large to compartmentalize; can be replaced on Lunado frontage which is a 16 ft right-of-way",
         "Posting period": "3/15/2021 - 4/14/2021"
+    },
+    {
+        "title": "313 - 333 Burnett Avenue",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/313-333%20Burnett%20Ave.jpg?itok=ARu1jVa8",
+        "Reason(s) for removal": "Property owner applied for removal permit (788205); six significant trees on private property approved for removal for construction of new building and excavation for new foundation; three to six new trees will be planted in new sidewalk depending on utility alignment; see PDF for more information",
+        "Posting period": "3/22/2021 - 4/21/2021"
+    },
+    {
+        "title": "3944 22nd Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3944%2022nd.jpg?itok=WZMFyrYf",
+        "Reason(s) for removal": "Tree is located inpublic right-of-way, Public Works and adjacent property owner are working together to build new retaining wall, root system will likely be significantly impacted; will be replaced after construction",
+        "Posting period": "3/22/2021 - 4/21/2021"
+    },
+    {
+        "title": "1407 Shafter Avenue",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1407%20shafter.jpg?itok=jJ1die-6",
+        "Reason(s) for removal": "In poor condition, has experienced multiple limb failures, most recent was large limb failure over resident's driveway; will be replaced pending underground utilities check",
+        "Posting period": "3/22/2021 - 4/21/2021"
     },
     {
         "title": "1666 Wallace Avenue",
