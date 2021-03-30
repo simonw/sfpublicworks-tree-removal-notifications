@@ -14,13 +14,6 @@
         "Posting period": "3/8/2021 - 4/7/2021"
     },
     {
-        "title": "1020 Baker Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1020%20baker-whole%20tree.jpg?itok=e4IYBRe0",
-        "Reason(s) for removal": "Tree was planted without a permit as a multistemmed shrub, was planted on top of communication and gas lines, root pruning required for repairs to sidewalk, adjacent wall and walkway are unsustainable, mature size will continue to outgrow space; not replaceable due to utility conflicts and space restrictions",
-        "Posting period": "2/22/2021 - 3/23/2021"
-    },
-    {
         "title": "1245 Jones Street",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1245%20jones.jpg?itok=fXPWd3Ua",
@@ -40,6 +33,20 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/129%20lunado.jpg?itok=L7vgEgfw",
         "Reason(s) for removal": "Property owner applied for removal permit (788168); Cypress on Junipero Serra side of 129 Lunado, has poor structure and roots will be destabilized when repairs to retaining wall and garage door occur, pavement in backyard also requires repair and root pruning is unavoidable as assessed by BUF Staff, past failures caused by decay in poor unions, owner has hired arborists to attempt to mitigate structure but structure is too poor to remedy and cuts are too large to compartmentalize; can be replaced on Lunado frontage which is a 16 ft right-of-way",
         "Posting period": "3/15/2021 - 4/14/2021"
+    },
+    {
+        "title": "4512 23rd Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4512%2023rd%20st.jpg?itok=qstn3eTZ",
+        "Reason(s) for removal": "Propety owner applied for removal permit (788156); to be removed for construction of new building and driveway, tree is in poor condition, is out-shaded by neighboring trees and has poor structure; property owner will replace",
+        "Posting period": "3/29/2021 - 4/28/2021"
+    },
+    {
+        "title": "158 Dolores Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/158%20dolores.jpg?itok=kMepBPuF",
+        "Reason(s) for removal": "80% of canopy is dead; will be replaced",
+        "Posting period": "3/29/2021 - 4/28/2021"
     },
     {
         "title": "313 - 333 Burnett Avenue",
@@ -68,13 +75,5 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1666%20wallace.jpg?itok=9SUyucIC",
         "Reason(s) for removal": "Significant dry rot in trunk and canopy; may be replaced pending underground utilities check",
         "Posting period": "3/8/2021 - 4/7/2021"
-    },
-    {
-        "title": "Clarendon Avenue and Dellbrook Avenue",
-        "district": "Tree Removals by Other City Agencies",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/SFPUC%20Tree%20Removal%20Notification%20-%20Dellbrook%20and%20Clarendon.png?itok=QcLw-51W",
-        "Reason(s) for removal": "Trees will prevent installation of new SFPUC Emergency Firefighting Water System (EFWS) infrastructure; replanting trees on site is not feasible because tree roots would likely damage the Emergency Firefighting Water System (EFWS) pipeline and valve, accordingly, SFPUC will pay in-lieu fee to fund City tree planting",
-        "Posting period": "2/26/2021 - 3/27/2021",
-        "More information": "Stephen Kech, skech@sfwater.org"
     }
 ]
