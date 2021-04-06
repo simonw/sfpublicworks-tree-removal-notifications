@@ -14,13 +14,6 @@
         "Posting period": "3/8/2021 - 4/7/2021"
     },
     {
-        "title": "1245 Jones Street",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1245%20jones.jpg?itok=fXPWd3Ua",
-        "Reason(s) for removal": "Property owner applied for removal permit (787987); fruiting bodies, indicating decay at base of the tree, roots have been cut on the opposite side of the lean; will be replaced",
-        "Posting period": "3/1/2021 - 3/31/2021"
-    },
-    {
         "title": "1852 Fell Street",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1852%20fell.jpg?itok=rgARWVQC",
@@ -33,6 +26,13 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/129%20lunado.jpg?itok=L7vgEgfw",
         "Reason(s) for removal": "Property owner applied for removal permit (788168); Cypress on Junipero Serra side of 129 Lunado, has poor structure and roots will be destabilized when repairs to retaining wall and garage door occur, pavement in backyard also requires repair and root pruning is unavoidable as assessed by BUF Staff, past failures caused by decay in poor unions, owner has hired arborists to attempt to mitigate structure but structure is too poor to remedy and cuts are too large to compartmentalize; can be replaced on Lunado frontage which is a 16 ft right-of-way",
         "Posting period": "3/15/2021 - 4/14/2021"
+    },
+    {
+        "title": "140 Divisadero Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/140%20divisadero.jpg?itok=PgUGcL_L",
+        "Reason(s) for removal": "Property owner applied for removal permit (788220); canopy decline greater than 80 percent, thrips infestation; property owner will replace",
+        "Posting period": "4/5/2021 - 5/4/2021"
     },
     {
         "title": "4512 23rd Street",
