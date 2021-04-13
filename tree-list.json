@@ -7,20 +7,6 @@
         "Posting period": "3/22/2021 - 4/21/2021"
     },
     {
-        "title": "1909 Broderick Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1909%20broderick.jpg?itok=lvVIMPO1",
-        "Reason(s) for removal": "Property owner applied for removal permit (788012); proposed removal for driveway rerouting, construction would require removal of much healthier street tree, attempted topiary on this Pittosporum, structure is poor due to lions tailing, canopy has been systematically reduced, decay in branches, cannot be replaced, property owner to pay appraised in lieu fee of $2,700",
-        "Posting period": "3/8/2021 - 4/7/2021"
-    },
-    {
-        "title": "1852 Fell Street",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1852%20fell.jpg?itok=rgARWVQC",
-        "Reason(s) for removal": "Property owner applied for removal permit (788012); condition is good, despite some evidence of root decay, primary concern is site constraints on trunk and canopy, base of trunk pressing against neighboring staircase; cannot be replaced in exact location, but possibility if small stature replacement to the east in the set back",
-        "Posting period": "3/8/2021 - 4/7/2021"
-    },
-    {
         "title": "129 Lunado Way",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/129%20lunado.jpg?itok=L7vgEgfw",
@@ -63,17 +49,38 @@
         "Posting period": "3/22/2021 - 4/21/2021"
     },
     {
+        "title": "99X Woodward Street (334 14th Street)",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/99X%2034414th%20.png?itok=m4j8S1tW",
+        "Reason(s) for removal": "Property owner applied for removal permit (788125); all seven significant trees are within the footprint of planned new building construction; 10-15 new street trees and landscaping will be planted along all three sidewalk frontages; see PDF for additional information",
+        "Posting period": "4/12/2021 - 5/12/2021"
+    },
+    {
+        "title": "151 Potrero Avenue",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/151%20potrero.jpg?itok=1jAqt393",
+        "Reason(s) for removal": "Property owner applied for removal permit (788172); will suffer significant root and canopy impacts from new construction; project will plant new 1-2 new trees on Potrero Avenue and 8-10 new trees on other frontages",
+        "Posting period": "4/12/2021 - 5/12/2021"
+    },
+    {
+        "title": "151 Potrero Avenue",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/151%20potrero%20-%20tree%202.jpg?itok=NqXY82nJ",
+        "Reason(s) for removal": "Property owner applied for removal permit (788172); has hazardous scaffold branch structure; project will plant new 1-2 new trees on Potrero Avenue and 8-10 new trees on other frontages",
+        "Posting period": "4/12/2021 - 5/12/2021"
+    },
+    {
+        "title": "870 Kansas Street",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/270%20kansas.jpg?itok=tfos5wpl",
+        "Reason(s) for removal": "Property owner applied for removal permit (788049); has several dead limbs and for construction of new curb cutout, driveway and garage; cannot be replaced due to inadequate spacing and underground utility conflicts, property owner will pay loss of planting location fee",
+        "Posting period": "4/12/2021 - 5/12/2021"
+    },
+    {
         "title": "1407 Shafter Avenue",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1407%20shafter.jpg?itok=jJ1die-6",
         "Reason(s) for removal": "In poor condition, has experienced multiple limb failures, most recent was large limb failure over resident's driveway; will be replaced pending underground utilities check",
         "Posting period": "3/22/2021 - 4/21/2021"
-    },
-    {
-        "title": "1666 Wallace Avenue",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1666%20wallace.jpg?itok=9SUyucIC",
-        "Reason(s) for removal": "Significant dry rot in trunk and canopy; may be replaced pending underground utilities check",
-        "Posting period": "3/8/2021 - 4/7/2021"
     }
 ]
