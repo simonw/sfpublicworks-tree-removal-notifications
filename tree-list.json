@@ -1,10 +1,17 @@
 [
     {
-        "title": "2860 Greenwich Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2860%20greenwich.jpg?itok=yb0d-0w5",
-        "Reason(s) for removal": "Property owner applied for removal permit (788126); Extensive decay, branch failures, and fruiting bodies present, these trees were topped many years ago allowing decay to enter into branches and creating poor structure; tree one (1) cannot be replaced due to proximity to gas line, tree two (2) will be replaced",
-        "Posting period": "3/22/2021 - 4/21/2021"
+        "title": "67 Woodland Avenue",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/67%20woodland.jpg?itok=M8qKQ7BK",
+        "Reason(s) for removal": "In decline and has disease, in currently active StreetTreeSF maintenance grid, contractor can remove expeditiously so that property owner can plant replacement tree",
+        "Posting period": "4/26/2021 - 5/11/2021"
+    },
+    {
+        "title": "375 Stonecrest Drive",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/375%20stonecrest.jpg?itok=p0L7HOSF",
+        "Reason(s) for removal": "Has root decay on tension side or opposite side of lean, high likelihood of failure; will be replaced",
+        "Posting period": "4/26/2021 - 5/26/2021"
     },
     {
         "title": "140 Divisadero Street",
@@ -28,18 +35,11 @@
         "Posting period": "3/29/2021 - 4/28/2021"
     },
     {
-        "title": "313 - 333 Burnett Avenue",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/313-333%20Burnett%20Ave.jpg?itok=ARu1jVa8",
-        "Reason(s) for removal": "Property owner applied for removal permit (788205); six significant trees on private property approved for removal for construction of new building and excavation for new foundation; three to six new trees will be planted in new sidewalk depending on utility alignment; see PDF for more information",
-        "Posting period": "3/22/2021 - 4/21/2021"
-    },
-    {
-        "title": "3944 22nd Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3944%2022nd.jpg?itok=WZMFyrYf",
-        "Reason(s) for removal": "Tree is located inpublic right-of-way, Public Works and adjacent property owner are working together to build new retaining wall, root system will likely be significantly impacted; will be replaced after construction",
-        "Posting period": "3/22/2021 - 4/21/2021"
+        "title": "39 Princeton Street",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/39%20princeton.jpg?itok=5Kq5Lodq",
+        "Reason(s) for removal": "Root pruning required to fix driveway and sidewalk will remove too much root mass; property owner is committed to planting and watering replacement tree",
+        "Posting period": "4/26/2021 - 5/26/2021"
     },
     {
         "title": "99X Woodward Street (334 14th Street)",
@@ -68,12 +68,5 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/270%20kansas.jpg?itok=tfos5wpl",
         "Reason(s) for removal": "Property owner applied for removal permit (788049); has several dead limbs and for construction of new curb cutout, driveway and garage; cannot be replaced due to inadequate spacing and underground utility conflicts, property owner will pay loss of planting location fee",
         "Posting period": "4/12/2021 - 5/12/2021"
-    },
-    {
-        "title": "1407 Shafter Avenue",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1407%20shafter.jpg?itok=jJ1die-6",
-        "Reason(s) for removal": "In poor condition, has experienced multiple limb failures, most recent was large limb failure over resident's driveway; will be replaced pending underground utilities check",
-        "Posting period": "3/22/2021 - 4/21/2021"
     }
 ]
