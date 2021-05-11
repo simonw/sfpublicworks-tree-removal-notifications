@@ -1,10 +1,130 @@
 [
     {
+        "title": "380 Market Street",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Pine%20St.jpg?itok=TJTyDfTj",
+        "Site number": "Multiple (4 total)",
+        "Reason(s) for removal": "Removal permit for construction (785615); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "540-550 Market Street",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/540%20Market%20St.jpg?itok=x5CPeQBi",
+        "Site number": "Multiple (4 total)",
+        "Reason(s) for removal": "Removal permit for construction (785618); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted -(https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
         "title": "67 Woodland Avenue",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/67%20woodland.jpg?itok=M8qKQ7BK",
         "Reason(s) for removal": "In decline and has disease, in currently active StreetTreeSF maintenance grid, contractor can remove expeditiously so that property owner can plant replacement tree",
         "Posting period": "4/26/2021 - 5/11/2021"
+    },
+    {
+        "title": "101 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Market%20St.jpg?itok=wo__UFpK",
+        "Site number": "Multiple (4 total)",
+        "Reason(s) for removal": "Removal permit for construction (785612); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "5 Embarcadero",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5%20Embarcadero.JPG?itok=w1gkJc5u",
+        "Site number": "Multiple (3 total)",
+        "Reason(s) for removal": "Removal permit for construction (785610); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "1 California Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20California%20St.jpg?itok=7Z8pgiw3",
+        "Site number": "Multiple (4 total)",
+        "Reason(s) for removal": "Removal permit for construction (785613); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "201 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/215%20Market%20St.jpg?itok=-uRuFqaE",
+        "Site number": "Multiple (2 total)",
+        "Reason(s) for removal": "Removal permit for construction (785614); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "333 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/333%20Market%20St.jpg?itok=ITvIykzN",
+        "Site number": "Multiple (4 total)",
+        "Reason(s) for removal": "Removal permit for construction (785616); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "553-575 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/575%20Market%20St.jpg?itok=GW91dRXW",
+        "Site number": "Multiple (4 total)",
+        "Reason(s) for removal": "Removal permit for construction (785617); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "595 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/595%20Market%20St.jpg?itok=JpCC3S-D",
+        "Site number": "Multiple (3 total)",
+        "Reason(s) for removal": "Removal permit for construction (785619); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "643 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2%20New%20Montgomery.jpg?itok=CpqjM14x",
+        "Site number": "8",
+        "Reason(s) for removal": "Removal permit for construction (785620); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "801-825 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/815%20Market%20St.jpg?itok=Ryt-VNsU",
+        "Site number": "1,3",
+        "Reason(s) for removal": "Removal permit for construction (785621); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "865 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/885%20Market%20St.jpg?itok=q6p8emf-",
+        "Site number": "5,6",
+        "Reason(s) for removal": "Removal permit for construction (785622); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "901 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/901%20Market%20St.jpg?itok=di8dsvK8",
+        "Site number": "Multiple (4 total)",
+        "Reason(s) for removal": "Removal permit for construction (785623); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "1100 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1100%20Market%20St.JPG?itok=yb_lxaZx",
+        "Site number": "Multiple (4 total)",
+        "Reason(s) for removal": "Removal permit for construction (785624); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "1145-1155 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1145%20Market%20St.jpg?itok=pQyCBKNS",
+        "Site number": "Multiple (4 total)",
+        "Reason(s) for removal": "Removal permit for construction (785625); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted (https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
+        "Posting period:": "5/10/2021 - 6/9/2021"
     },
     {
         "title": "375 Stonecrest Drive",
@@ -14,11 +134,12 @@
         "Posting period": "4/26/2021 - 5/26/2021"
     },
     {
-        "title": "140 Divisadero Street",
+        "title": "535 Laidley St.",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/140%20divisadero.jpg?itok=PgUGcL_L",
-        "Reason(s) for removal": "Property owner applied for removal permit (788220); canopy decline greater than 80 percent, thrips infestation; property owner will replace",
-        "Posting period": "4/5/2021 - 5/4/2021"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/535%20Laidley%20Street.jpg?itok=5jRiAE5Q",
+        "Site number": "1",
+        "Reason(s) for removal": "Property owner contacted BUF due to multiple dropped branches. Inspector findings: many dead branches. Decay at main branch union. Replacement dependent on underground utilities.",
+        "Posting period": "5/10/2021 - 6/9/2021"
     },
     {
         "title": "39 Princeton Street",
@@ -54,5 +175,21 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/270%20kansas.jpg?itok=tfos5wpl",
         "Reason(s) for removal": "Property owner applied for removal permit (788049); has several dead limbs and for construction of new curb cutout, driveway and garage; cannot be replaced due to inadequate spacing and underground utility conflicts, property owner will pay loss of planting location fee",
         "Posting period": "4/12/2021 - 5/12/2021"
+    },
+    {
+        "title": "900X Carolina Street (in median)",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/900%20Carolina%20188581%20Chinese%20elm.jpg?itok=DLKvCkIV",
+        "Site number": "Multiple (8 total)",
+        "Reason(s) for removal": "Removal permit for construction (788327); improvement of Carolina Green Space\u2019s \u201cSkyline Terrace\u201d funded by Community Challenge Grants. Trees will be replaced 1:1",
+        "Posting period": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "648 Peru Avenue (Peru Avenue Stairway)",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/648%20Peru%20ave%20177832.jpg?itok=CSesBlFQ",
+        "Site number": "Multiple (12)",
+        "Reason(s) for removal": "Friends of Peru Avenue community organization will replace trees along with the installation of landscaping funded by Community Challenge Grants. Trees will be replaced 1:1",
+        "Posting period": "5/10/2021 - 6/9/2021"
     }
 ]
