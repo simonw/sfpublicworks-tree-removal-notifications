@@ -1,5 +1,13 @@
 [
     {
+        "title": "2691 Green St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2691%20Green%20Street%20trees%201and%202.jpg?itok=UPLb636f",
+        "Site number": "1 and 2",
+        "Reason(s) for removal": "Removal application permit 788363. Thin canopy. Poor condition. Low vigor. With on replacement. Two trees cannot fit given minimum required distanes to utility infrastructure.",
+        "Posting period": "5/17/2021 - 6/16/2021"
+    },
+    {
         "title": "380 Market Street",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Pine%20St.jpg?itok=TJTyDfTj",
@@ -14,13 +22,6 @@
         "Site number": "Multiple (4 total)",
         "Reason(s) for removal": "Removal permit for construction (785618); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project; no replacements will be planted -(https://www.bart.gov/about/planning/sfentrances). Assessed value or standard In-lieu fee (greater of the two vqalues) will be collected if tree is not replaced.",
         "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "67 Woodland Avenue",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/67%20woodland.jpg?itok=M8qKQ7BK",
-        "Reason(s) for removal": "In decline and has disease, in currently active StreetTreeSF maintenance grid, contractor can remove expeditiously so that property owner can plant replacement tree",
-        "Posting period": "4/26/2021 - 5/11/2021"
     },
     {
         "title": "101 Market Street",
@@ -142,6 +143,14 @@
         "Posting period": "5/10/2021 - 6/9/2021"
     },
     {
+        "title": "3757 21st St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3757%2021st%20street.jpg?itok=x8_gN-1x",
+        "Site number": "1",
+        "Reason(s) for removal": "Cormybia ficifolia- Removal associated with a building remodel and new garage, Permit # 788337. The tree is in poor condition. Owner has committed to plant a large stature species, 36 in. box replacement.",
+        "Posting period": "5/17/2021 - 6/16/2021"
+    },
+    {
         "title": "39 Princeton Street",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/39%20princeton.jpg?itok=5Kq5Lodq",
@@ -149,32 +158,20 @@
         "Posting period": "4/26/2021 - 5/26/2021"
     },
     {
-        "title": "99X Woodward Street (334 14th Street)",
+        "title": "222 Winfield Street",
         "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/99X%2034414th%20.png?itok=m4j8S1tW",
-        "Reason(s) for removal": "Property owner applied for removal permit (788125); all seven significant trees are within the footprint of planned new building construction; 10-15 new street trees and landscaping will be planted along all three sidewalk frontages; see PDF for additional information",
-        "Posting period": "4/12/2021 - 5/12/2021"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/222%20Winfield%20Street.jpg?itok=Ty1SKos9",
+        "Site number": "1",
+        "Reason(s) for removal": "Permit # 788139. Significant tree in private property. Advanced decay at base of tree and leaning towards home. Tree has outgrown confined planting space, and may be cracking retaining wall. No replacement.",
+        "Posting period": "5/17/2021 - 6/16/2021"
     },
     {
-        "title": "151 Potrero Avenue",
+        "title": "1056 Carolina St.",
         "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/151%20potrero.jpg?itok=1jAqt393",
-        "Reason(s) for removal": "Property owner applied for removal permit (788172); will suffer significant root and canopy impacts from new construction; project will plant new 1-2 new trees on Potrero Avenue and 8-10 new trees on other frontages",
-        "Posting period": "4/12/2021 - 5/12/2021"
-    },
-    {
-        "title": "151 Potrero Avenue",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/151%20potrero%20-%20tree%202.jpg?itok=NqXY82nJ",
-        "Reason(s) for removal": "Property owner applied for removal permit (788172); has hazardous scaffold branch structure; project will plant new 1-2 new trees on Potrero Avenue and 8-10 new trees on other frontages",
-        "Posting period": "4/12/2021 - 5/12/2021"
-    },
-    {
-        "title": "870 Kansas Street",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/270%20kansas.jpg?itok=tfos5wpl",
-        "Reason(s) for removal": "Property owner applied for removal permit (788049); has several dead limbs and for construction of new curb cutout, driveway and garage; cannot be replaced due to inadequate spacing and underground utility conflicts, property owner will pay loss of planting location fee",
-        "Posting period": "4/12/2021 - 5/12/2021"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1056%20Carolina%20Street.JPG?itok=E5mig6QC",
+        "Site number": "Significant Tree",
+        "Reason(s) for removal": "Permit # 788351. Home owners have produced bills from two previous sewer repairs siting tree roots as the causal agent. Significant tree growing directly over sewer, gas, and water utilities. No replacement.",
+        "Posting period": "5/17/2021 - 6/16/2021"
     },
     {
         "title": "900X Carolina Street (in median)",
@@ -191,5 +188,10 @@
         "Site number": "Multiple (12)",
         "Reason(s) for removal": "Friends of Peru Avenue community organization will replace trees along with the installation of landscaping funded by Community Challenge Grants. Trees will be replaced 1:1",
         "Posting period": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "Clarendon Ave. and Dellbrook Ave.",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": null
     }
 ]
