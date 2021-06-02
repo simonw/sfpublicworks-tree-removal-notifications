@@ -8,6 +8,13 @@
         "Posting period": "5/17/2021 - 6/16/2021"
     },
     {
+        "title": "150 Bay Street",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/150%20bay%20st.jpg?itok=k6lJZ9Nn",
+        "Reason(s) for removal": "Property owner applied for removal permit (788369); dying, very thin; replacement dependent on underground utilities check, also possibly on PUC property (approx 12' back of sidewalk from curb face) which will require permission before replacing",
+        "Posting period": "6/1/2021 - 6/16/2021"
+    },
+    {
         "title": "380 Market Street",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Pine%20St.jpg?itok=TJTyDfTj",
@@ -127,13 +134,6 @@
         "Posting period:": "5/10/2021 - 6/9/2021"
     },
     {
-        "title": "375 Stonecrest Drive",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/375%20stonecrest.jpg?itok=p0L7HOSF",
-        "Reason(s) for removal": "Has root decay on tension side or opposite side of lean, high likelihood of failure; will be replaced",
-        "Posting period": "4/26/2021 - 5/26/2021"
-    },
-    {
         "title": "3757 21st Street",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3757%2021st%20street.jpg?itok=x8_gN-1x",
@@ -150,19 +150,19 @@
         "Posting period": "5/10/2021 - 6/9/2021"
     },
     {
+        "title": "609 Moultrie Street",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/609%20moultrie.jpg?itok=4NvBJy-8",
+        "Reason(s) for removal": "Property owner applied for removal permit (788390); for construction of new house and driveway, tree is in poor condition, has evidence of trunk and root rot; will not be replaced due to narrow sidewalk, property owner will pay in-lieu fee",
+        "Posting period": "6/1/2021 - 7/1/2021"
+    },
+    {
         "title": "222 Winfield Street",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/222%20Winfield%20Street.jpg?itok=Ty1SKos9",
         "Site number": "1",
         "Reason(s) for removal": "Property owner applied for removal permit (788139); significant tree on private property, advanced decay at base of tree and leaning towards home, has outgrown confined planting space and may be cracking retaining wall; will not be replaced due to space limitations",
         "Posting period": "5/17/2021 - 6/16/2021"
-    },
-    {
-        "title": "39 Princeton Street",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/39%20princeton.jpg?itok=5Kq5Lodq",
-        "Reason(s) for removal": "Root pruning required to fix driveway and sidewalk will remove too much root mass; property owner is committed to planting and watering replacement tree",
-        "Posting period": "4/26/2021 - 5/26/2021"
     },
     {
         "title": "1056 Carolina Street",
@@ -179,6 +179,14 @@
         "Site number": "Multiple (8 total)",
         "Reason(s) for removal": "Removal permit for construction (788327); improvement of Carolina Green Space\u2019s \u201cSkyline Terrace\u201d funded by Community Challenge Grants; trees will be replaced 1:1",
         "Posting period": "5/10/2021 - 6/9/2021"
+    },
+    {
+        "title": "39 Santa Rosa Avenue",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/39%20santa%20rosa%20ave.jpg?itok=ES06omte",
+        "Site number": "1",
+        "Reason(s) for removal": "Removal permit for construction (788256); significant tree in footprint of building cannot be replaced by another significant tree, appraised value of $6,200 to be paid; new building will then separately trigger required new street tree planting and/or in-lieu fees",
+        "Posting period": "6/1/2021 - 7/1/2021"
     },
     {
         "title": "648 Peru Avenue (Peru Avenue Stairway)",
