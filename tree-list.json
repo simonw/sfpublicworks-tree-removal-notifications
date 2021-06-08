@@ -8,13 +8,6 @@
         "Posting period": "5/17/2021 - 6/16/2021"
     },
     {
-        "title": "150 Bay Street",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/150%20bay%20st.jpg?itok=k6lJZ9Nn",
-        "Reason(s) for removal": "Property owner applied for removal permit (788369); dying, very thin; replacement dependent on underground utilities check, also possibly on PUC property (approx 12' back of sidewalk from curb face) which will require permission before replacing",
-        "Posting period": "6/1/2021 - 6/16/2021"
-    },
-    {
         "title": "380 Market Street",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Pine%20St.jpg?itok=TJTyDfTj",
@@ -200,16 +193,16 @@
         "title": "1032-1034 Ashbury Street",
         "district": "Tree Removals by Other City Agencies",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/SFPUC%20Removal%20Notice%20Ashbury.png?itok=xjOjCxOu",
-        "Site number": "1",
-        "Notice of Tree Removal Public Hearing:": "",
+        "Number of Trees": "1",
+        "Reason(s) for Removal:": "",
         "Posting period": "5/24/2021 - 6/22/2021"
     },
     {
-        "title": "Clarendon Avenue and Dellbrook Avenue Public Hearing Notice",
+        "title": "Clarendon Avenue and Dellbrook Avenue Public Hearing Notice - Updated",
         "district": "Tree Removals by Other City Agencies",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/SFPUC%20Public%20Hearing%20screenshot.png?itok=36IP8JmD",
-        "Site number": "Multiple (16 total)",
-        "Notice of Tree Removal Public Hearing:": " June 3, 2021, 10 a.m. - 11 a.m. by San Francisco Public Utilities Commission (SFPUC); Watch the meeting live: https://bluejeans.com/478172980/",
-        "Posting period": "5/19/2021 - 6/3/2021"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/SFPUC%20Updated%20Public%20Hearing%20screenshot.png?itok=jnv21Tdb",
+        "Number of Trees": "Multiple (16 total)",
+        "Notice of Tree Removal Public Hearing:": " June 9, 2021, 2 p.m. by San Francisco Public Utilities Commission (SFPUC); Watch the meeting live: https://bluejeans.com/997887426?src=join_info",
+        "Posting period": "6/1/2021 - 6/9/2021"
     }
 ]
