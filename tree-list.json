@@ -1,208 +1,41 @@
 [
     {
-        "title": "2691 Green Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2691%20Green%20Street%20trees%201and%202.jpg?itok=UPLb636f",
-        "Site number": "1 and 2",
-        "Reason(s) for removal": "Property owner applied for removal permit (788363); thin canopy, poor condition, low vigor; will be replaced with just one tree due to minimum distance requirement adjacent to utility infrastructure",
-        "Posting period": "5/17/2021 - 6/16/2021"
+        "title": "462 11th Avenue",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/462%2011th%20ave.jpg?itok=9hUzTMet",
+        "Reason(s) for removal": "Required sewer repair will destabilize tree; will be replaced by property owner, replacement location in front of 456 11th Avenue",
+        "Posting period": "7/26/2021 - 8/25/2021"
     },
     {
-        "title": "380 Market Street",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Pine%20St.jpg?itok=TJTyDfTj",
-        "Site number": "Multiple (4 total)",
-        "Reason(s) for removal": "Removal permit for construction (785615); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "540-550 Market Street",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/540%20Market%20St.jpg?itok=x5CPeQBi",
-        "Site number": "Multiple (4 total)",
-        "Reason(s) for removal": "Removal permit for construction (785618); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "101 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Market%20St.jpg?itok=wo__UFpK",
-        "Site number": "Multiple (4 total)",
-        "Reason(s) for removal": "Removal permit for construction (785612); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "2X Market Street (5 Embarcadero)",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5%20Embarcadero.JPG?itok=w1gkJc5u",
-        "Site number": "Multiple (3 total)",
-        "Reason(s) for removal": "Removal permit for construction (785610); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "200X Market Street (1 California Street)",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20California%20St.jpg?itok=7Z8pgiw3",
-        "Site number": "Multiple (4 total)",
-        "Reason(s) for removal": "Removal permit for construction (785613); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "201 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/215%20Market%20St.jpg?itok=-uRuFqaE",
-        "Site number": "Multiple (2 total)",
-        "Reason(s) for removal": "Removal permit for construction (785614); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "333 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/333%20Market%20St.jpg?itok=ITvIykzN",
-        "Site number": "Multiple (4 total)",
-        "Reason(s) for removal": "Removal permit for construction (785616); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "553-575 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/575%20Market%20St.jpg?itok=GW91dRXW",
-        "Site number": "Multiple (4 total)",
-        "Reason(s) for removal": "Removal permit for construction (785617); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "595 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/595%20Market%20St.jpg?itok=JpCC3S-D",
-        "Site number": "Multiple (3 total)",
-        "Reason(s) for removal": "Removal permit for construction (785619); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "643 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2%20New%20Montgomery.jpg?itok=CpqjM14x",
-        "Site number": "8",
-        "Reason(s) for removal": "Removal permit for construction (785620); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected"
-    },
-    {
-        "title": "801-825 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/815%20Market%20St.jpg?itok=Ryt-VNsU",
-        "Site number": "1,3",
-        "Reason(s) for removal": "Removal permit for construction (785621); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "865 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/885%20Market%20St.jpg?itok=q6p8emf-",
-        "Site number": "5,6",
-        "Reason(s) for removal": "Removal permit for construction (785622); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "901 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/901%20Market%20St.jpg?itok=di8dsvK8",
-        "Site number": "Multiple (4 total)",
-        "Reason(s) for removal": "Removal permit for construction (785623); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "1150X Market Street (1100 Market Street)",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1100%20Market%20St.JPG?itok=yb_lxaZx",
-        "Site number": "Multiple (4 total)",
-        "Reason(s) for removal": "Removal permit for construction (785624); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "1145-1155 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1145%20Market%20St.jpg?itok=pQyCBKNS",
-        "Site number": "Multiple (4 total)",
-        "Reason(s) for removal": "Removal permit for construction (785625); construction of all new canopy entrances along Market Street Bart stations as a part of the BART Market Street Canopies Project (https://www.bart.gov/about/planning/sfentrances); no replacements will be planted, assessed value or standard In-lieu fee (greater of the two values) will be collected",
-        "Posting period:": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "3757 21st Street",
+        "title": "2720 Diamond Street",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3757%2021st%20street.jpg?itok=x8_gN-1x",
-        "Site number": "1",
-        "Reason(s) for removal": "Property owner applied for removal permit (788337); Cormybia ficifolia is in poor condition, removal associated with a building remodel and new garage; property owner has committed to plant a large stature species replacement, 36in box",
-        "Posting period": "5/17/2021 - 6/16/2021"
-    },
-    {
-        "title": "535 Laidley Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/535%20Laidley%20Street.jpg?itok=5jRiAE5Q",
-        "Site number": "1",
-        "Reason(s) for removal": "Property owner contacted BUF due to multiple dropped branches, inspector found many dead branches and decay at main branch union; replacement dependent on underground utilities check",
-        "Posting period": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "609 Moultrie Street",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/609%20moultrie.jpg?itok=4NvBJy-8",
-        "Reason(s) for removal": "Property owner applied for removal permit (788390); for construction of new house and driveway, tree is in poor condition, has evidence of trunk and root rot; will not be replaced due to narrow sidewalk, property owner will pay in-lieu fee",
-        "Posting period": "6/1/2021 - 7/1/2021"
-    },
-    {
-        "title": "222 Winfield Street",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/222%20Winfield%20Street.jpg?itok=Ty1SKos9",
-        "Site number": "1",
-        "Reason(s) for removal": "Property owner applied for removal permit (788139); significant tree on private property, advanced decay at base of tree and leaning towards home, has outgrown confined planting space and may be cracking retaining wall; will not be replaced due to space limitations",
-        "Posting period": "5/17/2021 - 6/16/2021"
-    },
-    {
-        "title": "1056 Carolina Street",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1056%20Carolina%20Street.JPG?itok=E5mig6QC",
-        "Site number": "1",
-        "Reason(s) for removal": "Property owner applied for removal permit (788351); significant tree growing directly over sewer, gas, and water utilities, home owners have produced bills from two previous sewer repairs citing tree roots as the causal agent; will not be replaced due to multiple utility conflicts",
-        "Posting period": "5/17/2021 - 6/16/2021"
-    },
-    {
-        "title": "900X Carolina Street (in median)",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/900%20Carolina%20188581%20Chinese%20elm.jpg?itok=DLKvCkIV",
-        "Site number": "Multiple (8 total)",
-        "Reason(s) for removal": "Removal permit for construction (788327); improvement of Carolina Green Space\u2019s \u201cSkyline Terrace\u201d funded by Community Challenge Grants; trees will be replaced 1:1",
-        "Posting period": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "39 Santa Rosa Avenue",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/39%20santa%20rosa%20ave.jpg?itok=ES06omte",
-        "Site number": "1",
-        "Reason(s) for removal": "Removal permit for construction (788256); significant tree in footprint of building cannot be replaced by another significant tree, appraised value of $6,200 to be paid; new building will then separately trigger required new street tree planting and/or in-lieu fees",
-        "Posting period": "6/1/2021 - 7/1/2021"
-    },
-    {
-        "title": "648 Peru Avenue (Peru Avenue Stairway)",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/648%20Peru%20ave%20177832.jpg?itok=CSesBlFQ",
-        "Site number": "Multiple (12 total)",
-        "Reason(s) for removal": "Friends of Peru Avenue community organization will replace trees along with the installation of landscaping funded by Community Challenge Grants, trees will be replaced 1:1",
-        "Posting period": "5/10/2021 - 6/9/2021"
-    },
-    {
-        "title": "1032-1034 Ashbury Street",
-        "district": "Tree Removals by Other City Agencies",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/SFPUC%20Removal%20Notice%20Ashbury.png?itok=xjOjCxOu",
-        "Number of Trees": "1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2720%20diamond.jpg?itok=ZudJ5-Vl",
+        "Site Number": "1",
         "Reason(s) for Removal:": "",
-        "Posting period": "5/24/2021 - 6/22/2021"
+        "Posting period": "8/16/2021 - 8/31/2021"
     },
     {
-        "title": "Clarendon Avenue and Dellbrook Avenue Public Hearing Notice - Updated",
-        "district": "Tree Removals by Other City Agencies",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/SFPUC%20Updated%20Public%20Hearing%20screenshot.png?itok=jnv21Tdb",
-        "Number of Trees": "Multiple (16 total)",
-        "Notice of Tree Removal Public Hearing:": " June 9, 2021, 2 p.m. by San Francisco Public Utilities Commission (SFPUC); Watch the meeting live: https://bluejeans.com/997887426?src=join_info",
-        "Posting period": "6/1/2021 - 6/9/2021"
+        "title": "70X High Street (on hillside)",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/70%20high.jpg?itok=Y3Hj28IX",
+        "Site number": "1",
+        "Reason(s) for removal": "Lean and bend of tree has visibly increased and remained uncorrected over last five years, poor taper on the compression side, presence of bark beetles which will cause tree to die, should be removed before rain saturates slope and due to tendency for pines to fail; will be replaced with native tree if adjacent owner agrees to water",
+        "Posting period": "7/26/2021 - 8/25/2021"
+    },
+    {
+        "title": "401X Mission Rock Street (98 Mission Rock Street)",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20mission%20rock.jpg?itok=M0NUWAiF",
+        "Site number": "1",
+        "Reason(s) for removal": "Removal permit for construction (788713); removal of this tree is required to install an underground PG&E line that will replace an existing PG&E overhead line that is currently obstructing the ability to complete the new five-acre China Basin Park on the waterfront across from Oracle Park. This park will contain approximately 150 new trees. Contractor will attempt to replant/re-establish this tree near its current location, specifically to the west approximately 5\u2019. More information on the Mission Rock Development and China Basin Park can be found here: https://missionrock.com/a-shared-vision/",
+        "Posting period": "8/9/2021 - 9/8/2021"
+    },
+    {
+        "title": "1400 Tennessee Street",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1301%20minnestoa.jpg?itok=ccwoCs6n",
+        "Site Number": "35",
+        "Reason(s) for Removal:": "",
+        "Posting period": "8/2/2021 - 9/1/2021"
     }
 ]
