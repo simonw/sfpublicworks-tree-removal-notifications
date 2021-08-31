@@ -1,10 +1,33 @@
 [
     {
-        "title": "462 11th Avenue",
+        "title": "534 11th Avenue",
         "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/462%2011th%20ave.jpg?itok=9hUzTMet",
-        "Reason(s) for removal": "Required sewer repair will destabilize tree; will be replaced by property owner, replacement location in front of 456 11th Avenue",
-        "Posting period": "7/26/2021 - 8/25/2021"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/534%2011th%20ave%20-%20tree%201.jpg?itok=1dyZN34C",
+        "Reason(s) for removal": "Property owner applied for removal permit (788366); garage extension widening into tree 1, tree 2 is on top of sewer which cannot be accessed, addition to the home also triggers tree planting however, there is no room for a street tree due to utilies and proximity to neighboring tree; total of three in-lieu fees to be paid (for loss of tree 1 and tree 2, and for new tree that cannot be planted)",
+        "Posting period": "8/20/2021 - 9/29/2021"
+    },
+    {
+        "title": "95 Brady Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/95%20brady.jpg?itok=akamEV3m",
+        "Reason(s) for removal": "Dying. desiccated; will be replaced unless underground utilities are found",
+        "Posting period": "8/20/2021 - 9/14/2021"
+    },
+    {
+        "title": "530 Valley Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/530%20valley%20house.jpg?itok=ltRQ-4mD",
+        "Site number": "1",
+        "Reason(s) for removal": "Tree has severe lean to property side, root flair damage and cambium death on steet side, evidence of fungal infection as indicated by white fruiting body at base of tree, significant sidewalk damage; will be replaced",
+        "Posting period": "8/30/2021 - 9/29/2021"
+    },
+    {
+        "title": "2119 Castro Street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2119%20castro%20st.jpg?itok=ZxAHy9i6",
+        "Site Number": "1",
+        "Reason(s) for Removal:": "",
+        "Posting period": "8/30/2021 - 9/29/2021"
     },
     {
         "title": "2720 Diamond Street",
@@ -13,14 +36,6 @@
         "Site Number": "1",
         "Reason(s) for Removal:": "",
         "Posting period": "8/16/2021 - 8/31/2021"
-    },
-    {
-        "title": "70X High Street (on hillside)",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/70%20high.jpg?itok=Y3Hj28IX",
-        "Site number": "1",
-        "Reason(s) for removal": "Lean and bend of tree has visibly increased and remained uncorrected over last five years, poor taper on the compression side, presence of bark beetles which will cause tree to die, should be removed before rain saturates slope and due to tendency for pines to fail; will be replaced with native tree if adjacent owner agrees to water",
-        "Posting period": "7/26/2021 - 8/25/2021"
     },
     {
         "title": "401X Mission Rock Street (98 Mission Rock Street)",
