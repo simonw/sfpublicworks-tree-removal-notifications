@@ -7,6 +7,14 @@
         "Posting period": "8/20/2021 - 9/29/2021"
     },
     {
+        "title": "411 Turk Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/411%20turk.jpg?itok=tqdN-6Zz",
+        "Site Number": "1",
+        "Reason(s) for Removal:": "",
+        "Posting period": "9/7/2021 - 9/22/2021"
+    },
+    {
         "title": "95 Brady Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/95%20brady.jpg?itok=akamEV3m",
@@ -30,27 +38,11 @@
         "Posting period": "8/30/2021 - 9/29/2021"
     },
     {
-        "title": "2720 Diamond Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2720%20diamond.jpg?itok=ZudJ5-Vl",
-        "Site Number": "1",
-        "Reason(s) for Removal:": "",
-        "Posting period": "8/16/2021 - 8/31/2021"
-    },
-    {
         "title": "401X Mission Rock Street (98 Mission Rock Street)",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20mission%20rock.jpg?itok=M0NUWAiF",
         "Site number": "1",
         "Reason(s) for removal": "Removal permit for construction (788713); removal of this tree is required to install an underground PG&E line that will replace an existing PG&E overhead line that is currently obstructing the ability to complete the new five-acre China Basin Park on the waterfront across from Oracle Park. This park will contain approximately 150 new trees. Contractor will attempt to replant/re-establish this tree near its current location, specifically to the west approximately 5\u2019. More information on the Mission Rock Development and China Basin Park can be found here: https://missionrock.com/a-shared-vision/",
         "Posting period": "8/9/2021 - 9/8/2021"
-    },
-    {
-        "title": "1400 Tennessee Street",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1301%20minnestoa.jpg?itok=ccwoCs6n",
-        "Site Number": "35",
-        "Reason(s) for Removal:": "",
-        "Posting period": "8/2/2021 - 9/1/2021"
     }
 ]
