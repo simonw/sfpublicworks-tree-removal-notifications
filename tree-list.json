@@ -7,19 +7,55 @@
         "Posting period": "8/20/2021 - 9/29/2021"
     },
     {
+        "title": "84 Commonwealth Avenue",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/84%20Commonwealth%20Avenue%20seq%203.jpg?itok=0-WoSLyj",
+        "Site number": "3",
+        "Reason(s) for removal": "Removal application Number (788625) underground tank removal for environmental remediation. no replacement",
+        "Posting period": "9/20/2021 - 10/20/2021"
+    },
+    {
+        "title": "509 Ashbury Street",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/509%20Ashbury%20Street.jpg?itok=K6oJF94l"
+    },
+    {
+        "title": "661 Clayton Street",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/661%20Clayton%20Street.jpg?itok=AZ5va9wK"
+    },
+    {
+        "title": "711 Clayton Street",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/711%20Clayton%20street.jpg?itok=vBQfjVX5"
+    },
+    {
+        "title": "110 Frederick Street",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/110%20Frederick%20street.jpg?itok=M9jqavy8"
+    },
+    {
+        "title": "1317 Haight Street",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1317%20Haight%20Street.jpg?itok=a4EkY7g7"
+    },
+    {
+        "title": "1365 Haight Street",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1365%20Haight%20Street.jpg?itok=l41HtFbs"
+    },
+    {
+        "title": "1400 Masonic Avenue",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1400%20Masonic%20Avenue.jpg?itok=-ZhnA7lt"
+    },
+    {
         "title": "411 Turk Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/411%20turk.jpg?itok=tqdN-6Zz",
         "Site Number": "1",
         "Reason(s) for Removal:": "",
         "Posting period": "9/7/2021 - 9/22/2021"
-    },
-    {
-        "title": "95 Brady Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/95%20brady.jpg?itok=akamEV3m",
-        "Reason(s) for removal": "Dying. desiccated; will be replaced unless underground utilities are found",
-        "Posting period": "8/20/2021 - 9/14/2021"
     },
     {
         "title": "530 Valley Street",
@@ -44,5 +80,20 @@
         "Site number": "1",
         "Reason(s) for removal": "Property owner applied for removal permit (788482); tree proposed for removal due to construction of a new driveway, garage and curb cut already exist from original building construction; no replacement due to site constraints, property owner will pay in-lieu fee",
         "Posting period": "9/13/2021 - 10/13/2021"
+    },
+    {
+        "title": "151 Mendell St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/151%20Mendell%20street.jpg?itok=A7Q5jV1G"
+    },
+    {
+        "title": "500 Mendell St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/500%20Mendell%20street.jpg?itok=e0meynN7"
+    },
+    {
+        "title": "621 Mendell St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/621%20Mendell%20Street.jpg?itok=JgjdItQO"
     }
 ]
