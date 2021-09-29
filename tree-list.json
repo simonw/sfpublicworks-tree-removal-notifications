@@ -30,6 +30,16 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/711%20Clayton%20street.jpg?itok=vBQfjVX5"
     },
     {
+        "title": "1500 Page St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1500%20Page%20Steet_0.jpg?itok=C1uqCWSm"
+    },
+    {
+        "title": "16 Delmar St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/16%20Delmar%20Street_0.jpg?itok=6nuE13M8"
+    },
+    {
         "title": "110 Frederick Street",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/110%20Frederick%20street.jpg?itok=M9jqavy8"
@@ -50,12 +60,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1400%20Masonic%20Avenue.jpg?itok=-ZhnA7lt"
     },
     {
-        "title": "411 Turk Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/411%20turk.jpg?itok=tqdN-6Zz",
-        "Site Number": "1",
-        "Reason(s) for Removal:": "",
-        "Posting period": "9/7/2021 - 9/22/2021"
+        "title": "431 Staples Ave.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/431%20Staples%20Avenue.jpg?itok=02llh03Q"
     },
     {
         "title": "530 Valley Street",
@@ -87,6 +94,36 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/151%20Mendell%20street.jpg?itok=A7Q5jV1G"
     },
     {
+        "title": "2000 19th St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2000%2019th%20Street.jpg?itok=ydH4J0RD"
+    },
+    {
+        "title": "698 Rhode Island St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/698%20Rhode%20Island%20Street%20Sequence%202.jpg?itok=v35dOwwO"
+    },
+    {
+        "title": "698 Rhode Island St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/698%20Rhode%20Island%20Street%20Sequence%203_0.jpg?itok=vdel8as6"
+    },
+    {
+        "title": "2014 19th St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2014%2019th%20Street.jpg?itok=izJRYe0Y"
+    },
+    {
+        "title": "2000 Mariposa St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2000%20Mariposa%20Street.jpg?itok=WwxSrvBS"
+    },
+    {
+        "title": "472 Utah St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/472%20Utah%20Street.jpg?itok=KMVy9X54"
+    },
+    {
         "title": "500 Mendell St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/500%20Mendell%20street.jpg?itok=e0meynN7"
@@ -95,5 +132,10 @@
         "title": "621 Mendell St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/621%20Mendell%20Street.jpg?itok=JgjdItQO"
+    },
+    {
+        "title": "739 Lakeview Ave.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/739%20Lakeview%20Avenue.jpg?itok=dUGKM4ZD"
     }
 ]
