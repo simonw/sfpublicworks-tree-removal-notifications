@@ -1,18 +1,31 @@
 [
     {
-        "title": "534 11th Avenue",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/534%2011th%20ave%20-%20tree%201.jpg?itok=1dyZN34C",
-        "Reason(s) for removal": "Property owner applied for removal permit (788366); garage extension widening into tree 1, tree 2 is on top of sewer which cannot be accessed, addition to the home also triggers tree planting however, there is no room for a street tree due to utilies and proximity to neighboring tree; total of three in-lieu fees to be paid (for loss of tree 1 and tree 2, and for new tree that cannot be planted)",
-        "Posting period": "8/20/2021 - 9/29/2021"
-    },
-    {
         "title": "84 Commonwealth Avenue",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/84%20Commonwealth%20Avenue%20seq%203.jpg?itok=0-WoSLyj",
         "Site number": "3",
         "Reason(s) for removal": "Removal application Number (788625) underground tank removal for environmental remediation. no replacement",
         "Posting period": "9/20/2021 - 10/20/2021"
+    },
+    {
+        "title": "101x Cherry Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/101x%20CHerry%20Street%20all%204.JPG?itok=cWtr6bHZ"
+    },
+    {
+        "title": "3801 Jackson St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3801%20Jackson%20ID%20all%207.JPG?itok=Q5i126ku"
+    },
+    {
+        "title": "2145 Baker Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2145%20Baker%20Street%20ID%20125091_0.JPG?itok=g13RCSR8"
+    },
+    {
+        "title": "2119 Steiner Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2119%20Seiner%20Street%20both.JPG?itok=dUkhCg0K"
     },
     {
         "title": "509 Ashbury Street",
@@ -65,20 +78,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/431%20Staples%20Avenue.jpg?itok=02llh03Q"
     },
     {
-        "title": "530 Valley Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/530%20valley%20house.jpg?itok=ltRQ-4mD",
-        "Site number": "1",
-        "Reason(s) for removal": "Tree has severe lean to property side, root flair damage and cambium death on steet side, evidence of fungal infection as indicated by white fruiting body at base of tree, significant sidewalk damage; will be replaced",
-        "Posting period": "8/30/2021 - 9/29/2021"
-    },
-    {
-        "title": "2119 Castro Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2119%20castro%20st.jpg?itok=ZxAHy9i6",
-        "Site Number": "1",
-        "Reason(s) for Removal:": "",
-        "Posting period": "8/30/2021 - 9/29/2021"
+        "title": "2666 Ocean Avenue",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2666%20Ocean%20Avenue%20ID%20211378.JPG?itok=NYmaGCb4"
     },
     {
         "title": "237 Ripley Street",
