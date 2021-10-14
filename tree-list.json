@@ -28,19 +28,29 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2119%20Seiner%20Street%20both.JPG?itok=dUkhCg0K"
     },
     {
-        "title": "509 Ashbury Street",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/509%20Ashbury%20Street.jpg?itok=K6oJF94l"
+        "title": "2610 Sacramento Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2610%20Sacramento.jpg?itok=xutgp5n7"
     },
     {
-        "title": "661 Clayton Street",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/661%20Clayton%20Street.jpg?itok=AZ5va9wK"
+        "title": "15 Marion Place",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/15%20Marion%20Place.jpg?itok=1hNztr2J"
     },
     {
-        "title": "711 Clayton Street",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/711%20Clayton%20street.jpg?itok=vBQfjVX5"
+        "title": "2686 23rd Avenue",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2686%2023rd%20Avenue.jpg?itok=Wcm6ENkT"
+    },
+    {
+        "title": "2001 37th Avenue",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2001%2037th%20Avenue.jpg?itok=MyCsVrjQ"
+    },
+    {
+        "title": "1501 47th Avenue",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1501%2047th%20Avenue.jpg?itok=4boeOdaq"
     },
     {
         "title": "1500 Page St.",
@@ -53,24 +63,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/16%20Delmar%20Street_0.jpg?itok=6nuE13M8"
     },
     {
-        "title": "110 Frederick Street",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/110%20Frederick%20street.jpg?itok=M9jqavy8"
-    },
-    {
-        "title": "1317 Haight Street",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1317%20Haight%20Street.jpg?itok=a4EkY7g7"
-    },
-    {
-        "title": "1365 Haight Street",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1365%20Haight%20Street.jpg?itok=l41HtFbs"
-    },
-    {
-        "title": "1400 Masonic Avenue",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1400%20Masonic%20Avenue.jpg?itok=-ZhnA7lt"
+        "title": "1028 Market Street",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1028%20Market%20Street%20tree%20number%204.JPG?itok=GCdrfibA"
     },
     {
         "title": "431 Staples Ave.",
@@ -81,6 +76,11 @@
         "title": "2666 Ocean Avenue",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2666%20Ocean%20Avenue%20ID%20211378.JPG?itok=NYmaGCb4"
+    },
+    {
+        "title": "770 Noe street",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/770%20Noe%20Street.jpg?itok=EL14aUEY"
     },
     {
         "title": "237 Ripley Street",
