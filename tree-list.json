@@ -23,14 +23,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2145%20Baker%20Street%20ID%20125091_0.JPG?itok=g13RCSR8"
     },
     {
-        "title": "2119 Steiner Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2119%20Seiner%20Street%20both.JPG?itok=dUkhCg0K"
-    },
-    {
         "title": "2610 Sacramento Street",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2610%20Sacramento.jpg?itok=xutgp5n7"
+    },
+    {
+        "title": "2700 Pacific Avenue",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2700%20Pacific%20Avenue.jpg?itok=n6A62eDl"
     },
     {
         "title": "15 Marion Place",
@@ -53,14 +53,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1501%2047th%20Avenue.jpg?itok=4boeOdaq"
     },
     {
-        "title": "1500 Page St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1500%20Page%20Steet_0.jpg?itok=C1uqCWSm"
-    },
-    {
-        "title": "16 Delmar St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/16%20Delmar%20Street_0.jpg?itok=6nuE13M8"
+        "title": "2001 37th Avenue",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2001%2037th%20avenue%20seq%207.jpg?itok=IbNb6y-6"
     },
     {
         "title": "1028 Market Street",
@@ -68,19 +63,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1028%20Market%20Street%20tree%20number%204.JPG?itok=GCdrfibA"
     },
     {
-        "title": "431 Staples Ave.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/431%20Staples%20Avenue.jpg?itok=02llh03Q"
-    },
-    {
         "title": "2666 Ocean Avenue",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2666%20Ocean%20Avenue%20ID%20211378.JPG?itok=NYmaGCb4"
     },
     {
+        "title": "66 Mountain Spring Avenue",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/66%20mountain%20Spring%20Avenue%20seq%201.jpg?itok=GJKJ-I6D"
+    },
+    {
         "title": "770 Noe street",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/770%20Noe%20Street.jpg?itok=EL14aUEY"
+    },
+    {
+        "title": "1230 Twin Peaks Boulevard",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1230%20twin%20peaks.jpg?itok=QDF1V_cg"
     },
     {
         "title": "237 Ripley Street",
@@ -96,34 +96,39 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/151%20Mendell%20street.jpg?itok=A7Q5jV1G"
     },
     {
-        "title": "2000 19th St.",
+        "title": "602 Arthur Avenue",
         "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2000%2019th%20Street.jpg?itok=ydH4J0RD"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/602%20Arthur%20Avenue%20seq36.jpg?itok=jr9J-FVU"
     },
     {
-        "title": "698 Rhode Island St.",
+        "title": "401x Cargo Way",
         "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/698%20Rhode%20Island%20Street%20Sequence%202.jpg?itok=v35dOwwO"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Cargo%20Way.jpg?itok=BWlet0Hs"
     },
     {
-        "title": "698 Rhode Island St.",
+        "title": "1501 Davidson Avenue",
         "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/698%20Rhode%20Island%20Street%20Sequence%203_0.jpg?itok=vdel8as6"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1501%20Davidson%20Avenue%20seq%202.jpg?itok=vZ_71b4D"
     },
     {
-        "title": "2014 19th St.",
+        "title": "1610 Innes avenue",
         "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2014%2019th%20Street.jpg?itok=izJRYe0Y"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1610%20Innes%20Avenue%20seq%205.jpg?itok=f_HtaLso"
     },
     {
-        "title": "2000 Mariposa St.",
+        "title": "525 Phelps Street",
         "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2000%20Mariposa%20Street.jpg?itok=WwxSrvBS"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/525%20Phelps%20seq%202.jpg?itok=FOlikqAp"
     },
     {
-        "title": "472 Utah St.",
+        "title": "750 Phelps Street",
         "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/472%20Utah%20Street.jpg?itok=KMVy9X54"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/750%20Phelps%20Street%20seq%204.jpg?itok=REQFuVL1"
+    },
+    {
+        "title": "201 Rankin Street",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/201%20Rankin%20Street%20seq%203.jpg?itok=AM4gVWUp"
     },
     {
         "title": "500 Mendell St.",
@@ -139,5 +144,15 @@
         "title": "739 Lakeview Ave.",
         "district": "District 11",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/739%20Lakeview%20Avenue.jpg?itok=dUGKM4ZD"
+    },
+    {
+        "title": "The Folsom-Howard Streetscape Project",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": null
+    },
+    {
+        "title": "16th Street, Streetscape Improvement project",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": null
     }
 ]
