@@ -30,16 +30,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/15%20Marion%20Place.jpg?itok=1hNztr2J"
     },
     {
-        "title": "2686 23rd Avenue",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2686%2023rd%20Avenue.jpg?itok=Wcm6ENkT"
-    },
-    {
-        "title": "2001 37th Avenue",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2001%2037th%20Avenue.jpg?itok=MyCsVrjQ"
-    },
-    {
         "title": "1501 47th Avenue",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1501%2047th%20Avenue.jpg?itok=4boeOdaq"
@@ -50,11 +40,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2001%2037th%20avenue%20seq%207.jpg?itok=IbNb6y-6"
     },
     {
-        "title": "1028 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1028%20Market%20Street%20tree%20number%204.JPG?itok=GCdrfibA"
-    },
-    {
         "title": "66 Mountain Spring Avenue",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/66%20mountain%20Spring%20Avenue%20seq%201.jpg?itok=GJKJ-I6D"
@@ -63,6 +48,11 @@
         "title": "401 Castenada Avenue",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Castenada%20Avenue%20tree%201[29]_0.jpg?itok=NU1NXsbH"
+    },
+    {
+        "title": "445 Ortega St.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/445%20Ortega%20Street%20codominant%20stems%20tree%202.jpg?itok=fwBX6tEa"
     },
     {
         "title": "770 Noe street",
@@ -105,11 +95,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Cargo%20Way.jpg?itok=BWlet0Hs"
     },
     {
-        "title": "1501 Davidson Avenue",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1501%20Davidson%20Avenue%20seq%202.jpg?itok=vZ_71b4D"
-    },
-    {
         "title": "1610 Innes avenue",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1610%20Innes%20Avenue%20seq%205.jpg?itok=f_HtaLso"
@@ -130,17 +115,17 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/201%20Rankin%20Street%20seq%203.jpg?itok=AM4gVWUp"
     },
     {
-        "title": "739 Lakeview Ave.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/739%20Lakeview%20Avenue.jpg?itok=dUGKM4ZD"
-    },
-    {
         "title": "The Folsom-Howard Streetscape Project",
         "district": "Tree Removals by Other City Agencies",
         "img_src": null
     },
     {
         "title": "16th Street, Streetscape Improvement project",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": null
+    },
+    {
+        "title": "Public Utilities Commission",
         "district": "Tree Removals by Other City Agencies",
         "img_src": null
     }
