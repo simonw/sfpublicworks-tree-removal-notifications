@@ -5,16 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1342%20Cabrillo%20Street%20tree%201.jpg?itok=a3bPteof"
     },
     {
-        "title": "101x Cherry Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/101x%20CHerry%20Street%20all%204.JPG?itok=cWtr6bHZ"
-    },
-    {
-        "title": "3801 Jackson St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3801%20Jackson%20ID%20all%207.JPG?itok=Q5i126ku"
-    },
-    {
         "title": "2610 Sacramento Street",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2610%20Sacramento.jpg?itok=xutgp5n7"
@@ -25,19 +15,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2700%20Pacific%20Avenue.jpg?itok=n6A62eDl"
     },
     {
+        "title": "2009 Divisadero Street",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2009%20Divisadero%20Street%20photo%201.jpg?itok=9yo86y3X"
+    },
+    {
         "title": "15 Marion Place",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/15%20Marion%20Place.jpg?itok=1hNztr2J"
     },
     {
-        "title": "1501 47th Avenue",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1501%2047th%20Avenue.jpg?itok=4boeOdaq"
-    },
-    {
-        "title": "2001 37th Avenue",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2001%2037th%20avenue%20seq%207.jpg?itok=IbNb6y-6"
+        "title": "1201 Market St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1201%20Market%20Street.jpg?itok=nuQ4-VGJ"
     },
     {
         "title": "66 Mountain Spring Avenue",
@@ -83,36 +73,6 @@
         "title": "3236 24th street",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3236%2024th%20street%20%20tree%204[5].jpg?itok=4e_x-BLr"
-    },
-    {
-        "title": "602 Arthur Avenue",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/602%20Arthur%20Avenue%20seq36.jpg?itok=jr9J-FVU"
-    },
-    {
-        "title": "401x Cargo Way",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Cargo%20Way.jpg?itok=BWlet0Hs"
-    },
-    {
-        "title": "1610 Innes avenue",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1610%20Innes%20Avenue%20seq%205.jpg?itok=f_HtaLso"
-    },
-    {
-        "title": "525 Phelps Street",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/525%20Phelps%20seq%202.jpg?itok=FOlikqAp"
-    },
-    {
-        "title": "750 Phelps Street",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/750%20Phelps%20Street%20seq%204.jpg?itok=REQFuVL1"
-    },
-    {
-        "title": "201 Rankin Street",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/201%20Rankin%20Street%20seq%203.jpg?itok=AM4gVWUp"
     },
     {
         "title": "The Folsom-Howard Streetscape Project",
