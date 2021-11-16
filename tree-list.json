@@ -1,18 +1,8 @@
 [
     {
-        "title": "1342 Cabrillo St.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1342%20Cabrillo%20Street%20tree%201.jpg?itok=a3bPteof"
-    },
-    {
-        "title": "2610 Sacramento Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2610%20Sacramento.jpg?itok=xutgp5n7"
-    },
-    {
         "title": "2700 Pacific Avenue",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2700%20Pacific%20Avenue.jpg?itok=n6A62eDl"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2700%20Pacific%20Avenue.jpeg?itok=HDMwjH09"
     },
     {
         "title": "2009 Divisadero Street",
@@ -20,9 +10,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2009%20Divisadero%20Street%20photo%201.jpg?itok=9yo86y3X"
     },
     {
-        "title": "15 Marion Place",
+        "title": "862 California St.",
         "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/15%20Marion%20Place.jpg?itok=1hNztr2J"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/862%20California%20street_0.jpg?itok=A8xJQW3Q"
     },
     {
         "title": "1201 Market St.",
@@ -37,7 +27,7 @@
     {
         "title": "401 Castenada Avenue",
         "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Castenada%20Avenue%20tree%201[29]_0.jpg?itok=NU1NXsbH"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Castenada%20Avenue%20tree%201.jpg?itok=6q6Q0kGb"
     },
     {
         "title": "445 Ortega St.",
@@ -45,34 +35,29 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/445%20Ortega%20Street%20codominant%20stems%20tree%202.jpg?itok=fwBX6tEa"
     },
     {
-        "title": "770 Noe street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/770%20Noe%20Street.jpg?itok=EL14aUEY"
-    },
-    {
         "title": "1230 Twin Peaks Boulevard",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1230%20twin%20peaks.jpg?itok=QDF1V_cg"
     },
     {
-        "title": "71x Paradise Ave",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/71x%20Paradise%20Aveneu.jpg?itok=151P9ao4"
-    },
-    {
         "title": "1317 Bosworth Street",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1317%20Bosworth%20tree%201[81].jpg?itok=ZWyPCL-4"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1317%20Bosworth%20tree%201_0.jpg?itok=Egql-PoH"
     },
     {
         "title": "479 Goettinggen Street",
         "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/471%20goettingen%20Street%20tree%201[25].jpg?itok=5gvNqhxT"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/471%20goettingen%20Street%20tree%201.jpg?itok=sT39JGvC"
     },
     {
         "title": "3236 24th street",
         "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3236%2024th%20street%20%20tree%204[5].jpg?itok=4e_x-BLr"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3236%2024th%20street%20tree%201.jpg?itok=oSG58F1V"
+    },
+    {
+        "title": "30x Alemany Boulevard",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/30x%20Alemany%20Blvd.jpg?itok=YkZZc4UM"
     },
     {
         "title": "The Folsom-Howard Streetscape Project",
