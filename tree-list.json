@@ -1,10 +1,5 @@
 [
     {
-        "title": "2700 Pacific Avenue",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2700%20Pacific%20Avenue.jpeg?itok=HDMwjH09"
-    },
-    {
         "title": "2009 Divisadero Street",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2009%20Divisadero%20Street%20photo%201.jpg?itok=9yo86y3X"
@@ -20,11 +15,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1201%20Market%20Street.jpg?itok=nuQ4-VGJ"
     },
     {
-        "title": "66 Mountain Spring Avenue",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/66%20mountain%20Spring%20Avenue%20seq%201.jpg?itok=GJKJ-I6D"
-    },
-    {
         "title": "401 Castenada Avenue",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Castenada%20Avenue%20tree%201.jpg?itok=6q6Q0kGb"
@@ -33,11 +23,6 @@
         "title": "445 Ortega St.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/445%20Ortega%20Street%20codominant%20stems%20tree%202.jpg?itok=fwBX6tEa"
-    },
-    {
-        "title": "1230 Twin Peaks Boulevard",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1230%20twin%20peaks.jpg?itok=QDF1V_cg"
     },
     {
         "title": "1317 Bosworth Street",
@@ -58,6 +43,11 @@
         "title": "30x Alemany Boulevard",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/30x%20Alemany%20Blvd.jpg?itok=YkZZc4UM"
+    },
+    {
+        "title": "385 Bartlett Street",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/385%20Bartlett%20Street%20Photo%201.jpg?itok=VoL9sGoh"
     },
     {
         "title": "The Folsom-Howard Streetscape Project",
