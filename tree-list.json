@@ -1,13 +1,13 @@
 [
     {
-        "title": "2009 Divisadero Street",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2009%20Divisadero%20Street%20photo%201.jpg?itok=9yo86y3X"
-    },
-    {
         "title": "862 California St.",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/862%20California%20street_0.jpg?itok=A8xJQW3Q"
+    },
+    {
+        "title": "1766 23rd Ave",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1766%2023rd%20Ave%20Photo%201%20full%20view.jpg?itok=f_97BfNf"
     },
     {
         "title": "1201 Market St.",
@@ -15,29 +15,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1201%20Market%20Street.jpg?itok=nuQ4-VGJ"
     },
     {
-        "title": "401 Castenada Avenue",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Castenada%20Avenue%20tree%201.jpg?itok=6q6Q0kGb"
+        "title": "595 Market St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/595%20Market%20St.%20Photo%201%20view%20from%20street.jpg?itok=MAZMZEox"
     },
     {
         "title": "445 Ortega St.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/445%20Ortega%20Street%20codominant%20stems%20tree%202.jpg?itok=fwBX6tEa"
-    },
-    {
-        "title": "1317 Bosworth Street",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1317%20Bosworth%20tree%201_0.jpg?itok=Egql-PoH"
-    },
-    {
-        "title": "479 Goettinggen Street",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/471%20goettingen%20Street%20tree%201.jpg?itok=sT39JGvC"
-    },
-    {
-        "title": "3236 24th street",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3236%2024th%20street%20tree%201.jpg?itok=oSG58F1V"
     },
     {
         "title": "30x Alemany Boulevard",
@@ -56,11 +41,6 @@
     },
     {
         "title": "16th Street, Streetscape Improvement project",
-        "district": "Tree Removals by Other City Agencies",
-        "img_src": null
-    },
-    {
-        "title": "Public Utilities Commission",
         "district": "Tree Removals by Other City Agencies",
         "img_src": null
     }
