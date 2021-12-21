@@ -5,16 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/400%2014th%20Ave%20Tree%201%20Photo%201.jpg?itok=VpKbQd2L"
     },
     {
-        "title": "862 California St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/862%20California%20street_0.jpg?itok=A8xJQW3Q"
-    },
-    {
-        "title": "1766 23rd Ave",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1766%2023rd%20Ave%20Photo%201%20full%20view.jpg?itok=f_97BfNf"
-    },
-    {
         "title": "140 Belgrave Ave",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/140%20Belgrave%20photo%201%20full%20view.jpg?itok=Ok2KJCrl"
@@ -25,6 +15,66 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/390%20Page%20photo%201%20diagram.png?itok=mF_LjRpH"
     },
     {
+        "title": "1340 6th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1340%206th%20Ave%20Tree%201%20Photo%201.jpg?itok=Tx82QgkT"
+    },
+    {
+        "title": "1351 6th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1351%206th%20Ave%20Tree%202%20Photo%201%20Strong%20Lean.jpg?itok=WzGncsAE"
+    },
+    {
+        "title": "1351 6th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1351%206th%20Ave%20Tree%205%20Photo1.jpg?itok=Gy9Dlp6Y"
+    },
+    {
+        "title": "1474 6th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1474%206th%20Ave%20Tree%201%20Photo%201.jpg?itok=qa4VqIOR"
+    },
+    {
+        "title": "1482 6th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1482%206th%20Ave%20Tree%201%20Photo%201.jpg?itok=dRx2QRmX"
+    },
+    {
+        "title": "1416 7th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1416%207th%20Ave%20Tree%201%20Photo%201.jpg?itok=kPmiVjYv"
+    },
+    {
+        "title": "1461 7th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1461%207th%20Ave%20Tree%201%20Photo%201.jpg?itok=8v71Uc03"
+    },
+    {
+        "title": "1238 8th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1238%208th%20Ave%20Tree%201%20Photo%201.jpg?itok=iyL5GlAE"
+    },
+    {
+        "title": "1232 6th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1232%206th%20Ave%20Tree%201%20Photo%201.jpg?itok=2Ok0wSm3"
+    },
+    {
+        "title": "1282 6th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1282%206th%20Ave%20Tree%201%20Photo%201.jpg?itok=niAjgL0m"
+    },
+    {
+        "title": "1281 9th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1281%209th%20Ave%20Tree%201%20Photo%201%20google%20st%20view%20June%202021.JPG?itok=fEjlx7tm"
+    },
+    {
+        "title": "1392 9th Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1392%209th%20Ave%20Tree%201%20Photo%201.JPG?itok=nPj4q4Gt"
+    },
+    {
         "title": "595 Market St.",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/595%20Market%20St.%20Photo%201%20view%20from%20street.jpg?itok=MAZMZEox"
@@ -33,11 +83,6 @@
         "title": "374 11th St.",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/374%2011th%20St%20photo%201.jpg?itok=8EkvqGBn"
-    },
-    {
-        "title": "30x Alemany Boulevard",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/30x%20Alemany%20Blvd.jpg?itok=YkZZc4UM"
     },
     {
         "title": "1127 Hampshire St.",
