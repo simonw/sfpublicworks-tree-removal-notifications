@@ -15,6 +15,41 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/875%20La%20Playa%20St.%20Tree%20no.%204%20photo%201.jpg?itok=lyuSzM0y"
     },
     {
+        "title": "2350 Green St. (St. Vincent De Paul School)",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2350%20Green%20St.%20Tree%2013%20photo%201.jpg?itok=OnvEjTEv"
+    },
+    {
+        "title": "2350 Green St. (St. Vincent De Paul School)",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2350%20Green%20St.%20Tree%2015%20photo%201.JPG?itok=aX86euYy"
+    },
+    {
+        "title": "2810 Pierce St. (St. Vincent De Paul School)",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2810%20Pierce%20St%20Tree%201%20photo%201.jpg?itok=UQjnvVt2"
+    },
+    {
+        "title": "2810 Pierce St. (St. Vincent De Paul School)",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2810%20Pierce%20St.%20Tree%203%20photo%201.jpg?itok=-JnHqRKS"
+    },
+    {
+        "title": "2810 Pierce St. (St. Vincent De Paul School)",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2810%20Pierce%20St.%20Tree%204%20photo%201.jpg?itok=uawN-f0j"
+    },
+    {
+        "title": "3760 Washington St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20St%20Tree%207%20photo%201.jpg?itok=baXj3-yq"
+    },
+    {
+        "title": "3760 Washington St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20St%20Tree%208%20photo%201.jpg?itok=wk02s6Gi"
+    },
+    {
         "title": "1340 6th Ave.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1340%206th%20Ave%20Tree%201%20Photo%201.jpg?itok=Tx82QgkT"
@@ -120,48 +155,8 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/300%20Noe%20St.%20Tree%204%20photo%201.jpg?itok=l69tjBT1"
     },
     {
-        "title": "1100 Evans Ave.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1100%20Evans%20Ave%20Tree%204%20Photo%201.jpg?itok=DMVwVWkr"
-    },
-    {
-        "title": "1100 Evans Ave.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1100%20Evans%20Ave%20Tree%206%20Photo%201_1.jpg?itok=yXw6zOi3"
-    },
-    {
-        "title": "1100 Evans Ave.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1100%20Evans%20Ave%20Tree%209%20Photo%201.jpg?itok=4EvvPgNb"
-    },
-    {
-        "title": "1100 Evans Ave.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1100%20Evans%20Ave%20Tree%2010%20Photo%201.jpg?itok=vD40Mbem"
-    },
-    {
-        "title": "1100 Evans Ave.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1100%20Evans%20Ave%20Tree%2011%20Photos%201.jpg?itok=Ah2jGB_b"
-    },
-    {
-        "title": "200 Jennings St.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/200%20Jennings%20St.%20Tree%2017%20Photo%201.jpg?itok=FqStTM1k"
-    },
-    {
-        "title": "200 Jennings St.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/200%20Jennings%20St.%20Tree%2018%20Photo%201.jpg?itok=MvJ_74Pf"
-    },
-    {
-        "title": "200 Jennings St.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/200%20Jennings%20St.%20Tree%2019%20Photo%201.jpg?itok=W7IVDPU6"
-    },
-    {
-        "title": "The Folsom-Howard Streetscape Project",
-        "district": "Tree Removals by Other City Agencies",
-        "img_src": null
+        "title": "1069 Church St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1069%20Church%20St.%20Tree%202%20Photo%201.jpg?itok=XgfEsMzb"
     }
 ]
