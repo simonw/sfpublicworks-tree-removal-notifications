@@ -50,46 +50,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20St%20Tree%208%20photo%201.jpg?itok=wk02s6Gi"
     },
     {
-        "title": "1340 6th Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1340%206th%20Ave%20Tree%201%20Photo%201.jpg?itok=Tx82QgkT"
-    },
-    {
-        "title": "1351 6th Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1351%206th%20Ave%20Tree%202%20Photo%201%20Strong%20Lean.jpg?itok=WzGncsAE"
-    },
-    {
-        "title": "1351 6th Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1351%206th%20Ave%20Tree%205%20Photo1.jpg?itok=Gy9Dlp6Y"
-    },
-    {
-        "title": "1474 6th Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1474%206th%20Ave%20Tree%201%20Photo%201.jpg?itok=qa4VqIOR"
-    },
-    {
-        "title": "1482 6th Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1482%206th%20Ave%20Tree%201%20Photo%201.jpg?itok=dRx2QRmX"
-    },
-    {
-        "title": "1416 7th Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1416%207th%20Ave%20Tree%201%20Photo%201.jpg?itok=kPmiVjYv"
-    },
-    {
-        "title": "1461 7th Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1461%207th%20Ave%20Tree%201%20Photo%201.jpg?itok=8v71Uc03"
-    },
-    {
-        "title": "1238 8th Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1238%208th%20Ave%20Tree%201%20Photo%201.jpg?itok=iyL5GlAE"
-    },
-    {
         "title": "1392 9th Ave.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1392%209th%20Ave%20Tree%201%20Photo%201.JPG?itok=nPj4q4Gt"
@@ -110,53 +70,23 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3620%2016th%20St.%20Tree%201%20photo%201.jpg?itok=FhkQd6p6"
     },
     {
-        "title": "2172 15th St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2172%2015th%20St%20google%20Nov%202020%20structure%20from%20street.JPG?itok=WFdHLu1O"
-    },
-    {
-        "title": "3638 16th St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3638%2016th%20St.%20Tree%201%20photo%201_0.jpg?itok=LSVLGdJ7"
-    },
-    {
-        "title": "349 Church St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/349%20Church%20St.%20Tree%201%20photo%201_0.jpg?itok=NTnEVY8h"
-    },
-    {
-        "title": "435 Church St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/435%20Church%20St.%20Tree%202%20photo%201.jpg?itok=6503k5yK"
-    },
-    {
-        "title": "445 Church St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/445%20Church%20St.%20Tree%201%20photo%201.jpg?itok=iZ0SNzl2"
-    },
-    {
-        "title": "469 Church St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/469%20Church%20St.%20Tree%201%20photo%201.jpg?itok=9n5sENjq"
-    },
-    {
-        "title": "479 Church St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/479%20Church%20St.%20Tree%201%20photo%201.jpg?itok=MO_DESmp"
-    },
-    {
-        "title": "244 Noe St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/244%20Noe%20St.%20Tree%202%20photo%201.jpg?itok=ZqcVOTDS"
-    },
-    {
-        "title": "300 Noe St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/300%20Noe%20St.%20Tree%204%20photo%201.jpg?itok=l69tjBT1"
-    },
-    {
         "title": "1069 Church St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1069%20Church%20St.%20Tree%202%20Photo%201.jpg?itok=XgfEsMzb"
+    },
+    {
+        "title": "1400 Evans Ave.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1400%20Evans%20Ave%20Tree%207%20Photo%201%20view%20x%20st.jpg?itok=EfVhm15D"
+    },
+    {
+        "title": "162 Prague St.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/162%20Prague%20St.%20Tree%201%20Photo%201.jpg?itok=aVhTokmF"
+    },
+    {
+        "title": "39th Ave. and Clement St.",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Tree%20Removal%20Hearing%2002102022%20Notice%2039th_Clement.jpg?itok=ta9De7d0"
     }
 ]
