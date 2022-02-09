@@ -60,19 +60,54 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/125%20Saint%20Germain%20Ave%20Tree%201%20photo%201_1.jpg?itok=rWiqd7Lm"
     },
     {
+        "title": "30 Yerba Buena Ave",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/30%20Yerba%20Buena%20Ave%20Tree%201%20photo%201.jpg?itok=mYYFJrBC"
+    },
+    {
+        "title": "122 Wawona St.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/122%20Wawona%20St.%20Tree%202%20photo%201.jpg?itok=gAdwgI8i"
+    },
+    {
         "title": "700 Junipero Serra Blvd (Winston/Holloway)",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700%20JS%20Blvd%20Tree%2060%20Photo%201.jpg?itok=Pg_ZlcyW"
     },
     {
-        "title": "2166 15th St.",
+        "title": "4822 19th St.",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2166%2015th%20St.%20Tree%20no.%201%20photo%201.jpg?itok=o3Can64T"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4822%2019th%20St.%20significant%20tree%20on%20private%20property%20photo%201.jpg?itok=VMC_T93Q"
+    },
+    {
+        "title": "4822 19th St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4822%2019th%20St.%20street%20tree%20no.%203%20photo%201.jpg?itok=F-h4biUm"
+    },
+    {
+        "title": "3957 23rd St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3957%2023rd%20St.%20Tree%201%20photo%201.jpg?itok=SXD8vSvH"
+    },
+    {
+        "title": "584 Clipper St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/584%20Clipper%20St%20Tree%201%20on%20right%20Tree%202%20on%20Left.jpg?itok=z_8sYBII"
+    },
+    {
+        "title": "584 Clipper St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/584%20Clipper%20St%20Tree%201%20on%20right%20Tree%202%20on%20Left.jpg?itok=z_8sYBII"
     },
     {
         "title": "368 Hill St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/368%20Hill%20St.%20Tree%201%20Photo%201.jpg?itok=G3knIUT5"
+    },
+    {
+        "title": "2166 15th St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2166%2015th%20St.%20Tree%20no.%201%20photo%201.jpg?itok=o3Can64T"
     },
     {
         "title": "3620 16th St.",
@@ -83,6 +118,11 @@
         "title": "1400 Evans Ave.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1400%20Evans%20Ave%20Tree%207%20Photo%201%20view%20x%20st.jpg?itok=EfVhm15D"
+    },
+    {
+        "title": "24 Lobos St.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/24%20Lobos%20St.%20Tree%201%20photo%201.jpg?itok=Qc_8FzlR"
     },
     {
         "title": "162 Prague St.",
