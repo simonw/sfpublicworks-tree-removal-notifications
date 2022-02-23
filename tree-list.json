@@ -1,40 +1,5 @@
 [
     {
-        "title": "2350 Green St. (St. Vincent De Paul School)",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2350%20Green%20St.%20Tree%2013%20photo%201.jpg?itok=OnvEjTEv"
-    },
-    {
-        "title": "2350 Green St. (St. Vincent De Paul School)",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2350%20Green%20St.%20Tree%2015%20photo%201.JPG?itok=aX86euYy"
-    },
-    {
-        "title": "2810 Pierce St. (St. Vincent De Paul School)",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2810%20Pierce%20St%20Tree%201%20photo%201.jpg?itok=UQjnvVt2"
-    },
-    {
-        "title": "2810 Pierce St. (St. Vincent De Paul School)",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2810%20Pierce%20St.%20Tree%203%20photo%201.jpg?itok=-JnHqRKS"
-    },
-    {
-        "title": "2810 Pierce St. (St. Vincent De Paul School)",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2810%20Pierce%20St.%20Tree%204%20photo%201.jpg?itok=uawN-f0j"
-    },
-    {
-        "title": "3760 Washington St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20St%20Tree%207%20photo%201.jpg?itok=baXj3-yq"
-    },
-    {
-        "title": "3760 Washington St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20St%20Tree%208%20photo%201.jpg?itok=wk02s6Gi"
-    },
-    {
         "title": "1330 Baker St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1330%20Baker%20St.%20Tree%201%20photo%201.jpg?itok=5OraaDmq"
@@ -53,6 +18,16 @@
         "title": "2640 Broadway St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2640%20Broadway%20MAIN%20PHOTO.jpeg?itok=ofHSBfEF"
+    },
+    {
+        "title": "1801 Hyde St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1801%20Hyde%20St.%20Tree%201%20photo%201.jpg?itok=IADiDCuu"
+    },
+    {
+        "title": "1067 Market St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1067%20Market%20St.%20Tree%202%20photo%201b.jpg?itok=pGBy1bc3"
     },
     {
         "title": "30 Yerba Buena Ave",
@@ -100,11 +75,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/368%20Hill%20St.%20Tree%201%20Photo%201.jpg?itok=G3knIUT5"
     },
     {
-        "title": "1400 Evans Ave.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1400%20Evans%20Ave%20Tree%207%20Photo%201%20view%20x%20st.jpg?itok=EfVhm15D"
-    },
-    {
         "title": "491 Potrero Ave.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/491%20Potrero%20Tree%201%20photo%201.jpeg?itok=ueYXGEas"
@@ -115,9 +85,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/24%20Lobos%20St.%20Tree%201%20photo%201.jpg?itok=Qc_8FzlR"
     },
     {
-        "title": "162 Prague St.",
+        "title": "212 Sagamore St.",
         "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/162%20Prague%20St.%20Tree%201%20Photo%201.jpg?itok=aVhTokmF"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/212%20Sagamore%20Tree%201%20photo%201b.jpg?itok=HbaTW37z"
     },
     {
         "title": "639 Silver Ave.",
