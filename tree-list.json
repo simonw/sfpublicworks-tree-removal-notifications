@@ -25,6 +25,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1801%20Hyde%20St.%20Tree%201%20photo%201.jpg?itok=IADiDCuu"
     },
     {
+        "title": "35 Belgrave Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/35%20Belgrave%20Ave%20Camelia%20photo%201b.jpg?itok=IueAv45C"
+    },
+    {
         "title": "1067 Market St.",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1067%20Market%20St.%20Tree%202%20photo%201b.jpg?itok=pGBy1bc3"
@@ -40,14 +45,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/122%20Wawona%20St.%20Tree%202%20photo%201.jpg?itok=gAdwgI8i"
     },
     {
-        "title": "700 Junipero Serra Blvd (Winston/Holloway)",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700%20JS%20Blvd%20Tree%2060%20Photo%201.jpg?itok=Pg_ZlcyW"
-    },
-    {
         "title": "4822 19th St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4822%2019th%20St.%20significant%20tree%20on%20private%20property%20photo%201.jpg?itok=VMC_T93Q"
+    },
+    {
+        "title": "65 States St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/65%20States%20St.%20Tree%201%20photo%201b.jpg?itok=CRrXzCcV"
+    },
+    {
+        "title": "44 Surrey St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/44%20Surrey%20St.%20Tree%201%20photo%201b.jpg?itok=Dzh8Ij_d"
+    },
+    {
+        "title": "46 Surrey St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/46%20Surrey%20St.%20Tree%201%20photo%201b.jpg?itok=FUp7reMA"
     },
     {
         "title": "4822 19th St.",
@@ -70,9 +85,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/584%20Clipper%20St%20Tree%201%20on%20right%20Tree%202%20on%20Left.jpg?itok=z_8sYBII"
     },
     {
-        "title": "368 Hill St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/368%20Hill%20St.%20Tree%201%20Photo%201.jpg?itok=G3knIUT5"
+        "title": "2285 Jerrold Ave.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/101%20Barneveld%20Tree%201%20photo%201b.jpg?itok=JXzgwWYd"
+    },
+    {
+        "title": "2285 Jerrold Ave.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2285%20Jerrold%20Ave%20Tree%2010%20photo%201b.jpg?itok=ghPHDRI6"
     },
     {
         "title": "491 Potrero Ave.",
@@ -88,10 +108,5 @@
         "title": "212 Sagamore St.",
         "district": "District 11",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/212%20Sagamore%20Tree%201%20photo%201b.jpg?itok=HbaTW37z"
-    },
-    {
-        "title": "639 Silver Ave.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/639%20Silver%20Ave%20Tree%201%20photo%201.jpg?itok=r_E_dr-d"
     }
 ]
