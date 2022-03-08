@@ -1,18 +1,8 @@
 [
     {
-        "title": "1330 Baker St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1330%20Baker%20St.%20Tree%201%20photo%201.jpg?itok=5OraaDmq"
-    },
-    {
-        "title": "2006 Washington St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2006%20Washington%20St.%201st%20photo%20diagram.JPG?itok=fkJbrD3-"
-    },
-    {
-        "title": "2006 Washington St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2006%20Washington%20St.%201st%20photo%20diagram.JPG?itok=fkJbrD3-"
+        "title": "741 3rd Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/741%203rd%20Ave%20Tree%20site%20photo%201.jpeg?itok=5m8z-p_x"
     },
     {
         "title": "2640 Broadway St.",
@@ -63,6 +53,11 @@
         "title": "46 Surrey St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/46%20Surrey%20St.%20Tree%201%20photo%201b.jpg?itok=FUp7reMA"
+    },
+    {
+        "title": "227 Church St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/227%20Church%20St.%20Tree%201%20photo%201.JPG?itok=lavgYeuy"
     },
     {
         "title": "4822 19th St.",
