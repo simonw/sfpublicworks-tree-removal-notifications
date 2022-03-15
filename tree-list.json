@@ -15,29 +15,29 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1801%20Hyde%20St.%20Tree%201%20photo%201.jpg?itok=IADiDCuu"
     },
     {
+        "title": "1200 29th Ave.",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1200%2029th%20Ave%20Tree%202%20PHoto%201.jpg?itok=wHMuBHsF"
+    },
+    {
+        "title": "2817 Lincoln Way",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2817%20Lincoln%20Way%20Tree%201%20photo%201.jpg?itok=3dTbVKya"
+    },
+    {
+        "title": "1824 Noriega St.",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1824%20Noriega%20St.%20Tree%201%20photo%201%20google.JPG?itok=ZpITUY4-"
+    },
+    {
         "title": "35 Belgrave Ave.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/35%20Belgrave%20Ave%20Camelia%20photo%201b.jpg?itok=IueAv45C"
     },
     {
-        "title": "1067 Market St.",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1067%20Market%20St.%20Tree%202%20photo%201b.jpg?itok=pGBy1bc3"
-    },
-    {
-        "title": "30 Yerba Buena Ave",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/30%20Yerba%20Buena%20Ave%20Tree%201%20photo%201.jpg?itok=mYYFJrBC"
-    },
-    {
-        "title": "122 Wawona St.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/122%20Wawona%20St.%20Tree%202%20photo%201.jpg?itok=gAdwgI8i"
-    },
-    {
-        "title": "4822 19th St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4822%2019th%20St.%20significant%20tree%20on%20private%20property%20photo%201.jpg?itok=VMC_T93Q"
+        "title": "1278 3rd Ave",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1278%203rd%20Ave%20tree%201%20photo%201.jpg?itok=haUtpRd0"
     },
     {
         "title": "65 States St.",
@@ -60,24 +60,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/227%20Church%20St.%20Tree%201%20photo%201.JPG?itok=lavgYeuy"
     },
     {
-        "title": "4822 19th St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4822%2019th%20St.%20street%20tree%20no.%203%20photo%201.jpg?itok=F-h4biUm"
-    },
-    {
-        "title": "3957 23rd St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3957%2023rd%20St.%20Tree%201%20photo%201.jpg?itok=SXD8vSvH"
-    },
-    {
-        "title": "584 Clipper St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/584%20Clipper%20St%20Tree%201%20on%20right%20Tree%202%20on%20Left.jpg?itok=z_8sYBII"
-    },
-    {
-        "title": "584 Clipper St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/584%20Clipper%20St%20Tree%201%20on%20right%20Tree%202%20on%20Left.jpg?itok=z_8sYBII"
+        "title": "10 Mansell St. (in the median)",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/10X%20Mansell%20St.%20median%20tree%202%20on%20left%20tree%203%20on%20right.jpg?itok=LZw9rrOr"
     },
     {
         "title": "2285 Jerrold Ave.",
@@ -93,11 +78,6 @@
         "title": "491 Potrero Ave.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/491%20Potrero%20Tree%201%20photo%201.jpeg?itok=ueYXGEas"
-    },
-    {
-        "title": "24 Lobos St.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/24%20Lobos%20St.%20Tree%201%20photo%201.jpg?itok=Qc_8FzlR"
     },
     {
         "title": "212 Sagamore St.",
