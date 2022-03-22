@@ -5,9 +5,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/741%203rd%20Ave%20Tree%20site%20photo%201.jpeg?itok=5m8z-p_x"
     },
     {
-        "title": "2640 Broadway St.",
+        "title": "2520 Broadway St.",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2640%20Broadway%20MAIN%20PHOTO.jpeg?itok=ofHSBfEF"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2520%20Broadway%20St.%20Tree%202%20photo%201.jpg?itok=kY7qnN_n"
     },
     {
         "title": "1801 Hyde St.",
@@ -40,9 +40,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1278%203rd%20Ave%20tree%201%20photo%201.jpg?itok=haUtpRd0"
     },
     {
-        "title": "65 States St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/65%20States%20St.%20Tree%201%20photo%201b.jpg?itok=CRrXzCcV"
+        "title": "501 Gonzalez Dr.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/501X%20Gonzalez%20Dr%20Photo%201.jpeg?itok=YsRST5cz"
+    },
+    {
+        "title": "1200 Plymouth Ave.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1200%20Plymouth%20Ave%20Tree%201%20photo%201.jpeg?itok=Ylue_O1l"
+    },
+    {
+        "title": "131 Edna St.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/131%20Edna%20St.%20Tree%201%20photo%201.jpeg?itok=U7dqFLp6"
+    },
+    {
+        "title": "531 Foerster St.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/531%20Foerster%20St.%20Tree%201%20photo%201.jpeg?itok=m_zRHf8l"
     },
     {
         "title": "44 Surrey St.",
@@ -60,6 +75,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/227%20Church%20St.%20Tree%201%20photo%201.JPG?itok=lavgYeuy"
     },
     {
+        "title": "135 Graystone (Trees are at \"140\" Villa Terrace)",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/135%20Graystone%20Terrace%20on%20Villa%20Terrace%20frontage%20%281%29.jpeg?itok=Oli6meSL"
+    },
+    {
         "title": "10 Mansell St. (in the median)",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/10X%20Mansell%20St.%20median%20tree%202%20on%20left%20tree%203%20on%20right.jpg?itok=LZw9rrOr"
@@ -73,11 +93,6 @@
         "title": "2285 Jerrold Ave.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2285%20Jerrold%20Ave%20Tree%2010%20photo%201b.jpg?itok=ghPHDRI6"
-    },
-    {
-        "title": "491 Potrero Ave.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/491%20Potrero%20Tree%201%20photo%201.jpeg?itok=ueYXGEas"
     },
     {
         "title": "212 Sagamore St.",
