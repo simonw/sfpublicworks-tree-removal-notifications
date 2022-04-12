@@ -1,18 +1,8 @@
 [
     {
-        "title": "741 3rd Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/741%203rd%20Ave%20Tree%20site%20photo%201.jpeg?itok=5m8z-p_x"
-    },
-    {
         "title": "2520 Broadway St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2520%20Broadway%20St.%20Tree%202%20photo%201.jpg?itok=kY7qnN_n"
-    },
-    {
-        "title": "1200 29th Ave.",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1200%2029th%20Ave%20Tree%202%20PHoto%201.jpg?itok=wHMuBHsF"
     },
     {
         "title": "2817 Lincoln Way",
@@ -70,11 +60,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1050%203rd%20St.%20photo%201%20diagram%20of%20both%20trees%20on%20Google.jpeg?itok=4kPXQjEH"
     },
     {
-        "title": "501 Gonzalez Dr.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/501X%20Gonzalez%20Dr%20Photo%201.jpeg?itok=YsRST5cz"
-    },
-    {
         "title": "1200 Plymouth Ave.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1200%20Plymouth%20Ave%20Tree%201%20photo%201.jpeg?itok=Ylue_O1l"
@@ -90,18 +75,38 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/531%20Foerster%20St.%20Tree%201%20photo%201.jpeg?itok=m_zRHf8l"
     },
     {
-        "title": "227 Church St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/227%20Church%20St.%20Tree%201%20photo%201.JPG?itok=lavgYeuy"
-    },
-    {
         "title": "135 Graystone (Trees are at \"140\" Villa Terrace)",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/135%20Graystone%20Terrace%20on%20Villa%20Terrace%20frontage%20%281%29.jpeg?itok=Oli6meSL"
     },
     {
+        "title": "335 Jersey St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/335%20Jersey%20St.%20Tree%201%20photo%201.jpg?itok=Ub0_xqEu"
+    },
+    {
+        "title": "1378 Church St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1378%20Church%20St.%20Tree%201%20Photo%201_0.jpg?itok=wzDnOWuB"
+    },
+    {
+        "title": "159 Laidley St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/159%20Laidley%20St.%20Tree%201%20and%20Tree%203%20general%20view.jpeg?itok=iaGyi3fe"
+    },
+    {
+        "title": "5367 Diamond Hts. Blvd / 1900 Diamond St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5367%20Diamond%20Hts%201900%20Diamond%20St.%20Diamond%20Hts%20Blvd%20diagram%201.JPG?itok=YTxfgMeN"
+    },
+    {
         "title": "10 Mansell St. (in the median)",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/10X%20Mansell%20St.%20median%20tree%202%20on%20left%20tree%203%20on%20right.jpg?itok=LZw9rrOr"
+    },
+    {
+        "title": "907 Treat Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/907%20Treat%20Tree%201%20photo%201.jpg?itok=hjkDVCAk"
     }
 ]
