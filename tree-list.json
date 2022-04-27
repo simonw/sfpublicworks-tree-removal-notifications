@@ -10,9 +10,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/798%203rd%20Ave%20Tree%201%20photo%201.jpeg?itok=oqO5eT1X"
     },
     {
-        "title": "2520 Broadway St.",
+        "title": "564 2nd Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/564%202nd%20Ave%20Tree%201%20photo%201.jpeg?itok=wZZ0CA3O"
+    },
+    {
+        "title": "597 2nd Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/597%202nd%20Ave%20last%20photo%20showing%20replacement%20location.jpeg?itok=gcGOs6Lw"
+    },
+    {
+        "title": "2708 Fulton St.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2708%20Fulton%20St.%20Tree%201%20photo%201.jpeg?itok=5Gos2ioy"
+    },
+    {
+        "title": "1322 Baker Street",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2520%20Broadway%20St.%20Tree%202%20photo%201.jpg?itok=kY7qnN_n"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1322%20Baker%20both%20trees%20over%20view.jpeg?itok=dvPc8kfC"
     },
     {
         "title": "1591 Jackson St.",
@@ -65,21 +80,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/14%20Moss%20St.%20Tree%201%20photo%201.jpeg?itok=2BW2vmeT"
     },
     {
-        "title": "131 Edna St.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/131%20Edna%20St.%20Tree%201%20photo%201.jpeg?itok=U7dqFLp6"
-    },
-    {
-        "title": "531 Foerster St.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/531%20Foerster%20St.%20Tree%201%20photo%201.jpeg?itok=m_zRHf8l"
-    },
-    {
-        "title": "135 Graystone (Trees are at \"140\" Villa Terrace)",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/135%20Graystone%20Terrace%20on%20Villa%20Terrace%20frontage%20%281%29.jpeg?itok=Oli6meSL"
-    },
-    {
         "title": "367 27th St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/367%2027th%20St.%20Tree%201%20photo%201_0.jpeg?itok=6mHr5nYW"
@@ -110,9 +110,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/907%20Treat%20Tree%201%20photo%201.jpg?itok=hjkDVCAk"
     },
     {
+        "title": "2800 3rd Street",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2800%203rd%20street%20Overview%20photo.jpeg?itok=sAFVRy0P"
+    },
+    {
+        "title": "901 16th Street",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/901%2016th%20Street.jpeg?itok=k7JtWnvG"
+    },
+    {
         "title": "385 Bright St.",
         "district": "District 11",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/385%20Bright%20St.%20Tree%203%20photo%201%20of%201.jpeg?itok=WcJsJvOJ"
+    },
+    {
+        "title": "375 Vernon St.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/375%20Vernon%20St.%20Tree%201%20photo%201.jpeg?itok=RAGl_fnZ"
     },
     {
         "title": "491 Bright St.",
