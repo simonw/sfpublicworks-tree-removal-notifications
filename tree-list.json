@@ -5,7 +5,7 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/367%2027th%20St.%20Tree%201%20photo%201.jpeg?itok=xgQXUu7r"
     },
     {
-        "title": "798 Bright St.",
+        "title": "798 3rd Ave.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/798%203rd%20Ave%20Tree%201%20photo%201.jpeg?itok=oqO5eT1X"
     },
@@ -163,5 +163,10 @@
         "title": "618 Shields St.",
         "district": "District 11",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/618%20Shields%20St.%20Tree%201%20photo%201.jpeg?itok=ddfpYTlC"
+    },
+    {
+        "title": "30th Avenue and Vicente Street",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Image_3.jpeg?itok=7QDneDtV"
     }
 ]
