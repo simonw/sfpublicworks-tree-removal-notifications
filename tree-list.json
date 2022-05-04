@@ -5,9 +5,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/367%2027th%20St.%20Tree%201%20photo%201.jpeg?itok=xgQXUu7r"
     },
     {
+        "title": "600 Arguello Blvd.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/600%20Arguello%20Blvd%20Tree%204%20photo%201.jpg?itok=eGNtoAOk"
+    },
+    {
         "title": "798 3rd Ave.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/798%203rd%20Ave%20Tree%201%20photo%201.jpeg?itok=oqO5eT1X"
+    },
+    {
+        "title": "704 Arguello Blvd.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/704%20Arguello%20Blvd%20Tree%201%20photo%201.jpg?itok=mPq4exxf"
     },
     {
         "title": "564 2nd Ave.",
@@ -28,6 +38,16 @@
         "title": "1322 Baker Street",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1322%20Baker%20both%20trees%20over%20view.jpeg?itok=dvPc8kfC"
+    },
+    {
+        "title": "2770 Broadway St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2770%20Broadway%20Tree%201%20photo%201.jpg?itok=U_8kxqqY"
+    },
+    {
+        "title": "142 Arguello Blvd.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/142%20Arguello%20Blvd%20Tree%201%20photo%201.jpg?itok=eAdDXcxc"
     },
     {
         "title": "1591 Jackson St.",
