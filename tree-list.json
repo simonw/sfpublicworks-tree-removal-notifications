@@ -1,10 +1,5 @@
 [
     {
-        "title": "874 35th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/367%2027th%20St.%20Tree%201%20photo%201.jpeg?itok=xgQXUu7r"
-    },
-    {
         "title": "600 Arguello Blvd.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/600%20Arguello%20Blvd%20Tree%204%20photo%201.jpg?itok=eGNtoAOk"
@@ -50,59 +45,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/142%20Arguello%20Blvd%20Tree%201%20photo%201.jpg?itok=eAdDXcxc"
     },
     {
-        "title": "1591 Jackson St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1591%20Jackson%20St.%20Tree%205%20photo%201%20diagram.jpeg?itok=0Upd6o5E"
-    },
-    {
-        "title": "78 Haight St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/78%20Haight%20St.%20Tree%201%20of%201%20on%20Haight%20St%20frontage.jpeg?itok=MHpzC56y"
-    },
-    {
-        "title": "100 Octavia Blvd.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Octavia%20St.%20Tree%201.jpeg?itok=6mhhXSMO"
-    },
-    {
-        "title": "100 Octavia Blvd.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Octavia%20St.%20Tree%202.jpeg?itok=tDrKuKWZ"
-    },
-    {
-        "title": "100 Octavia Blvd.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Octavia%20St.%20tree%204.jpeg?itok=KRJQ1V2a"
-    },
-    {
-        "title": "100 Octavia Blvd.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Octavia%20St.%20tree%205.jpeg?itok=Zaot3089"
-    },
-    {
-        "title": "100 Octavia Blvd.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Octavia%20St.%20tree%206%20photo%201.jpeg?itok=gx1qLEim"
-    },
-    {
-        "title": "Better Market Street Phase 1 Hearing",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/900%20Market%20St.%20Tree%208%20ID%20143285%20photo%201.jpeg?itok=WmLgeObC"
-    },
-    {
-        "title": "1050 3rd St.",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1050%203rd%20St.%20photo%201%20diagram%20of%20both%20trees%20on%20Google.jpeg?itok=4kPXQjEH"
-    },
-    {
         "title": "14 Moss St.",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/14%20Moss%20St.%20Tree%201%20photo%201.jpeg?itok=2BW2vmeT"
-    },
-    {
-        "title": "367 27th St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/367%2027th%20St.%20Tree%201%20photo%201_0.jpeg?itok=6mHr5nYW"
     },
     {
         "title": "335 Jersey St.",
@@ -148,6 +93,11 @@
         "title": "375 Vernon St.",
         "district": "District 11",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/375%20Vernon%20St.%20Tree%201%20photo%201.jpeg?itok=RAGl_fnZ"
+    },
+    {
+        "title": "12X Canyon Dr. (in the median)",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/12X%20Canyon%20Tree%203%20median%20photo%201%20of%202.jpg?itok=RL_XNi1R"
     },
     {
         "title": "491 Bright St.",
