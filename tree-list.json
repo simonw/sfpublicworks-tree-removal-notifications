@@ -1,20 +1,5 @@
 [
     {
-        "title": "600 Arguello Blvd.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/600%20Arguello%20Blvd%20Tree%204%20photo%201.jpg?itok=eGNtoAOk"
-    },
-    {
-        "title": "798 3rd Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/798%203rd%20Ave%20Tree%201%20photo%201.jpeg?itok=oqO5eT1X"
-    },
-    {
-        "title": "704 Arguello Blvd.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/704%20Arguello%20Blvd%20Tree%201%20photo%201.jpg?itok=mPq4exxf"
-    },
-    {
         "title": "564 2nd Ave.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/564%202nd%20Ave%20Tree%201%20photo%201.jpeg?itok=wZZ0CA3O"
@@ -50,9 +35,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/142%20Arguello%20Blvd%20Tree%201%20photo%201.jpg?itok=eAdDXcxc"
     },
     {
-        "title": "14 Moss St.",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/14%20Moss%20St.%20Tree%201%20photo%201.jpeg?itok=2BW2vmeT"
+        "title": "2372 Broadway",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2371%20Broadway%201.jpg?itok=Bn8a9WwT"
+    },
+    {
+        "title": "428 Carls Street",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/428%20Carl%20Street%20%201.jpg?itok=gLCnnyxS"
     },
     {
         "title": "351 Judson Ave. (50 Phelan/City College campus)",
@@ -80,9 +70,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/901%2016th%20Street.jpeg?itok=k7JtWnvG"
     },
     {
-        "title": "385 Bright St.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/385%20Bright%20St.%20Tree%203%20photo%201%20of%201.jpeg?itok=WcJsJvOJ"
+        "title": "1294 Palou Avenue",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1294%20Palou%20Avenue%201.jpg?itok=sesPH_TJ"
+    },
+    {
+        "title": "1290 Palou Avenue",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1290%20Palou%20Avenue%201.jpg?itok=_8-fm4B5"
     },
     {
         "title": "375 Vernon St.",
@@ -95,39 +90,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/12X%20Canyon%20Tree%203%20median%20photo%201%20of%202.jpg?itok=RL_XNi1R"
     },
     {
-        "title": "491 Bright St.",
+        "title": "21 Moneta Ct.",
         "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/491%20Bright%20St.%20Tree%201%20photo%201.jpeg?itok=8O0NZQ7a"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/21%20Moneta%20Court%201.jpg?itok=MaTPv3EA"
     },
     {
-        "title": "638 Head St.",
+        "title": "5600 Mission Street",
         "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/638%20Head%20St.%20Tree%201%20photo%201.jpeg?itok=fIbfwKiv"
-    },
-    {
-        "title": "58 Ralston St.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/58%20Ralston%20St.%20Tree%201%20photo%201.jpeg?itok=zXk6fQgP"
-    },
-    {
-        "title": "183 Ralston St.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/183%20Ralston%20Tree%201%20photo%201.jpeg?itok=UElJXm_5"
-    },
-    {
-        "title": "231 Ramsell St.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/231%20Ramsell%20St.%20Tree%201%20photo%201.jpeg?itok=RLjyUrpE"
-    },
-    {
-        "title": "18 Sargent St.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/18%20Sargent%20St.%20Tree%202%20photo%201.jpeg?itok=WS2bbzBe"
-    },
-    {
-        "title": "618 Shields St.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/618%20Shields%20St.%20Tree%201%20photo%201.jpeg?itok=ddfpYTlC"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5600%20Mission%20street%202%20tree%20Seq%208.jpg?itok=XBMSSu3b"
     },
     {
         "title": "30th Avenue and Vicente Street",
