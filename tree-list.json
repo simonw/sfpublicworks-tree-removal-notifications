@@ -1,28 +1,13 @@
 [
     {
-        "title": "564 2nd Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/564%202nd%20Ave%20Tree%201%20photo%201.jpeg?itok=wZZ0CA3O"
-    },
-    {
-        "title": "597 2nd Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/597%202nd%20Ave%20last%20photo%20showing%20replacement%20location.jpeg?itok=gcGOs6Lw"
-    },
-    {
-        "title": "2708 Fulton St.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2708%20Fulton%20St.%20Tree%201%20photo%201.jpeg?itok=5Gos2ioy"
-    },
-    {
-        "title": "1322 Baker Street",
+        "title": "226 Arguello Blvd.",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1322%20Baker%20both%20trees%20over%20view.jpeg?itok=dvPc8kfC"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/226%20Arguello%20Blvd%20Tree%201%20photo%201_0.jpg?itok=ch4RfHhf"
     },
     {
-        "title": "2770 Broadway St.",
+        "title": "3935 Clay St.",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2770%20Broadway%20Tree%201%20photo%201.jpg?itok=U_8kxqqY"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3935%20Clay%20St.%20Tree%202%20photo%201.jpg?itok=0LeCYiRn"
     },
     {
         "title": "901 Bay St. (listed in tree database as 2843 Larkin St. Tree 1)",
@@ -30,14 +15,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/901%20Bay%20St.%20Photo%201.jpeg?itok=hi45lUgG"
     },
     {
-        "title": "142 Arguello Blvd.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/142%20Arguello%20Blvd%20Tree%201%20photo%201.jpg?itok=eAdDXcxc"
-    },
-    {
         "title": "2372 Broadway",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2371%20Broadway%201.jpg?itok=Bn8a9WwT"
+    },
+    {
+        "title": "2770 Broadway St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2770%20Broadway%20Tree%201%20photo%201.jpg?itok=U_8kxqqY"
+    },
+    {
+        "title": "142 Arguello Blvd.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/142%20Arguello%20Blvd%20Tree%201%20photo%201.jpg?itok=eAdDXcxc"
     },
     {
         "title": "428 Carls Street",
@@ -60,16 +50,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/314%20Staples%20Tree%202%20photo%201.jpg?itok=5gVXKSWU"
     },
     {
-        "title": "2800 3rd Street",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2800%203rd%20street%20Overview%20photo.jpeg?itok=sAFVRy0P"
-    },
-    {
-        "title": "901 16th Street",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/901%2016th%20Street.jpeg?itok=k7JtWnvG"
-    },
-    {
         "title": "1294 Palou Avenue",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1294%20Palou%20Avenue%201.jpg?itok=sesPH_TJ"
@@ -78,16 +58,6 @@
         "title": "1290 Palou Avenue",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1290%20Palou%20Avenue%201.jpg?itok=_8-fm4B5"
-    },
-    {
-        "title": "375 Vernon St.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/375%20Vernon%20St.%20Tree%201%20photo%201.jpeg?itok=RAGl_fnZ"
-    },
-    {
-        "title": "12X Canyon Dr. (in the median)",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/12X%20Canyon%20Tree%203%20median%20photo%201%20of%202.jpg?itok=RL_XNi1R"
     },
     {
         "title": "21 Moneta Ct.",
