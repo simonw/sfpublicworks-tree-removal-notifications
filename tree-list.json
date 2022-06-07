@@ -15,39 +15,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/901%20Bay%20St.%20Photo%201.jpeg?itok=hi45lUgG"
     },
     {
-        "title": "2372 Broadway",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2371%20Broadway%201.jpg?itok=Bn8a9WwT"
-    },
-    {
-        "title": "2770 Broadway St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2770%20Broadway%20Tree%201%20photo%201.jpg?itok=U_8kxqqY"
-    },
-    {
-        "title": "142 Arguello Blvd.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/142%20Arguello%20Blvd%20Tree%201%20photo%201.jpg?itok=eAdDXcxc"
-    },
-    {
         "title": "428 Carl Street",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/428%20Carl%20Street%20%201.jpg?itok=gLCnnyxS"
-    },
-    {
-        "title": "351 Judson Ave. (50 Phelan/City College campus)",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/351%20Judson%203%20replacement%20locations%20at%207%2015%2021%20Gennessee%20St.jpg?itok=sqqkS-dx"
-    },
-    {
-        "title": "520 Judson Ave.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/520%20Judson%20Ave%20Tree%202%20photo%201.jpg?itok=7eZmUQ20"
-    },
-    {
-        "title": "314 Staples Ave.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/314%20Staples%20Tree%202%20photo%201.jpg?itok=5gVXKSWU"
     },
     {
         "title": "1294 Palou Avenue",
@@ -68,10 +38,5 @@
         "title": "5600 Mission Street",
         "district": "District 11",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5600%20Mission%20street%202%20tree%20Seq%208.jpg?itok=XBMSSu3b"
-    },
-    {
-        "title": "30th Avenue and Vicente Street",
-        "district": "Tree Removals by Other City Agencies",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Image_3.jpeg?itok=7QDneDtV"
     }
 ]
