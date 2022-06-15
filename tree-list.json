@@ -15,9 +15,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/901%20Bay%20St.%20Photo%201.jpeg?itok=hi45lUgG"
     },
     {
+        "title": "2155-2157 Jackson St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2157%20Jackson%20St%20Tree%201%20Photo%201.jpg?itok=jtbQuV_W"
+    },
+    {
         "title": "428 Carl Street",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/428%20Carl%20Street%20%201.jpg?itok=gLCnnyxS"
+    },
+    {
+        "title": "351 Valencia St",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/351%20Valencia%20St.%20photo%20across%20street%20from%20GG%20Tank%20Removal.jpg?itok=dDVcus1w"
     },
     {
         "title": "1294 Palou Avenue",
@@ -28,6 +38,16 @@
         "title": "1290 Palou Avenue",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1290%20Palou%20Avenue%201.jpg?itok=_8-fm4B5"
+    },
+    {
+        "title": "1050 16th St",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1050%2016th%20St.%20Tree%201%20Photo%201.jpg?itok=dVj5BEr3"
+    },
+    {
+        "title": "57 Hare St (X st. Middle Point)",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/57%20Hare%20St%20Tree%201%20photo%201.jpg?itok=s8sR5iY9"
     },
     {
         "title": "21 Moneta Ct.",
