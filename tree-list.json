@@ -10,19 +10,34 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3935%20Clay%20St.%20Tree%202%20photo%201.jpg?itok=0LeCYiRn"
     },
     {
-        "title": "901 Bay St. (listed in tree database as 2843 Larkin St. Tree 1)",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/901%20Bay%20St.%20Photo%201.jpeg?itok=hi45lUgG"
-    },
-    {
         "title": "2155-2157 Jackson St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2157%20Jackson%20St%20Tree%201%20Photo%201.jpg?itok=jtbQuV_W"
     },
     {
+        "title": "301 El Camino Del Mar",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/301%20El%20Camino%20Del%20Mar%20seq%202%20pic%202.JPG?itok=h8acmrsj"
+    },
+    {
+        "title": "55 Francisco Street",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/55%20Francisco%20St%20tree%207%20pic%201.jpg?itok=wKUNRQYG"
+    },
+    {
+        "title": "2550 Irving Street",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Significant%20tree%201%20on%20Irving%20street.JPG?itok=jUDKMg6j"
+    },
+    {
         "title": "428 Carl Street",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/428%20Carl%20Street%20%201.jpg?itok=gLCnnyxS"
+    },
+    {
+        "title": "486 Duncan",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/486%20Duncan%20St%20tree%201%20pic%201.jpg?itok=18qzUWdh"
     },
     {
         "title": "351 Valencia St",
@@ -50,13 +65,8 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/57%20Hare%20St%20Tree%201%20photo%201.jpg?itok=s8sR5iY9"
     },
     {
-        "title": "21 Moneta Ct.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/21%20Moneta%20Court%201.jpg?itok=MaTPv3EA"
-    },
-    {
-        "title": "5600 Mission Street",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5600%20Mission%20street%202%20tree%20Seq%208.jpg?itok=XBMSSu3b"
+        "title": "30th Avenue and Vicente Street",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/TreeHearingNotice3.jpg?itok=c3Dq3hpG"
     }
 ]
