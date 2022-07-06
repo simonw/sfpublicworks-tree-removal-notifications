@@ -1,13 +1,8 @@
 [
     {
-        "title": "226 Arguello Blvd.",
+        "title": "2107 Lyon St.",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/226%20Arguello%20Blvd%20Tree%201%20photo%201_0.jpg?itok=ch4RfHhf"
-    },
-    {
-        "title": "3935 Clay St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3935%20Clay%20St.%20Tree%202%20photo%201.jpg?itok=0LeCYiRn"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2107%20Lyon%20St.%20Significant%20trees%20no.%201%20and%202.jpg?itok=9NWCSgTK"
     },
     {
         "title": "2155-2157 Jackson St",
@@ -35,19 +30,29 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/958%20Hayes%20St%20photo%201.jpg?itok=8z__uFBZ"
     },
     {
+        "title": "44 Woodland Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/44%20Woodland%20Ave.%20Tree%201%20photo%201.jpg?itok=ejNNWFev"
+    },
+    {
         "title": "486 Duncan",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/486%20Duncan%20St%20tree%201%20pic%201.jpg?itok=18qzUWdh"
     },
     {
+        "title": "2680 Diamond St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2680%20Diamond%20St.%20Tree%202%20photo%201.jpg?itok=LQWXCP4t"
+    },
+    {
+        "title": "1190 Haight St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1190%20Haight%20St.%20Tree%201%20photo%201.jpg?itok=l94ypWtR"
+    },
+    {
         "title": "351 Valencia St",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/351%20Valencia%20St.%20photo%20across%20street%20from%20GG%20Tank%20Removal.jpg?itok=dDVcus1w"
-    },
-    {
-        "title": "1050 16th St",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1050%2016th%20St.%20Tree%201%20Photo%201.jpg?itok=dVj5BEr3"
     },
     {
         "title": "57 Hare St (X st. Middle Point)",
