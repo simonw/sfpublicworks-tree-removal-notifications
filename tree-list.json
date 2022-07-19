@@ -5,14 +5,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2107%20Lyon%20St.%20Significant%20trees%20no.%201%20and%202.jpg?itok=9NWCSgTK"
     },
     {
-        "title": "2155-2157 Jackson St",
+        "title": "3760 Washington St.",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2157%20Jackson%20St%20Tree%201%20Photo%201.jpg?itok=jtbQuV_W"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20St.%20Photo%201.jpg?itok=Qhon4A5q"
     },
     {
         "title": "301 El Camino Del Mar",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/301%20El%20Camino%20Del%20Mar%20seq%202%20pic%202.JPG?itok=h8acmrsj"
+    },
+    {
+        "title": "33 Heather Ave.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/33%20Heather%20Ave%20Photo%201.jpg?itok=CS4U4Qgs"
     },
     {
         "title": "55 Francisco Street",
@@ -45,19 +50,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2680%20Diamond%20St.%20Tree%202%20photo%201.jpg?itok=LQWXCP4t"
     },
     {
+        "title": "3466 21st St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3466%2021st%20St.%20Tree%203%20Photo%201.jpg?itok=pm5NDcia"
+    },
+    {
+        "title": "3832 18th St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3832%2018th%20St.%20Photo%201%20July%202022.jpg?itok=vuoPUzhk"
+    },
+    {
         "title": "1190 Haight St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1190%20Haight%20St.%20Tree%201%20photo%201.jpg?itok=l94ypWtR"
-    },
-    {
-        "title": "351 Valencia St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/351%20Valencia%20St.%20photo%20across%20street%20from%20GG%20Tank%20Removal.jpg?itok=dDVcus1w"
-    },
-    {
-        "title": "57 Hare St (X st. Middle Point)",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/57%20Hare%20St%20Tree%201%20photo%201.jpg?itok=s8sR5iY9"
     },
     {
         "title": "30th Avenue and Vicente Street",
