@@ -5,9 +5,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3900%20Balboa%20St%20pic%201.jpg?itok=h5Z1NJLd"
     },
     {
+        "title": "225 Locust St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/225%20Locust%20St%20pic%201.jpg?itok=0Y9M904t"
+    },
+    {
         "title": "2107 Lyon St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2107%20Lyon%20St.%20Significant%20trees%20no.%201%20and%202.jpg?itok=9NWCSgTK"
+    },
+    {
+        "title": "3550 Washington St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3550%20Washington%20St%20pic%201.jpg?itok=EPR0Wwmr"
     },
     {
         "title": "3760 Washington St.",
@@ -38,6 +48,11 @@
         "title": "401 Parnassus Ave.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Parnassus%20photo.jpg?itok=2GgeOXa8"
+    },
+    {
+        "title": "1525 Waller St",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1525%20Waller%20St%20pic%201.jpg?itok=jQqYKSSd"
     },
     {
         "title": "11x Ravenwood Dr.",
