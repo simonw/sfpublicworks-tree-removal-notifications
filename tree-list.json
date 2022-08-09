@@ -10,11 +10,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/225%20Locust%20St%20pic%201.jpg?itok=0Y9M904t"
     },
     {
-        "title": "2107 Lyon St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2107%20Lyon%20St.%20Significant%20trees%20no.%201%20and%202.jpg?itok=9NWCSgTK"
-    },
-    {
         "title": "3550 Washington St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3550%20Washington%20St%20pic%201.jpg?itok=EPR0Wwmr"
@@ -25,11 +20,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20St.%20Photo%201.jpg?itok=Qhon4A5q"
     },
     {
-        "title": "33 Heather Ave.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/33%20Heather%20Ave%20Photo%201.jpg?itok=CS4U4Qgs"
-    },
-    {
         "title": "1900 Noriega St",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1900%20Noriega%20tree%201.jpg?itok=aZMkWNT7"
@@ -38,11 +28,6 @@
         "title": "958 Hayes St.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/958%20Hayes%20St%20photo%201.jpg?itok=8z__uFBZ"
-    },
-    {
-        "title": "44 Woodland Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/44%20Woodland%20Ave.%20Tree%201%20photo%201.jpg?itok=ejNNWFev"
     },
     {
         "title": "401 Parnassus Ave.",
@@ -58,6 +43,11 @@
         "title": "11x Ravenwood Dr.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/11x%20Ravenwood%20Dr%20pic%201.jpg?itok=Tprcktpw"
+    },
+    {
+        "title": "346 Kirkham St.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/346%20Kirkham%20St%20tree%201%20photo%201.jpg?itok=A5Vtm8tV"
     },
     {
         "title": "3466 21st St.",
