@@ -1,8 +1,8 @@
 [
     {
-        "title": "3900 Balboa St",
+        "title": "1135 Lake St.",
         "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3900%20Balboa%20St%20pic%201.jpg?itok=h5Z1NJLd"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1135%20Lake%20St%20tree%201%20pic%201.jpg?itok=9Y2qg46h"
     },
     {
         "title": "225 Locust St",
@@ -18,6 +18,26 @@
         "title": "3760 Washington St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20St.%20Photo%201.jpg?itok=Qhon4A5q"
+    },
+    {
+        "title": "504 Commercial St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/504%20Commercial%20St%20tree%202%20pic%201.jpg?itok=ff4F6stk"
+    },
+    {
+        "title": "275 Battery St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/275%20Battery%20St%20tree%203%20pic%201.jpg?itok=peu_w0Uj"
+    },
+    {
+        "title": "811 Hyde St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/811%20Hyde%20St%20tree%204%20pic%201.jpg?itok=RZdCAFCe"
+    },
+    {
+        "title": "556 Pine St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/556%20Pine%20St%20tree%201%20pic%201.jpg?itok=9bP2x8mY"
     },
     {
         "title": "1900 Noriega St",
@@ -40,6 +60,26 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1525%20Waller%20St%20pic%201.jpg?itok=jQqYKSSd"
     },
     {
+        "title": "1949 Golden Gate Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1949%20Golden%20Gate%20Ave%20tree%201%20pic%201.jpg?itok=tfsXH7Y5"
+    },
+    {
+        "title": "1865 Eddy St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1865%20Eddy%20St%20tree%202%20pic%201.jpg?itok=ouo7Ddj-"
+    },
+    {
+        "title": "1715 McAllister St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1715%20McAllister%20St%20tree%201%20pic%201.jpg?itok=4yUPePQK"
+    },
+    {
+        "title": "661 Divisadero St",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/661%20Divisadero%20St%20tree%202%20pic%201.jpg?itok=OSc4-tGT"
+    },
+    {
         "title": "11x Ravenwood Dr.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/11x%20Ravenwood%20Dr%20pic%201.jpg?itok=Tprcktpw"
@@ -60,9 +100,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3832%2018th%20St.%20Photo%201%20July%202022.jpg?itok=vuoPUzhk"
     },
     {
-        "title": "2301 Castro St",
+        "title": "999x 14th St",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2301%20Castro%20pic%201.jpg?itok=IATq29sg"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/999x%2014th%20St%20tree%201%20pic%201.jpg?itok=OjtUbAPf"
+    },
+    {
+        "title": "601x Illinois St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/601x%20Illinois%20St%20tree%201%20pic%201.jpg?itok=lGXY5f4D"
+    },
+    {
+        "title": "2212 25th St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2212%2025th%20St%20tree%203%20pic%201.jpg?itok=TQS9GdZB"
     },
     {
         "title": "30th Avenue and Vicente Street",
