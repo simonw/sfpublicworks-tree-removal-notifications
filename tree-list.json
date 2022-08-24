@@ -5,9 +5,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1135%20Lake%20St%20tree%201%20pic%201.jpg?itok=9Y2qg46h"
     },
     {
-        "title": "225 Locust St",
+        "title": "51 - 21st Ave.",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/225%20Locust%20St%20pic%201.jpg?itok=0Y9M904t"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/51%20%2021st%20Ave%20tree%201%20pic%201.jpg?itok=roHs5cQ-"
     },
     {
         "title": "3550 Washington St.",
@@ -15,9 +15,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3550%20Washington%20St%20pic%201.jpg?itok=EPR0Wwmr"
     },
     {
-        "title": "3760 Washington St.",
+        "title": "57 - 21st Ave.",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20St.%20Photo%201.jpg?itok=Qhon4A5q"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/57%2021st%20Ave%20tree%204%20pic%201.jpg?itok=VxEGsFYd"
+    },
+    {
+        "title": "57 - 21st Ave.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/57%2021st%20Ave%20tree%205%20pic%201.jpg?itok=Wb-wMsXd"
+    },
+    {
+        "title": "2800x Buchanan St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2800x%20Buchanan%20St%20tree%207%20pic%201.jpg?itok=HEq33Fly"
     },
     {
         "title": "504 Commercial St.",
@@ -55,11 +65,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Parnassus%20photo.jpg?itok=2GgeOXa8"
     },
     {
-        "title": "1525 Waller St",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1525%20Waller%20St%20pic%201.jpg?itok=jQqYKSSd"
-    },
-    {
         "title": "1949 Golden Gate Ave.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1949%20Golden%20Gate%20Ave%20tree%201%20pic%201.jpg?itok=tfsXH7Y5"
@@ -88,16 +93,6 @@
         "title": "346 Kirkham St.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/346%20Kirkham%20St%20tree%201%20photo%201.jpg?itok=A5Vtm8tV"
-    },
-    {
-        "title": "3466 21st St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3466%2021st%20St.%20Tree%203%20Photo%201.jpg?itok=pm5NDcia"
-    },
-    {
-        "title": "3832 18th St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3832%2018th%20St.%20Photo%201%20July%202022.jpg?itok=vuoPUzhk"
     },
     {
         "title": "999x 14th St",
