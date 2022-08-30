@@ -10,6 +10,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/51%20%2021st%20Ave%20tree%201%20pic%201.jpg?itok=roHs5cQ-"
     },
     {
+        "title": "2623 Pacific Ave",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2623%20Pacific%20Ave%20tree%201%20pic%201.jpg?itok=RLpPKPmt"
+    },
+    {
         "title": "3550 Washington St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3550%20Washington%20St%20pic%201.jpg?itok=EPR0Wwmr"
@@ -23,6 +28,11 @@
         "title": "57 - 21st Ave.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/57%2021st%20Ave%20tree%205%20pic%201.jpg?itok=Wb-wMsXd"
+    },
+    {
+        "title": "2623 Pacific Ave",
+        "district": "District 2",
+        "img_src": null
     },
     {
         "title": "2800x Buchanan St.",
@@ -50,19 +60,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/556%20Pine%20St%20tree%201%20pic%201.jpg?itok=9bP2x8mY"
     },
     {
-        "title": "1900 Noriega St",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1900%20Noriega%20tree%201.jpg?itok=aZMkWNT7"
+        "title": "69 Green St",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/69%20Green%20St%20tree%201%20pic%201.jpg?itok=_ZL-HT3D"
     },
     {
         "title": "958 Hayes St.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/958%20Hayes%20St%20photo%201.jpg?itok=8z__uFBZ"
-    },
-    {
-        "title": "401 Parnassus Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Parnassus%20photo.jpg?itok=2GgeOXa8"
     },
     {
         "title": "1949 Golden Gate Ave.",
@@ -85,24 +90,29 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/661%20Divisadero%20St%20tree%202%20pic%201.jpg?itok=OSc4-tGT"
     },
     {
-        "title": "11x Ravenwood Dr.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/11x%20Ravenwood%20Dr%20pic%201.jpg?itok=Tprcktpw"
-    },
-    {
-        "title": "346 Kirkham St.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/346%20Kirkham%20St%20tree%201%20photo%201.jpg?itok=A5Vtm8tV"
-    },
-    {
         "title": "999x 14th St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/999x%2014th%20St%20tree%201%20pic%201.jpg?itok=OjtUbAPf"
     },
     {
+        "title": "33 Denning St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/33%20Demming%20St%20tree%201%20pic%201.jpg?itok=cttRgW3Q"
+    },
+    {
+        "title": "47 Chenery St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/47%20Chenery%20St%20tree%202%20pic%201.jpg?itok=fW5xWwap"
+    },
+    {
         "title": "601x Illinois St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/601x%20Illinois%20St%20tree%201%20pic%201.jpg?itok=lGXY5f4D"
+    },
+    {
+        "title": "2208 25th St",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2208%2025th%20St%20tree%201%20pic%201.jpg?itok=rWdZwJha"
     },
     {
         "title": "2212 25th St.",
