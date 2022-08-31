@@ -15,11 +15,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2623%20Pacific%20Ave%20tree%201%20pic%201.jpg?itok=RLpPKPmt"
     },
     {
-        "title": "3550 Washington St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3550%20Washington%20St%20pic%201.jpg?itok=EPR0Wwmr"
-    },
-    {
         "title": "57 - 21st Ave.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/57%2021st%20Ave%20tree%204%20pic%201.jpg?itok=VxEGsFYd"
@@ -63,11 +58,6 @@
         "title": "69 Green St",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/69%20Green%20St%20tree%201%20pic%201.jpg?itok=_ZL-HT3D"
-    },
-    {
-        "title": "958 Hayes St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/958%20Hayes%20St%20photo%201.jpg?itok=8z__uFBZ"
     },
     {
         "title": "1949 Golden Gate Ave.",
