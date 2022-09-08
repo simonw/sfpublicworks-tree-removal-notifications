@@ -1,10 +1,5 @@
 [
     {
-        "title": "1135 Lake St.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1135%20Lake%20St%20tree%201%20pic%201.jpg?itok=9Y2qg46h"
-    },
-    {
         "title": "51 - 21st Ave.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/51%20%2021st%20Ave%20tree%201%20pic%201.jpg?itok=roHs5cQ-"
@@ -40,6 +35,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/504%20Commercial%20St%20tree%202%20pic%201.jpg?itok=ff4F6stk"
     },
     {
+        "title": "700 Chestnut St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700%20Chestnut%20St%20tree%208%20pic%201.jpeg?itok=voFmcokk"
+    },
+    {
         "title": "275 Battery St.",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/275%20Battery%20St%20tree%203%20pic%201.jpg?itok=peu_w0Uj"
@@ -60,29 +60,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/69%20Green%20St%20tree%201%20pic%201.jpg?itok=_ZL-HT3D"
     },
     {
-        "title": "1949 Golden Gate Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1949%20Golden%20Gate%20Ave%20tree%201%20pic%201.jpg?itok=tfsXH7Y5"
-    },
-    {
-        "title": "1865 Eddy St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1865%20Eddy%20St%20tree%202%20pic%201.jpg?itok=ouo7Ddj-"
-    },
-    {
-        "title": "1715 McAllister St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1715%20McAllister%20St%20tree%201%20pic%201.jpg?itok=4yUPePQK"
-    },
-    {
-        "title": "661 Divisadero St",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/661%20Divisadero%20St%20tree%202%20pic%201.jpg?itok=OSc4-tGT"
-    },
-    {
-        "title": "999x 14th St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/999x%2014th%20St%20tree%201%20pic%201.jpg?itok=OjtUbAPf"
+        "title": "2601 Ocean Ave",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2601%20Ocean%20Ave%20tree%201%20pic%201.jpeg?itok=tlCGLqRc"
     },
     {
         "title": "33 Denning St",
