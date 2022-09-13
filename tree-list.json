@@ -60,6 +60,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/69%20Green%20St%20tree%201%20pic%201.jpg?itok=_ZL-HT3D"
     },
     {
+        "title": "1801 Vicente St",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1801%20Vicente%20St%20tree%202%20pic%201.jpg?itok=f-QryHJu"
+    },
+    {
         "title": "2601 Ocean Ave",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2601%20Ocean%20Ave%20tree%201%20pic%201.jpeg?itok=tlCGLqRc"
@@ -85,13 +90,13 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2208%2025th%20St%20tree%201%20pic%201.jpg?itok=rWdZwJha"
     },
     {
+        "title": "700 Minnesota St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Screen%20Shot%202022-09-12%20at%202.59.42%20PM.png?itok=BdbewMoi"
+    },
+    {
         "title": "2212 25th St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2212%2025th%20St%20tree%203%20pic%201.jpg?itok=TQS9GdZB"
-    },
-    {
-        "title": "30th Avenue and Vicente Street",
-        "district": "Tree Removals by Other City Agencies",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/TreeHearingNotice3.jpg?itok=c3Dq3hpG"
     }
 ]
