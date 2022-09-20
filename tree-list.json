@@ -5,11 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/51%20%2021st%20Ave%20tree%201%20pic%201.jpg?itok=roHs5cQ-"
     },
     {
-        "title": "2623 Pacific Ave",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2623%20Pacific%20Ave%20tree%201%20pic%201.jpg?itok=RLpPKPmt"
-    },
-    {
         "title": "57 - 21st Ave.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/57%2021st%20Ave%20tree%204%20pic%201.jpg?itok=VxEGsFYd"
@@ -20,39 +15,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/57%2021st%20Ave%20tree%205%20pic%201.jpg?itok=Wb-wMsXd"
     },
     {
-        "title": "2623 Pacific Ave",
-        "district": "District 2",
-        "img_src": null
-    },
-    {
         "title": "2800x Buchanan St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2800x%20Buchanan%20St%20tree%207%20pic%201.jpg?itok=HEq33Fly"
     },
     {
-        "title": "504 Commercial St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/504%20Commercial%20St%20tree%202%20pic%201.jpg?itok=ff4F6stk"
-    },
-    {
         "title": "700 Chestnut St.",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700%20Chestnut%20St%20tree%208%20pic%201.jpeg?itok=voFmcokk"
-    },
-    {
-        "title": "275 Battery St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/275%20Battery%20St%20tree%203%20pic%201.jpg?itok=peu_w0Uj"
-    },
-    {
-        "title": "811 Hyde St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/811%20Hyde%20St%20tree%204%20pic%201.jpg?itok=RZdCAFCe"
-    },
-    {
-        "title": "556 Pine St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/556%20Pine%20St%20tree%201%20pic%201.jpg?itok=9bP2x8mY"
     },
     {
         "title": "69 Green St",
@@ -70,19 +40,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2601%20Ocean%20Ave%20tree%201%20pic%201.jpeg?itok=tlCGLqRc"
     },
     {
-        "title": "33 Denning St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/33%20Demming%20St%20tree%201%20pic%201.jpg?itok=cttRgW3Q"
-    },
-    {
         "title": "47 Chenery St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/47%20Chenery%20St%20tree%202%20pic%201.jpg?itok=fW5xWwap"
-    },
-    {
-        "title": "601x Illinois St.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/601x%20Illinois%20St%20tree%201%20pic%201.jpg?itok=lGXY5f4D"
     },
     {
         "title": "2208 25th St",
@@ -93,10 +53,5 @@
         "title": "700 Minnesota St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Screen%20Shot%202022-09-12%20at%202.59.42%20PM.png?itok=BdbewMoi"
-    },
-    {
-        "title": "2212 25th St.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2212%2025th%20St%20tree%203%20pic%201.jpg?itok=TQS9GdZB"
     }
 ]
