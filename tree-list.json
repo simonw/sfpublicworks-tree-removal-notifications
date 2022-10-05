@@ -5,6 +5,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4546%20Anza%20St%20tree%202%20pic%201.jpg?itok=z8dpOVLc"
     },
     {
+        "title": "383 6th Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/383%206th%20Ave%20tree%201%20pic%201.jpg?itok=lodEsb3X"
+    },
+    {
         "title": "2610 Clay St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2610%20Clay%20St%20tree%203%20pic%202.jpg?itok=934oIZzG"
@@ -23,16 +28,6 @@
         "title": "1000x The Embarcadero",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1000x%20The%20Embarcadero%20tree%209%20pic%201.jpg?itok=KcgIFXoE"
-    },
-    {
-        "title": "69 Green St",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/69%20Green%20St%20tree%201%20pic%201.jpg?itok=_ZL-HT3D"
-    },
-    {
-        "title": "1801 Vicente St",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1801%20Vicente%20St%20tree%202%20pic%201.jpg?itok=f-QryHJu"
     },
     {
         "title": "1434 - 43rd Ave",
@@ -55,14 +50,29 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/496%20Ivy%20St%20tree%205%20pic%201.jpg?itok=XSzwR5MR"
     },
     {
+        "title": "533 Parnassus Ave.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/533%20Parnassus%20tree%201.jpg?itok=4yBUZ-7o"
+    },
+    {
         "title": "629 Miramar Ave",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/629%20Miramar%20Ave%20tree%201.jpg?itok=9qo646hg"
     },
     {
+        "title": "1030 Ulloa St.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1030%20Ulloa%20St%20tree%201%20pic%201.jpg?itok=V89SFjwl"
+    },
+    {
         "title": "102 San Ramon Way",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/102%20San%20Ramon%20Way%20tree%202.jpg?itok=wcrmEs1v"
+    },
+    {
+        "title": "295 Yerba Buena Ave.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/295%20Yerba%20Buena%20Ave%20tree%201%20pic%201.jpg?itok=bfA4Oe0_"
     },
     {
         "title": "301 Wildwood Way",
@@ -75,19 +85,54 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/350%20Wildwood%20Way%20tree%201.jpg?itok=7GF49gjl"
     },
     {
-        "title": "47 Chenery St",
+        "title": "2566 Diamond St",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/47%20Chenery%20St%20tree%202%20pic%201.jpg?itok=fW5xWwap"
-    },
-    {
-        "title": "2208 25th St",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2208%2025th%20St%20tree%201%20pic%201.jpg?itok=rWdZwJha"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2566%20Diamond%20St%20tree%201%20pic%201.jpg?itok=Pt1SAXd5"
     },
     {
         "title": "700 Minnesota St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Screen%20Shot%202022-09-12%20at%202.59.42%20PM.png?itok=BdbewMoi"
+    },
+    {
+        "title": "109 Caine Ave.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/109%20Caine%20Ave%20tree%201.jpg?itok=04ARjKcJ"
+    },
+    {
+        "title": "114 Majestic Ave.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/114%20MAjestic%20Ave%20tree%201.jpg?itok=ib_l00Pl"
+    },
+    {
+        "title": "32 Broad St.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/32%20Broad%20St%20tree%207%20pic%201.jpg?itok=C36qTfvy"
+    },
+    {
+        "title": "35 Broad St.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/35%20Broad%20St%20tree%201.jpg?itok=cmfp6G14"
+    },
+    {
+        "title": "90 Lobos St.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/90%20Lobos%20St%20tree%202.jpg?itok=U8OdcjlR"
+    },
+    {
+        "title": "90 Lobos St.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/90%20Lobos%20St%20tree%203.jpg?itok=uougrYB-"
+    },
+    {
+        "title": "1x Minerva St",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1x%20Minerva%20St%20tree%2049.jpg?itok=52aqLDnK"
+    },
+    {
+        "title": "45 Brazil Ave. The tree is around the corner on the London St. frontage",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/45%20Brazil%20on%20London%20St%20tree%201%20pic%201.jpg?itok=Liq9fweZ"
     },
     {
         "title": "300 Wawona Street",
