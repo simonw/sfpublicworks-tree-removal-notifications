@@ -1,10 +1,5 @@
 [
     {
-        "title": "4546 Anza St",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4546%20Anza%20St%20tree%202%20pic%201.jpg?itok=z8dpOVLc"
-    },
-    {
         "title": "383 6th Ave.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/383%206th%20Ave%20tree%201%20pic%201.jpg?itok=lodEsb3X"
@@ -55,9 +50,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/533%20Parnassus%20tree%201.jpg?itok=4yBUZ-7o"
     },
     {
-        "title": "629 Miramar Ave",
+        "title": "1911 - 16th Ave.",
         "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/629%20Miramar%20Ave%20tree%201.jpg?itok=9qo646hg"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1911%2016th%20Ave%20tree%202%20pic%201.jpg?itok=Rv7uNfpC"
     },
     {
         "title": "1030 Ulloa St.",
@@ -65,29 +60,39 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1030%20Ulloa%20St%20tree%201%20pic%201.jpg?itok=V89SFjwl"
     },
     {
-        "title": "102 San Ramon Way",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/102%20San%20Ramon%20Way%20tree%202.jpg?itok=wcrmEs1v"
-    },
-    {
         "title": "295 Yerba Buena Ave.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/295%20Yerba%20Buena%20Ave%20tree%201%20pic%201.jpg?itok=bfA4Oe0_"
     },
     {
-        "title": "301 Wildwood Way",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/301%20Wildwood%20Way%20tree%201%20pic%201.jpg?itok=7JofmIVa"
-    },
-    {
-        "title": "350 Wildwood Way",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/350%20Wildwood%20Way%20tree%201.jpg?itok=7GF49gjl"
-    },
-    {
         "title": "2566 Diamond St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2566%20Diamond%20St%20tree%201%20pic%201.jpg?itok=Pt1SAXd5"
+    },
+    {
+        "title": "1709 Castro St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1709%20Castro%20St%20tree%205%20pic%201.jpg?itok=UXsAUMCs"
+    },
+    {
+        "title": "1547 Dolores St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1547%20Dolores%20St%20tree%201%20pic%201.jpg?itok=H9KxcxBU"
+    },
+    {
+        "title": "194 Corbett Ave.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/194%20Corbett%20Ave.%20tree%201%20pic%201_0.jpg?itok=gEALV5DL"
+    },
+    {
+        "title": "167 Graystone Ter.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/167%20Graystone%20Ter%20tree%201%20pic%201.jpg?itok=iYfUUKMJ"
+    },
+    {
+        "title": "30 Ogden Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/30%20Ogden%20Ave%20tree%201%20pic%201_.jpg?itok=T_JPCf9N"
     },
     {
         "title": "700 Minnesota St.",
