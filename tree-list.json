@@ -5,31 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/383%206th%20Ave%20tree%201%20pic%201.jpg?itok=lodEsb3X"
     },
     {
-        "title": "2610 Clay St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2610%20Clay%20St%20tree%203%20pic%202.jpg?itok=934oIZzG"
-    },
-    {
-        "title": "2610 Clay St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2610%20Clay%20St%20tree%2017%20pic%201.jpg?itok=Aiih8DH9"
-    },
-    {
-        "title": "2915 Sacramento St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2915%20Sacramento%20St%20tree%205%20pic%201.jpg?itok=VMuXkITj"
-    },
-    {
-        "title": "1000x The Embarcadero",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1000x%20The%20Embarcadero%20tree%209%20pic%201.jpg?itok=KcgIFXoE"
-    },
-    {
-        "title": "1434 - 43rd Ave",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1434%2043rd%20Ave%20tree%201%20pic%201.jpg?itok=b3O6KnlM"
-    },
-    {
         "title": "401 Ivy St.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Ivy%20St%20tree%201%20pic%201.jpg?itok=3jULOHro"
@@ -83,6 +58,11 @@
         "title": "194 Corbett Ave.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/194%20Corbett%20Ave.%20tree%201%20pic%201_0.jpg?itok=gEALV5DL"
+    },
+    {
+        "title": "56 Paradise Ave.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/56%20Paradise%20Ave%20tree%201%20pic%201.jpg?itok=L2XL84fj"
     },
     {
         "title": "167 Graystone Ter.",
