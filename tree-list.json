@@ -25,11 +25,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/533%20Parnassus%20tree%201.jpg?itok=4yBUZ-7o"
     },
     {
-        "title": "1911 - 16th Ave.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1911%2016th%20Ave%20tree%202%20pic%201.jpg?itok=Rv7uNfpC"
-    },
-    {
         "title": "32 Sotelo Ave",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/32%20Sotelo%20Ave%20tree%202%20pic%201.jpg?itok=LvKjYdCy"
@@ -50,16 +45,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/295%20Yerba%20Buena%20Ave%20tree%201%20pic%201.jpg?itok=bfA4Oe0_"
     },
     {
-        "title": "1709 Castro St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1709%20Castro%20St%20tree%205%20pic%201.jpg?itok=UXsAUMCs"
-    },
-    {
-        "title": "1547 Dolores St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1547%20Dolores%20St%20tree%201%20pic%201.jpg?itok=H9KxcxBU"
-    },
-    {
         "title": "194 Corbett Ave.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/194%20Corbett%20Ave.%20tree%201%20pic%201_0.jpg?itok=gEALV5DL"
@@ -70,14 +55,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/56%20Paradise%20Ave%20tree%201%20pic%201.jpg?itok=L2XL84fj"
     },
     {
-        "title": "167 Graystone Ter.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/167%20Graystone%20Ter%20tree%201%20pic%201.jpg?itok=iYfUUKMJ"
+        "title": "101 Friedell St and 591 Hudson Ave.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/101%20Friedell%20St%20tree%201%20pic%201.jpg?itok=N1tYB9Q9"
     },
     {
-        "title": "30 Ogden Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/30%20Ogden%20Ave%20tree%201%20pic%201_.jpg?itok=T_JPCf9N"
+        "title": "50 Santos St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/50%20Santos%20St%20tree%204%20pic%201.jpg?itok=-nGW_6sj"
     },
     {
         "title": "45 Brazil Ave. The tree is around the corner on the London St. frontage",
