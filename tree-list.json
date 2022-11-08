@@ -1,13 +1,23 @@
 [
     {
-        "title": "383 6th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/383%206th%20Ave%20tree%201%20pic%201.jpg?itok=lodEsb3X"
-    },
-    {
         "title": "430 Spruce St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/430%20Spruce%20history%20of%20sidewalk%20repair%20June%202016.jpg?itok=G5MS7vjn"
+    },
+    {
+        "title": "2501x Clay St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2501x%20Clay%20St%20tree%204%20pic%201.jpg?itok=1E500BWx"
+    },
+    {
+        "title": "2340 Jackson St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2340%20Jackson%20St%20tree%205%20pic%201.jpg?itok=MN5hYw0C"
+    },
+    {
+        "title": "2125 Bush St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2125%20Bush%20St%20tree%201%20pic%201.jpg?itok=HzkncsFS"
     },
     {
         "title": "847 Oak St",
@@ -20,11 +30,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Quickstep%20Ln%20tree%204%20pic%201.jpg?itok=r0Ja5Mwq"
     },
     {
-        "title": "533 Parnassus Ave.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/533%20Parnassus%20tree%201.jpg?itok=4yBUZ-7o"
-    },
-    {
         "title": "32 Sotelo Ave",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/32%20Sotelo%20Ave%20tree%202%20pic%201.jpg?itok=LvKjYdCy"
@@ -35,24 +40,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2x%20Miraloma%20Dr%20tree%206%20pic%201.jpg?itok=bKzL6nXE"
     },
     {
-        "title": "1030 Ulloa St.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1030%20Ulloa%20St%20tree%201%20pic%201.jpg?itok=V89SFjwl"
-    },
-    {
-        "title": "295 Yerba Buena Ave.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/295%20Yerba%20Buena%20Ave%20tree%201%20pic%201.jpg?itok=bfA4Oe0_"
-    },
-    {
         "title": "194 Corbett Ave.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/194%20Corbett%20Ave.%20tree%201%20pic%201_0.jpg?itok=gEALV5DL"
-    },
-    {
-        "title": "56 Paradise Ave.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/56%20Paradise%20Ave%20tree%201%20pic%201.jpg?itok=L2XL84fj"
     },
     {
         "title": "101 Friedell St and 591 Hudson Ave.",
@@ -63,11 +53,6 @@
         "title": "50 Santos St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/50%20Santos%20St%20tree%204%20pic%201.jpg?itok=-nGW_6sj"
-    },
-    {
-        "title": "45 Brazil Ave. The tree is around the corner on the London St. frontage",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/45%20Brazil%20on%20London%20St%20tree%201%20pic%201.jpg?itok=Liq9fweZ"
     },
     {
         "title": "300 Wawona Street",
