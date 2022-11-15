@@ -15,6 +15,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2340%20Jackson%20St%20tree%205%20pic%201.jpg?itok=MN5hYw0C"
     },
     {
+        "title": "2405x Scott St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2405x%20Scott%20St%20tree%207%20pic%201.jpg?itok=sswOnz6S"
+    },
+    {
         "title": "2125 Bush St.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2125%20Bush%20St%20tree%201%20pic%201.jpg?itok=HzkncsFS"
@@ -35,14 +40,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/32%20Sotelo%20Ave%20tree%202%20pic%201.jpg?itok=LvKjYdCy"
     },
     {
-        "title": "2x Miraloma Dr",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2x%20Miraloma%20Dr%20tree%206%20pic%201.jpg?itok=bKzL6nXE"
-    },
-    {
-        "title": "194 Corbett Ave.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/194%20Corbett%20Ave.%20tree%201%20pic%201_0.jpg?itok=gEALV5DL"
+        "title": "1086 Capp St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1086%20Capp%20St%20tree%201%20pic%201.jpg?itok=H2McISnz"
     },
     {
         "title": "101 Friedell St and 591 Hudson Ave.",
