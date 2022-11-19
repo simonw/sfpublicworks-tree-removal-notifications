@@ -53,5 +53,10 @@
         "title": "50 Santos St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/50%20Santos%20St%20tree%204%20pic%201.jpg?itok=-nGW_6sj"
+    },
+    {
+        "title": "300 Wawona Street",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/300%20Wawona%20Tree%20no.%201%20PUC%20removal.jpg?itok=eZhxQ2--"
     }
 ]
