@@ -10,21 +10,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/721%20Arguello%20Blvd%20tree%201%20pic%201.jpg?itok=WCwtS8Br"
     },
     {
-        "title": "430 Spruce St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/430%20Spruce%20history%20of%20sidewalk%20repair%20June%202016.jpg?itok=G5MS7vjn"
-    },
-    {
-        "title": "2501x Clay St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2501x%20Clay%20St%20tree%204%20pic%201.jpg?itok=1E500BWx"
-    },
-    {
-        "title": "2340 Jackson St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2340%20Jackson%20St%20tree%205%20pic%201.jpg?itok=MN5hYw0C"
-    },
-    {
         "title": "2405x Scott St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2405x%20Scott%20St%20tree%207%20pic%201.jpg?itok=sswOnz6S"
@@ -50,16 +35,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1250%20Hayes%20St%20tree%201.jpg?itok=77xkklNY"
     },
     {
-        "title": "847 Oak St",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/847%20Oak%20St%20tree%201%20pic%201.jpg?itok=9s_6JDrt"
-    },
-    {
-        "title": "1345 Ellis St. (St Francis Square Cooperative)",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Quickstep%20Ln%20tree%204%20pic%201.jpg?itok=r0Ja5Mwq"
-    },
-    {
         "title": "1 Buena Vista Ave East",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Buena%20Vista%20Ave%20East%20tree%202%20pic%201.jpg?itok=_ZNtt0Vv"
@@ -83,11 +58,6 @@
         "title": "214 Divisadero St",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/214%20Divisadero%20St%20tree%201%20pic%201.jpg?itok=7fBtDxR-"
-    },
-    {
-        "title": "32 Sotelo Ave",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/32%20Sotelo%20Ave%20tree%202%20pic%201.jpg?itok=LvKjYdCy"
     },
     {
         "title": "5078 Diamond Heights Blvd.",
