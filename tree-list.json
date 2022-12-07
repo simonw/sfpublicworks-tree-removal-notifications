@@ -10,11 +10,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/721%20Arguello%20Blvd%20tree%201%20pic%201.jpg?itok=WCwtS8Br"
     },
     {
-        "title": "2405x Scott St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2405x%20Scott%20St%20tree%207%20pic%201.jpg?itok=sswOnz6S"
-    },
-    {
         "title": "2125 Bush St.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2125%20Bush%20St%20tree%201%20pic%201.jpg?itok=HzkncsFS"
@@ -60,6 +55,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/214%20Divisadero%20St%20tree%201%20pic%201.jpg?itok=7fBtDxR-"
     },
     {
+        "title": "1 Estero Ave",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Estero%20Ave%20tree%201%20pic%201.jpg?itok=hTFTpMKQ"
+    },
+    {
         "title": "5078 Diamond Heights Blvd.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5078%20Diamond%20Heights%20Blvd%20tree%201%20pic%201.jpg?itok=7hlb-O4M"
@@ -80,19 +80,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/821%20Duboce%20Ave%20tree%201%20pic%201.jpg?itok=ydnGXYpu"
     },
     {
-        "title": "1086 Capp St.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1086%20Capp%20St%20tree%201%20pic%201.jpg?itok=H2McISnz"
-    },
-    {
         "title": "2737 20th St",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2737%2020th%20St%20tree%201%20pic%201.jpg?itok=QL11iLHe"
-    },
-    {
-        "title": "101 Friedell St and 591 Hudson Ave.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/101%20Friedell%20St%20tree%201%20pic%201.jpg?itok=N1tYB9Q9"
     },
     {
         "title": "750 Velasco Ave",
@@ -100,9 +90,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/750%20Velasco%20Ave%20tree%203%20pic%201.jpg?itok=0GcGzWq1"
     },
     {
-        "title": "50 Santos St.",
+        "title": "1960 Bryant St",
         "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/50%20Santos%20St%20tree%204%20pic%201.jpg?itok=-nGW_6sj"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1960%20Bryant%20St%20tree%201%20pic%201.jpg?itok=4a7hN7X_"
     },
     {
         "title": "300 Wawona Street",
