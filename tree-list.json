@@ -1,18 +1,8 @@
 [
     {
-        "title": "860 Arguello Blvd",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/860%20Arguello%20Blvd%20tree%201%20pic%201.jpg?itok=nnVPS6T3"
-    },
-    {
-        "title": "721 Arguello Blvd",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/721%20Arguello%20Blvd%20tree%201%20pic%201.jpg?itok=WCwtS8Br"
-    },
-    {
-        "title": "2125 Bush St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2125%20Bush%20St%20tree%201%20pic%201.jpg?itok=HzkncsFS"
+        "title": "1715 Green St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1715%20Green%20St%20tree%201%20pic%201.jpg?itok=snDA-tBE"
     },
     {
         "title": "1034 Page St",
@@ -78,16 +68,6 @@
         "title": "821 Duboce Ave",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/821%20Duboce%20Ave%20tree%201%20pic%201.jpg?itok=ydnGXYpu"
-    },
-    {
-        "title": "2737 20th St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2737%2020th%20St%20tree%201%20pic%201.jpg?itok=QL11iLHe"
-    },
-    {
-        "title": "750 Velasco Ave",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/750%20Velasco%20Ave%20tree%203%20pic%201.jpg?itok=0GcGzWq1"
     },
     {
         "title": "1960 Bryant St",
