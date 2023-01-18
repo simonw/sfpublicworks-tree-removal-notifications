@@ -5,14 +5,34 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3600%20Jackson%20St%20tree%202%20pic%201.jpg?itok=_Ty20c7M"
     },
     {
+        "title": "1220 Ellis St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1220%20Ellis%20St%20tree%202%20pic%201.jpg?itok=xnE3Tcg8"
+    },
+    {
+        "title": "2x Masonic Ave.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2x%20Masonic%20Ave%20tree%202%20pic%201.jpg?itok=m1_H66-H"
+    },
+    {
         "title": "1550 Hyde St.",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1550%20Hyde%20St%20tree%202%20pic%201.jpg?itok=Meb4057g"
     },
     {
-        "title": "266 Pacheco St.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/266%20Pachco%20St%20tree%201%20pic%201.png?itok=mVPT7DnN"
+        "title": "1563 Hyde St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1563%20Hyde%20St%20tree%202%20pic%201.jpg?itok=UryBJqmD"
+    },
+    {
+        "title": "1999x Hyde St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1999x%20Hyde%20St%20Tree%201%20pic%201.jpg?itok=_g5O2YVK"
+    },
+    {
+        "title": "844 Potrero Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/844%20Potrero%20Ave%20tree%201%20pic%201.jpg?itok=R4hc-eLd"
     },
     {
         "title": "300 Wawona Street",
