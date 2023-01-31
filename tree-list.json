@@ -20,11 +20,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2x%20Masonic%20Ave%20tree%202%20pic%201.jpg?itok=m1_H66-H"
     },
     {
-        "title": "1550 Hyde St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1550%20Hyde%20St%20tree%202%20pic%201.jpg?itok=Meb4057g"
-    },
-    {
         "title": "1563 Hyde St.",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1563%20Hyde%20St%20tree%202%20pic%201.jpg?itok=UryBJqmD"
@@ -48,6 +43,11 @@
         "title": "1596 Howard St",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1596%20Howard%20St%20tree%203%20pic%201.jpg?itok=MS3_OY6y"
+    },
+    {
+        "title": "3953 - 3955  21st  Street (401 Collingwood St)",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Collingwood%20google%20Feb%202022%202nd%20diagram.jpg?itok=l586ZLoA"
     },
     {
         "title": "844 Potrero Ave.",
