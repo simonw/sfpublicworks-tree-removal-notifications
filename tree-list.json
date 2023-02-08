@@ -5,19 +5,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/269%2029th%20Ave%20tree%201%20pic%201.jpg?itok=OHFygNhg"
     },
     {
+        "title": "479 37th Ave",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/479%2037th%20Ave%20tree%201%20pic%201.jpg?itok=YuFQeFWU"
+    },
+    {
         "title": "3600 Jackson St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3600%20Jackson%20St%20tree%202%20pic%201.jpg?itok=_Ty20c7M"
-    },
-    {
-        "title": "1220 Ellis St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1220%20Ellis%20St%20tree%202%20pic%201.jpg?itok=xnE3Tcg8"
-    },
-    {
-        "title": "2x Masonic Ave.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2x%20Masonic%20Ave%20tree%202%20pic%201.jpg?itok=m1_H66-H"
     },
     {
         "title": "1563 Hyde St.",
@@ -50,6 +45,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Collingwood%20google%20Feb%202022%202nd%20diagram.jpg?itok=l586ZLoA"
     },
     {
+        "title": "5 Alma St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5%20Alma%20St%20tree%202%20pic%201.jpg?itok=ka6ppqgo"
+    },
+    {
         "title": "844 Potrero Ave.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/844%20Potrero%20Ave%20tree%201%20pic%201.jpg?itok=R4hc-eLd"
@@ -73,5 +73,10 @@
         "title": "1801 Sunset Boulevard at Noriega Street (southwest corner, 43 feet from the crosswalk)",
         "district": "Tree Removals by Other City Agencies",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1801%20Sunset%20Tree%20for%20Relocation.jpg?itok=HFvh_c_p"
+    },
+    {
+        "title": "2110 Greenwich St",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2110%20Greenwich%20St%20tree%208%20Pic%201.jpg?itok=HD3P-dzr"
     }
 ]
