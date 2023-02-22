@@ -25,6 +25,16 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/505%20Grove%20St%20tree%202%20pic%201.jpg?itok=JiD6AZDe"
     },
     {
+        "title": "580 7th St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/580%20%207th%20St%20tree%203%20pic%201.jpg?itok=La4jH8jv"
+    },
+    {
+        "title": "580 7th St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/580%20%207th%20St%20tree%204%20pic%201.jpg?itok=ECbBLntD"
+    },
+    {
         "title": "3953 - 3955  21st  Street (401 Collingwood St)",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Collingwood%20google%20Feb%202022%202nd%20diagram.jpg?itok=l586ZLoA"
@@ -35,9 +45,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5%20Alma%20St%20tree%202%20pic%201.jpg?itok=ka6ppqgo"
     },
     {
-        "title": "844 Potrero Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/844%20Potrero%20Ave%20tree%201%20pic%201.jpg?itok=R4hc-eLd"
+        "title": "100 \"X\" Bigler Ave.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Belgrave%20Ave_100x%20Bigler%20Ave%20pic%201.jpeg?itok=EnocF-5l"
+    },
+    {
+        "title": "3770 24th St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3770%2024th%20St.%20tree%202%20Feb%202023%20%281%29.jpeg?itok=omMM8llh"
     },
     {
         "title": "300 Wawona Street",
