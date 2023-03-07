@@ -5,16 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/479%2037th%20Ave%20tree%201%20pic%201.jpg?itok=YuFQeFWU"
     },
     {
-        "title": "1563 Hyde St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1563%20Hyde%20St%20tree%202%20pic%201.jpg?itok=UryBJqmD"
-    },
-    {
-        "title": "1999x Hyde St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1999x%20Hyde%20St%20Tree%201%20pic%201.jpg?itok=_g5O2YVK"
-    },
-    {
         "title": "580 7th St.",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/580%20%207th%20St%20tree%203%20pic%201.jpg?itok=La4jH8jv"
@@ -30,14 +20,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/355%20Casitas%20Ave%20tree%202%20pic%201.jpg?itok=cyliPQxy"
     },
     {
-        "title": "3953 - 3955  21st  Street (401 Collingwood St)",
+        "title": "1020 Bosworth",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/401%20Collingwood%20google%20Feb%202022%202nd%20diagram.jpg?itok=l586ZLoA"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1020%20Bosworth%20St%20tree%201%20pic%201.jpeg?itok=UMwcSSKO"
     },
     {
         "title": "100 \"X\" Bigler Ave.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Belgrave%20Ave_100x%20Bigler%20Ave%20pic%201.jpeg?itok=EnocF-5l"
+    },
+    {
+        "title": "1020 Bosworth",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1020%20Bosworth%20St%20tree%202%20pic%201.jpeg?itok=RBfhZ_vj"
     },
     {
         "title": "3770 24th St.",
@@ -68,6 +63,11 @@
         "title": "1132 Alemany Boulevard at Rousseau Street (south side median)",
         "district": "Tree Removals by Other City Agencies",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Picture1_0.png?itok=J4YsAkbd"
+    },
+    {
+        "title": "Castro Station Accessibility Improvements Project",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Castro%20Elevator%20Improvement%20Project%20Trees%20To%20be%20Removed%20diagram.jpg?itok=zPjOQJ4X"
     },
     {
         "title": "1801 Sunset Boulevard at Noriega Street (southwest corner, 43 feet from the crosswalk)",
