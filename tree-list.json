@@ -1,20 +1,5 @@
 [
     {
-        "title": "479 37th Ave",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/479%2037th%20Ave%20tree%201%20pic%201.jpg?itok=YuFQeFWU"
-    },
-    {
-        "title": "580 7th St.",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/580%20%207th%20St%20tree%203%20pic%201.jpg?itok=La4jH8jv"
-    },
-    {
-        "title": "580 7th St.",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/580%20%207th%20St%20tree%204%20pic%201.jpg?itok=ECbBLntD"
-    },
-    {
         "title": "355 Casitas Ave.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/355%20Casitas%20Ave%20tree%202%20pic%201.jpg?itok=cyliPQxy"
@@ -23,11 +8,6 @@
         "title": "1020 Bosworth",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1020%20Bosworth%20St%20tree%201%20pic%201.jpeg?itok=UMwcSSKO"
-    },
-    {
-        "title": "100 \"X\" Bigler Ave.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Belgrave%20Ave_100x%20Bigler%20Ave%20pic%201.jpeg?itok=EnocF-5l"
     },
     {
         "title": "1020 Bosworth",
@@ -58,11 +38,6 @@
         "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
         "district": "Tree Removals by Other City Agencies",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1780%20Sunset%20Tree%20for%20Relocation.jpg?itok=WvaPR7RN"
-    },
-    {
-        "title": "1132 Alemany Boulevard at Rousseau Street (south side median)",
-        "district": "Tree Removals by Other City Agencies",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Picture1_0.png?itok=J4YsAkbd"
     },
     {
         "title": "Castro Station Accessibility Improvements Project",
