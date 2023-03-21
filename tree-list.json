@@ -5,9 +5,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/355%20Casitas%20Ave%20tree%202%20pic%201.jpg?itok=cyliPQxy"
     },
     {
+        "title": "3351 Market St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3351%20Market%20St%20tree%201%20pic%201.jpeg?itok=R0LeMw8B"
+    },
+    {
         "title": "1020 Bosworth",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1020%20Bosworth%20St%20tree%201%20pic%201.jpeg?itok=UMwcSSKO"
+    },
+    {
+        "title": "3351 Market St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3351%20Market%20St%20tree%202%20pic%201.jpeg?itok=Kgo0iGOD"
     },
     {
         "title": "1020 Bosworth",
@@ -25,9 +35,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/70%20Ellsworth%20St%20tree%201%20pic%201.jpg?itok=ybjIuDRg"
     },
     {
-        "title": "1139 Rhode Island",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1139%20Rhode%20Island%20tree%201%20pic%201.jpg?itok=P0X0cMiz"
+        "title": "475 Gates St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/475%20Gates%20St%20tree%201.jpeg?itok=1D6CZJG5"
     },
     {
         "title": "300 Wawona Street",
