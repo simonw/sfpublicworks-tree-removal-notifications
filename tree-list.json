@@ -1,5 +1,15 @@
 [
     {
+        "title": "1300 Bush St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1300%20Bush%20St%20tree%202%20pic%201.jpg?itok=zUF21fe0"
+    },
+    {
+        "title": "1231 Larkin St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1231%20Larkin%20St%20tree%202%20pic%201.jpg?itok=JEvQrK5p"
+    },
+    {
         "title": "355 Casitas Ave.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/355%20Casitas%20Ave%20tree%202%20pic%201.jpg?itok=cyliPQxy"
@@ -25,9 +35,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1020%20Bosworth%20St%20tree%202%20pic%201.jpeg?itok=RBfhZ_vj"
     },
     {
-        "title": "3770 24th St.",
+        "title": "626 30th St.",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3770%2024th%20St.%20tree%202%20Feb%202023%20%281%29.jpeg?itok=omMM8llh"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/626%2030th%20St%20tree%201%20pic%201.jpg?itok=n6xM9spt"
     },
     {
         "title": "70 Ellsworth St",
