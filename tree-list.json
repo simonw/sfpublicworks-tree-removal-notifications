@@ -1,8 +1,28 @@
 [
     {
+        "title": "484 37th Ave",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/484%2037th%20Ave%20tree%201%20pic%201.jpg?itok=tE4lM8hB"
+    },
+    {
+        "title": "484 37th Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/484%2037th%20Ave%20tree%202.jpg?itok=W4tX7aGc"
+    },
+    {
         "title": "1300 Bush St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1300%20Bush%20St%20tree%202%20pic%201.jpg?itok=zUF21fe0"
+    },
+    {
+        "title": "2726 Pine St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2726%20Pine%20St%20tree%201%20pic%201.jpg?itok=CDn62vBy"
+    },
+    {
+        "title": "2927 Sacramento St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2927%20Sacramento%20St%20tree%201%20pic%201.jpg?itok=BSOvt0U6"
     },
     {
         "title": "1231 Larkin St.",
@@ -20,9 +40,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/599%204th%20St%20tree%201%20pic%201.jpg?itok=3QuUX3Ob"
     },
     {
+        "title": "550 Terry A Francois Blvd",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/550%20Terry%20A%20Francois%20tree%204%20pic%201.jpg?itok=94pmYTUW"
+    },
+    {
         "title": "521 Parnassus Ave.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/521%20Parnassus%20Ave%20tree%201.jpg?itok=P1U39vFx"
+    },
+    {
+        "title": "1 Avoca Aly",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Avoca%20Aly%20tree%201%20pic%201.jpg?itok=jYw3Mnai"
     },
     {
         "title": "3351 Market St.",
@@ -35,6 +65,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/611%2028th%20St%20tree%201%20pic%201.jpg?itok=-S7NOPbV"
     },
     {
+        "title": "845 Shrader St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/845%20Shrader%20St%20tree%204%20pic%201.jpeg?itok=JkKfmAwZ"
+    },
+    {
         "title": "3351 Market St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3351%20Market%20St%20tree%202%20pic%201.jpeg?itok=Kgo0iGOD"
@@ -43,6 +78,16 @@
         "title": "626 30th St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/626%2030th%20St%20tree%201%20pic%201.jpg?itok=n6xM9spt"
+    },
+    {
+        "title": "1582 Wallace Ave",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1582%20Wallace%20Ave%20tree%201%20pic%201.jpg?itok=nLfQDB_P"
+    },
+    {
+        "title": "2145 Keith St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2145%20Keith%20St%20tree%201%20pic%201.jpg?itok=BRlgBSvF"
     },
     {
         "title": "300 Wawona Street",
