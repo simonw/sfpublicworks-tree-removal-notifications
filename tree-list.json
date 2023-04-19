@@ -5,14 +5,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/484%2037th%20Ave%20tree%201%20pic%201.jpg?itok=tE4lM8hB"
     },
     {
+        "title": "2201 Golden Gate Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2201%20Golden%20Gate%20Ave%20tree%201%20pic%201.jpg?itok=CpIOwsct"
+    },
+    {
         "title": "484 37th Ave.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/484%2037th%20Ave%20tree%202.jpg?itok=W4tX7aGc"
-    },
-    {
-        "title": "1300 Bush St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1300%20Bush%20St%20tree%202%20pic%201.jpg?itok=zUF21fe0"
     },
     {
         "title": "2726 Pine St",
@@ -23,11 +23,6 @@
         "title": "2927 Sacramento St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2927%20Sacramento%20St%20tree%201%20pic%201.jpg?itok=BSOvt0U6"
-    },
-    {
-        "title": "1231 Larkin St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1231%20Larkin%20St%20tree%202%20pic%201.jpg?itok=JEvQrK5p"
     },
     {
         "title": "579 Market St",
@@ -73,11 +68,6 @@
         "title": "3351 Market St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3351%20Market%20St%20tree%202%20pic%201.jpeg?itok=Kgo0iGOD"
-    },
-    {
-        "title": "626 30th St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/626%2030th%20St%20tree%201%20pic%201.jpg?itok=n6xM9spt"
     },
     {
         "title": "1582 Wallace Ave",
