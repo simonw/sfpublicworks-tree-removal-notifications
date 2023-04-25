@@ -15,14 +15,49 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/484%2037th%20Ave%20tree%202.jpg?itok=W4tX7aGc"
     },
     {
+        "title": "1550 Clement St.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1550%20Clement%20St%20tree%205%20pic%201.jpg?itok=intF_0FH"
+    },
+    {
+        "title": "50 16th Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/50%2016th%20Ave%20tree%202%20pic%201.jpg?itok=PIQQkbWs"
+    },
+    {
+        "title": "2850 Fulton St.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2850%20Fulton%20St%20tree%201%20pic%201.jpg?itok=CYIKiop6"
+    },
+    {
+        "title": "2201 Golden Gate Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2201%20Golden%20Gate%20Ave%20tree%2017%20pic%201.jpg?itok=2YZXLNRb"
+    },
+    {
+        "title": "1462 Lake St.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1462%20Lake%20St%20tree%202%20pic%201.jpg?itok=69BAfsUC"
+    },
+    {
         "title": "2726 Pine St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2726%20Pine%20St%20tree%201%20pic%201.jpg?itok=CDn62vBy"
     },
     {
+        "title": "1450 Post St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1450%20Post%20St%20tree%203%20pic%201.jpg?itok=7marfuAH"
+    },
+    {
         "title": "2927 Sacramento St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2927%20Sacramento%20St%20tree%201%20pic%201.jpg?itok=BSOvt0U6"
+    },
+    {
+        "title": "1450 Post St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1450%20Post%20St%20tree%207%20pic%201.jpg?itok=JNE0EQFz"
     },
     {
         "title": "579 Market St",
@@ -50,14 +85,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20Avoca%20Aly%20tree%201%20pic%201.jpg?itok=jYw3Mnai"
     },
     {
-        "title": "3351 Market St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3351%20Market%20St%20tree%201%20pic%201.jpeg?itok=R0LeMw8B"
-    },
-    {
-        "title": "611 28th St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/611%2028th%20St%20tree%201%20pic%201.jpg?itok=-S7NOPbV"
+        "title": "1201 Bosworth St.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1201%20Bosworth%20St.%20pic%201.jpg?itok=F54JS9LG"
     },
     {
         "title": "845 Shrader St.",
@@ -65,9 +95,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/845%20Shrader%20St%20tree%204%20pic%201.jpeg?itok=JkKfmAwZ"
     },
     {
-        "title": "3351 Market St.",
+        "title": "88 Saturn St.",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3351%20Market%20St%20tree%202%20pic%201.jpeg?itok=Kgo0iGOD"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/88%20Saturn%20St%20tree%201%20pic%201.jpeg?itok=xT6Cbrji"
     },
     {
         "title": "1582 Wallace Ave",
@@ -98,5 +128,10 @@
         "title": "1801 Sunset Boulevard at Noriega Street (southwest corner, 43 feet from the crosswalk)",
         "district": "Tree Removals by Other City Agencies",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1801%20Sunset%20Tree%20for%20Relocation.jpg?itok=HFvh_c_p"
+    },
+    {
+        "title": "Clay Street (Leavenworth to Jones and Taylor to Mason)",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/image015.jpg?itok=Q1VF43xI"
     }
 ]
