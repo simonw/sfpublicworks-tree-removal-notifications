@@ -1,18 +1,8 @@
 [
     {
-        "title": "484 37th Ave",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/484%2037th%20Ave%20tree%201%20pic%201.jpg?itok=tE4lM8hB"
-    },
-    {
         "title": "2201 Golden Gate Ave.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2201%20Golden%20Gate%20Ave%20tree%201%20pic%201.jpg?itok=CpIOwsct"
-    },
-    {
-        "title": "484 37th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/484%2037th%20Ave%20tree%202.jpg?itok=W4tX7aGc"
     },
     {
         "title": "1550 Clement St.",
@@ -40,19 +30,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1462%20Lake%20St%20tree%202%20pic%201.jpg?itok=69BAfsUC"
     },
     {
-        "title": "2726 Pine St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2726%20Pine%20St%20tree%201%20pic%201.jpg?itok=CDn62vBy"
-    },
-    {
         "title": "1450 Post St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1450%20Post%20St%20tree%203%20pic%201.jpg?itok=7marfuAH"
-    },
-    {
-        "title": "2927 Sacramento St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2927%20Sacramento%20St%20tree%201%20pic%201.jpg?itok=BSOvt0U6"
     },
     {
         "title": "1450 Post St.",
@@ -88,11 +68,6 @@
         "title": "1201 Bosworth St.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1201%20Bosworth%20St.%20pic%201.jpg?itok=F54JS9LG"
-    },
-    {
-        "title": "845 Shrader St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/845%20Shrader%20St%20tree%204%20pic%201.jpeg?itok=JkKfmAwZ"
     },
     {
         "title": "88 Saturn St.",
