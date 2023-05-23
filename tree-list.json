@@ -15,11 +15,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2850%20Fulton%20St%20tree%201%20pic%201.jpg?itok=CYIKiop6"
     },
     {
-        "title": "2201 Golden Gate Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2201%20Golden%20Gate%20Ave%20tree%2017%20pic%201.jpg?itok=2YZXLNRb"
-    },
-    {
         "title": "1462 Lake St.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1462%20Lake%20St%20tree%202%20pic%201.jpg?itok=69BAfsUC"
@@ -33,6 +28,11 @@
         "title": "271 32nd Ave.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/271_32ndAve_5.jpg?itok=1zaBO9Kn"
+    },
+    {
+        "title": "2342 Sacramento St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2342%20Sacramento%20St%20tree1%20pic%201.jpg?itok=86lDbSeq"
     },
     {
         "title": "1450 Post St.",
@@ -73,6 +73,11 @@
         "title": "63 Pond St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/63%20Pond%20St.%20Tree%201%20photo%201.jpg?itok=Kep6zvK7"
+    },
+    {
+        "title": "121 Richland Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/121%20Richland%20Ave%20pic%201.jpg?itok=ygYcc0rX"
     },
     {
         "title": "300 Wawona Street",
