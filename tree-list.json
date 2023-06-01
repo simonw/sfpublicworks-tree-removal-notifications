@@ -1,30 +1,5 @@
 [
     {
-        "title": "2201 Golden Gate Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2201%20Golden%20Gate%20Ave%20tree%201%20pic%201.jpg?itok=CpIOwsct"
-    },
-    {
-        "title": "50 16th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/50%2016th%20Ave%20tree%202%20pic%201.jpg?itok=PIQQkbWs"
-    },
-    {
-        "title": "2850 Fulton St.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2850%20Fulton%20St%20tree%201%20pic%201.jpg?itok=CYIKiop6"
-    },
-    {
-        "title": "1462 Lake St.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1462%20Lake%20St%20tree%202%20pic%201.jpg?itok=69BAfsUC"
-    },
-    {
-        "title": "1450 Post St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1450%20Post%20St%20tree%203%20pic%201.jpg?itok=7marfuAH"
-    },
-    {
         "title": "271 32nd Ave.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/271_32ndAve_5.jpg?itok=1zaBO9Kn"
@@ -35,24 +10,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2342%20Sacramento%20St%20tree1%20pic%201.jpg?itok=86lDbSeq"
     },
     {
-        "title": "1450 Post St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1450%20Post%20St%20tree%207%20pic%201.jpg?itok=JNE0EQFz"
-    },
-    {
-        "title": "3185 Washington St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3185%20Washington%20St.%20T5%20structure%20detail.jpg?itok=za04j_5L"
-    },
-    {
         "title": "2645 Gough St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2645%20Gough%20St%20main%20structure%202nd%20view.jpg?itok=3yvktNXc"
-    },
-    {
-        "title": "1899X 21st Ave (1400 Ortega St.)",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1899x%2021st%20St%20tree%201%20pic%201.jpg?itok=dd_rAuNm"
     },
     {
         "title": "730 Stanyan St.",
