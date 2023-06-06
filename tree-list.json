@@ -1,13 +1,13 @@
 [
     {
-        "title": "271 32nd Ave.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/271_32ndAve_5.jpg?itok=1zaBO9Kn"
-    },
-    {
         "title": "2342 Sacramento St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2342%20Sacramento%20St%20tree1%20pic%201.jpg?itok=86lDbSeq"
+    },
+    {
+        "title": "2697 Pine St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/mobilePic1685992593796.jpg?itok=VWRpjf2M"
     },
     {
         "title": "2645 Gough St.",
@@ -23,6 +23,11 @@
         "title": "1629 Market Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1629%20Market%20St.%20May%202023.jpg?itok=7yscebYf"
+    },
+    {
+        "title": "1901 Monterey Blvd.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/mobilePic1685484633084.jpg?itok=kCXeFQJa"
     },
     {
         "title": "63 Pond St.",
