@@ -10,19 +10,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2315%20Broadway%20tree%201%20pic%201.jpg?itok=_OwWQhxv"
     },
     {
-        "title": "2645 Gough St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2645%20Gough%20St%20main%20structure%202nd%20view.jpg?itok=3yvktNXc"
-    },
-    {
         "title": "207 Jackson St.",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/207%20Jackson%20St%20tree%202%20pic%201.jpg?itok=I0lEhLZ_"
     },
     {
-        "title": "730 Stanyan St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/730%20Stanyan%20St.%20photo%201%20view%20north.jpg?itok=hXo6nN_X"
+        "title": "623 Green St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/623%20Green%20St%20tree%202%20pic%201.jpg?itok=_wabJ6t-"
     },
     {
         "title": "1629 Market Street",
@@ -35,9 +30,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/mobilePic1685484633084.jpg?itok=kCXeFQJa"
     },
     {
-        "title": "63 Pond St.",
+        "title": "2002 Castro St.",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/63%20Pond%20St.%20Tree%201%20photo%201.jpg?itok=Kep6zvK7"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2002%20Castro%20St%20tree%208%20pic%201.jpg?itok=fMW5ViWL"
     },
     {
         "title": "2555 Market St.",
@@ -50,9 +45,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/121%20Richland%20Ave%20pic%201.jpg?itok=ygYcc0rX"
     },
     {
-        "title": "671 Edinburgh St",
+        "title": "60 Virginia Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/60%20Virginia%20Ave%20tree%203%20pic%201.jpg?itok=lejuVW1m"
+    },
+    {
+        "title": "19 Rhine St. (Property address is 197 Goethe St.)",
         "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/671%20Edinburgh%20St%20tree%201%20pic%201.jpg?itok=C7jhDrF8"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/19%20Rhine%20St%20tree%204%20pic%201.jpg?itok=XIfN5l0f"
     },
     {
         "title": "300 Wawona Street",
