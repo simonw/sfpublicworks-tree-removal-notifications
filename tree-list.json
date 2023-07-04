@@ -30,6 +30,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/579%20Columbus%20Ave%20tree%201%20pic%201.jpg?itok=7ob3Pfay"
     },
     {
+        "title": "1201 Sunset Blvd.",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1201%20Sunset%20Blvd%20tree%2015%20pic%201.jpg?itok=eMSgbDwX"
+    },
+    {
         "title": "1629 Market Street",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1629%20Market%20St.%20May%202023.jpg?itok=7yscebYf"
@@ -38,11 +43,6 @@
         "title": "2002 Castro St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2002%20Castro%20St%20tree%208%20pic%201.jpg?itok=fMW5ViWL"
-    },
-    {
-        "title": "2555 Market St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2555%20Market%20St%20tree%202%20pic%201.jpg?itok=iFmBjqVn"
     },
     {
         "title": "60 Virginia Ave.",
