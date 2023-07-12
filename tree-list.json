@@ -20,11 +20,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/207%20Jackson%20St%20tree%202%20pic%201.jpg?itok=I0lEhLZ_"
     },
     {
-        "title": "623 Green St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/623%20Green%20St%20tree%202%20pic%201.jpg?itok=_wabJ6t-"
-    },
-    {
         "title": "579 Columbus Ave.",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/579%20Columbus%20Ave%20tree%201%20pic%201.jpg?itok=7ob3Pfay"
@@ -48,6 +43,16 @@
         "title": "60 Virginia Ave.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/60%20Virginia%20Ave%20tree%203%20pic%201.jpg?itok=lejuVW1m"
+    },
+    {
+        "title": "205 Madison St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/205%20Madison%20St%20tree%201%20pic%201.jpg?itok=I_bKUXvL"
+    },
+    {
+        "title": "205 Madison St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/205%20Madison%20St%20tree%202%20pic%201.jpg?itok=OczLsN-G"
     },
     {
         "title": "19 Rhine St. (Property address is 197 Goethe St.)",
