@@ -1,23 +1,8 @@
 [
     {
-        "title": "178 9th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/178%209th%20Ave%20tree%201%20pic%201.jpg?itok=ig8oX7H0"
-    },
-    {
         "title": "531 6th Ave.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/531%206th%20Ave%20tree%201%20pic%201.jpg?itok=8q7XGI0I"
-    },
-    {
-        "title": "2315 Broadway",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2315%20Broadway%20tree%201%20pic%201.jpg?itok=_OwWQhxv"
-    },
-    {
-        "title": "207 Jackson St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/207%20Jackson%20St%20tree%202%20pic%201.jpg?itok=I0lEhLZ_"
     },
     {
         "title": "579 Columbus Ave.",
@@ -30,14 +15,29 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1201%20Sunset%20Blvd%20tree%2015%20pic%201.jpg?itok=eMSgbDwX"
     },
     {
-        "title": "1629 Market Street",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1629%20Market%20St.%20May%202023.jpg?itok=7yscebYf"
+        "title": "56 Julian Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/56%20Julian%20Ave%20Sig%20Tree%20pic%201.jpg?itok=w6uvPAUO"
     },
     {
-        "title": "2002 Castro St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2002%20Castro%20St%20tree%208%20pic%201.jpg?itok=fMW5ViWL"
+        "title": "56 Julian Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/56%20Julian%20Ave%20tree%206%20pic%201.jpg?itok=5FBwxfDq"
+    },
+    {
+        "title": "56 Julian Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/56%20Julian%20Ave%20tree%207%20pic%201.jpg?itok=sSbqkPN3"
+    },
+    {
+        "title": "80 Julian Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/80%20Julian%20Ave%20tree%201%20pic%201.jpg?itok=vtGxSURM"
+    },
+    {
+        "title": "80 Julian Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/80%20Julian%20Ave%20SIG%20tree%20pic%201.jpg?itok=LmlSCT-Z"
     },
     {
         "title": "60 Virginia Ave.",
@@ -47,12 +47,12 @@
     {
         "title": "205 Madison St.",
         "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/205%20Madison%20St%20tree%201%20pic%201.jpg?itok=I_bKUXvL"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/205%20Madison%20St%20tree%202%20pic%201.jpg?itok=OczLsN-G"
     },
     {
         "title": "205 Madison St.",
         "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/205%20Madison%20St%20tree%202%20pic%201.jpg?itok=OczLsN-G"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/205%20Madison%20St%20tree%201%20pic%201.jpg?itok=I_bKUXvL"
     },
     {
         "title": "19 Rhine St. (Property address is 197 Goethe St.)",
