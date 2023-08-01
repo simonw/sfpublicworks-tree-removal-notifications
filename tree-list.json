@@ -1,23 +1,23 @@
 [
     {
-        "title": "531 6th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/531%206th%20Ave%20tree%201%20pic%201.jpg?itok=8q7XGI0I"
-    },
-    {
         "title": "2948 Fillmore St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2948%20Fillmore%20St.%20T1%20photo%201.jpg?itok=azl8fo-8"
     },
     {
-        "title": "579 Columbus Ave.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/579%20Columbus%20Ave%20tree%201%20pic%201.jpg?itok=7ob3Pfay"
-    },
-    {
         "title": "301 Lily St.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/301%20Lily%20St.%20intro%20diagram.jpg?itok=qn1mTEK7"
+    },
+    {
+        "title": "1701x Post St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1701%20Post%20St%20tree%201%20pic%201.jpg?itok=KsZqINJf"
+    },
+    {
+        "title": "274 Main St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/274%20Main%20St%20tree%201%20pic%201.jpg?itok=J_RLvj2b"
     },
     {
         "title": "1325 8th Ave. (1)",
@@ -38,6 +38,11 @@
         "title": "1325 8th Ave. (4)",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1325%208th%20Ave%20Tree%204%20photo%201.jpg?itok=-CtEtpD7"
+    },
+    {
+        "title": "1050 Guerrero St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1050%20Guerrero%20St%20tree%202%20pic%201.jpg?itok=sF455o0G"
     },
     {
         "title": "56 Julian Ave.",
