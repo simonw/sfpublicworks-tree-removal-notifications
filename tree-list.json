@@ -7,7 +7,7 @@
     {
         "title": "2021 Baker St.",
         "district": "District 2",
-        "img_src": null
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2021%20Baker%20St%20tree%201%20pic%201.jpg?itok=caywEx1K"
     },
     {
         "title": "301 Lily St.",
@@ -20,6 +20,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1701%20Post%20St%20tree%201%20pic%201.jpg?itok=KsZqINJf"
     },
     {
+        "title": "99 Grove St. (Bill Graham Civic Auditorium)",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/99%20Grove%20St.%20tree%203%20Bill%20Graham%20Civic%20Aud%208.21%20%281%29.png?itok=XeyAoCRB"
+    },
+    {
         "title": "274 Main St.",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/274%20Main%20St%20tree%201%20pic%201.jpg?itok=J_RLvj2b"
@@ -28,6 +33,11 @@
         "title": "1325 8th Ave. (1)",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1325%208th%20Ave%20Tree%201%20far%20right%20tree%204%20far%20left.jpg?itok=hAVvPdqh"
+    },
+    {
+        "title": "175 Junipero Serra Blvd, east frontage median",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/175%20Junipero%20Serra%20Blvd%20tree%201.jpg?itok=jixXy4MC"
     },
     {
         "title": "1325 8th Ave. (2)",
@@ -45,9 +55,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1325%208th%20Ave%20Tree%204%20photo%201.jpg?itok=-CtEtpD7"
     },
     {
-        "title": "56 Julian Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/56%20Julian%20Ave%20Sig%20Tree%20pic%201.jpg?itok=w6uvPAUO"
+        "title": "560 Hill St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/560%20Hill%20St%20tree%201%20pic%201.jpg?itok=aZ9oxvys"
+    },
+    {
+        "title": "1050 Guerrero St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1050%20Guerrero%20St%20tree%202%20pic%201.jpg?itok=sF455o0G"
     },
     {
         "title": "407 Cortland Ave.",
@@ -55,29 +70,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/407%20Courtland%20Ave%20tree%201%20pic%201.jpg?itok=RjGuM2uV"
     },
     {
-        "title": "56 Julian Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/56%20Julian%20Ave%20tree%206%20pic%201.jpg?itok=5FBwxfDq"
-    },
-    {
         "title": "368 Highland Ave.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/368%20Highland%20Ave%20tree%202%20pic%201.jpg?itok=CzZQxcCP"
-    },
-    {
-        "title": "56 Julian Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/56%20Julian%20Ave%20tree%207%20pic%201.jpg?itok=sSbqkPN3"
-    },
-    {
-        "title": "80 Julian Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/80%20Julian%20Ave%20tree%201%20pic%201.jpg?itok=vtGxSURM"
-    },
-    {
-        "title": "80 Julian Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/80%20Julian%20Ave%20SIG%20tree%20pic%201.jpg?itok=LmlSCT-Z"
     },
     {
         "title": "16 Bronte St.",
@@ -92,7 +87,7 @@
     {
         "title": "1380 San Bruno Ave",
         "district": "District 10",
-        "img_src": null
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1380%20San%20Bruno%20Ave%20tree%201%20pic%201.jpg?itok=sFkOGi_I"
     },
     {
         "title": "300 Wawona Street",
