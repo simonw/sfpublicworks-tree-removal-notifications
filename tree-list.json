@@ -5,9 +5,39 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/142%208th%20Ave%20tree%201%20pic%201.jpg?itok=PwSfwFf_"
     },
     {
+        "title": "2033 Lake St.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2033%20Lake%20St%20tree%201%20pic%201.jpg?itok=gZXSYoxM"
+    },
+    {
+        "title": "37 5th Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/37%205th%20Ave%20tree%201%20pic%201.jpg?itok=o0n-ANsH"
+    },
+    {
+        "title": "567 34th Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/567%2034th%20Ave%20tree%201%20pic%201.jpg?itok=D7oLLVxF"
+    },
+    {
+        "title": "4000 Balboa St.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4000%20Balboa%20St%20tree%202%20pic%201.jpg?itok=T0wosMYg"
+    },
+    {
+        "title": "4004 Balboa St.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4004%20Balboa%20St%20tree%203%20pic%201.jpg?itok=qLhsDkcd"
+    },
+    {
         "title": "2021 Baker St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2021%20Baker%20St%20tree%201%20pic%201.jpg?itok=caywEx1K"
+    },
+    {
+        "title": "1630 Hyde St.",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1630%20Hyde%20St%20tree%201%20pic%201.jpg?itok=-85hpo8q"
     },
     {
         "title": "301 Lily St.",
@@ -30,29 +60,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/274%20Main%20St%20tree%201%20pic%201.jpg?itok=J_RLvj2b"
     },
     {
-        "title": "1325 8th Ave. (1)",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1325%208th%20Ave%20Tree%201%20far%20right%20tree%204%20far%20left.jpg?itok=hAVvPdqh"
-    },
-    {
         "title": "175 Junipero Serra Blvd, east frontage median",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/175%20Junipero%20Serra%20Blvd%20tree%201.jpg?itok=jixXy4MC"
-    },
-    {
-        "title": "1325 8th Ave. (2)",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1325%208th%20Ave%20Tree%202%20photo%201.jpg?itok=6UmErHip"
-    },
-    {
-        "title": "1325 8th Ave. (3)",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1325%208th%20Ave%20Tree%203%20photo%201.jpg?itok=eGC2eQ-p"
-    },
-    {
-        "title": "1325 8th Ave. (4)",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1325%208th%20Ave%20Tree%204%20photo%201.jpg?itok=-CtEtpD7"
     },
     {
         "title": "560 Hill St.",
@@ -73,6 +83,21 @@
         "title": "368 Highland Ave.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/368%20Highland%20Ave%20tree%202%20pic%201.jpg?itok=CzZQxcCP"
+    },
+    {
+        "title": "658 Shotwell St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/658%20Shotwell%20St%20tree1%20pic%201.jpg?itok=d7U8nHhl"
+    },
+    {
+        "title": "3098 26th St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3098%2026th%20St%20tree.jpg?itok=GKN6-6N-"
+    },
+    {
+        "title": "500 Capp St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/500%20Capp%20St%20tree%201%20pic%201.jpg?itok=0uX9HCOj"
     },
     {
         "title": "16 Bronte St.",
@@ -108,6 +133,11 @@
         "title": "1801 Sunset Boulevard at Noriega Street (southwest corner, 43 feet from the crosswalk)",
         "district": "Tree Removals by Other City Agencies",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1801%20Sunset%20Tree%20for%20Relocation.jpg?itok=HFvh_c_p"
+    },
+    {
+        "title": "2112 Lake St.",
+        "district": "Tree Removals by Other City Agencies",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2112%20Lake%20St%20tree%202%20pic%201.jpg?itok=2k9-cUBd"
     },
     {
         "title": "Clay Street (Leavenworth to Jones and Taylor to Mason)",
