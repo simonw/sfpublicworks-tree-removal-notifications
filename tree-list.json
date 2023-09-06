@@ -1,10 +1,5 @@
 [
     {
-        "title": "142  8th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/142%208th%20Ave%20tree%201%20pic%201.jpg?itok=PwSfwFf_"
-    },
-    {
         "title": "2033 Lake St.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2033%20Lake%20St%20tree%201%20pic%201.jpg?itok=gZXSYoxM"
@@ -40,24 +35,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1630%20Hyde%20St%20tree%201%20pic%201.jpg?itok=-85hpo8q"
     },
     {
-        "title": "301 Lily St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/301%20Lily%20St.%20intro%20diagram.jpg?itok=qn1mTEK7"
-    },
-    {
-        "title": "1701x Post St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1701%20Post%20St%20tree%201%20pic%201.jpg?itok=KsZqINJf"
-    },
-    {
         "title": "99 Grove St. (Bill Graham Civic Auditorium)",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/99%20Grove%20St.%20tree%203%20Bill%20Graham%20Civic%20Aud%208.21%20%281%29.png?itok=XeyAoCRB"
-    },
-    {
-        "title": "274 Main St.",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/274%20Main%20St%20tree%201%20pic%201.jpg?itok=J_RLvj2b"
     },
     {
         "title": "175 Junipero Serra Blvd, east frontage median",
@@ -70,19 +50,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/560%20Hill%20St%20tree%201%20pic%201.jpg?itok=aZ9oxvys"
     },
     {
-        "title": "1050 Guerrero St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1050%20Guerrero%20St%20tree%202%20pic%201.jpg?itok=sF455o0G"
-    },
-    {
         "title": "407 Cortland Ave.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/407%20Courtland%20Ave%20tree%201%20pic%201.jpg?itok=RjGuM2uV"
-    },
-    {
-        "title": "368 Highland Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/368%20Highland%20Ave%20tree%202%20pic%201.jpg?itok=CzZQxcCP"
     },
     {
         "title": "658 Shotwell St.",
@@ -105,14 +75,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/16%20Bronte%20St%20tree%201%20pic%201.jpg?itok=INwkgYgz"
     },
     {
+        "title": "1102 York St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1102%20York%20St%20tree%202%20pic%201_0.jpg?itok=zzMK9R5t"
+    },
+    {
+        "title": "1102 York St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1102%20York%20St%20tree%203%20pic%201_0.jpg?itok=gIq6hukF"
+    },
+    {
+        "title": "1102 York St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1102%20York%20St%20tree%206%20pic%201_0.jpg?itok=6erUdRnp"
+    },
+    {
         "title": "1493 Kansas St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1493%20Kansas%20St%20tree%201%20pic%201.jpg?itok=Z3Qi122l"
-    },
-    {
-        "title": "1380 San Bruno Ave",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1380%20San%20Bruno%20Ave%20tree%201%20pic%201.jpg?itok=sFkOGi_I"
     },
     {
         "title": "300 Wawona Street",
