@@ -35,19 +35,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1630%20Hyde%20St%20tree%201%20pic%201.jpg?itok=-85hpo8q"
     },
     {
-        "title": "99 Grove St. (Bill Graham Civic Auditorium)",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/99%20Grove%20St.%20tree%203%20Bill%20Graham%20Civic%20Aud%208.21%20%281%29.png?itok=XeyAoCRB"
-    },
-    {
-        "title": "175 Junipero Serra Blvd, east frontage median",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/175%20Junipero%20Serra%20Blvd%20tree%201.jpg?itok=jixXy4MC"
-    },
-    {
-        "title": "560 Hill St.",
+        "title": "155 Topaz Way",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/560%20Hill%20St%20tree%201%20pic%201.jpg?itok=aZ9oxvys"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/155%20Topaz%20Way%20tree%201.jpg?itok=fg4J5uky"
     },
     {
         "title": "407 Cortland Ave.",
@@ -93,6 +83,11 @@
         "title": "1493 Kansas St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1493%20Kansas%20St%20tree%201%20pic%201.jpg?itok=Z3Qi122l"
+    },
+    {
+        "title": "41 Ashton Ave.",
+        "district": "District 11",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/41%20Ashton%20Ave%20tree%201%20pic%201.jpg?itok=_nxR7cjI"
     },
     {
         "title": "300 Wawona Street",
