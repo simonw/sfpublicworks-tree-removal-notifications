@@ -1,38 +1,8 @@
 [
     {
-        "title": "2033 Lake St.",
+        "title": "778 32nd Ave.",
         "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2033%20Lake%20St%20tree%201%20pic%201.jpg?itok=gZXSYoxM"
-    },
-    {
-        "title": "2112 Lake St.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2112%20Lake%20St%20tree%202%20pic%201.jpg?itok=2k9-cUBd"
-    },
-    {
-        "title": "37 5th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/37%205th%20Ave%20tree%201%20pic%201.jpg?itok=o0n-ANsH"
-    },
-    {
-        "title": "567 34th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/567%2034th%20Ave%20tree%201%20pic%201.jpg?itok=D7oLLVxF"
-    },
-    {
-        "title": "4000 Balboa St.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4000%20Balboa%20St%20tree%202%20pic%201.jpg?itok=T0wosMYg"
-    },
-    {
-        "title": "4004 Balboa St.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4004%20Balboa%20St%20tree%203%20pic%201.jpg?itok=qLhsDkcd"
-    },
-    {
-        "title": "2021 Baker St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2021%20Baker%20St%20tree%201%20pic%201.jpg?itok=caywEx1K"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/778%2032nd%20Ave%20tree%201%20pic%201.jpg?itok=G4gvBoSy"
     },
     {
         "title": "1630 Hyde St.",
@@ -40,14 +10,29 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1630%20Hyde%20St%20tree%201%20pic%201.jpg?itok=-85hpo8q"
     },
     {
+        "title": "1620 Hayes St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1620%20Hayes%20St%20tree%201%20pic%201.jpg?itok=Qxuotzbf"
+    },
+    {
+        "title": "590 Masonic Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/590%20Masonic%20Ave%20tree%204%20pic%201.jpg?itok=subG7dj_"
+    },
+    {
+        "title": "1702 Fell St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1702%20Fell%20St%20tree%201%20pic%201.jpg?itok=-9HwfUbR"
+    },
+    {
+        "title": "1770 Fell St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1770%20Fell%20St%20tree%201%20pic%201.jpg?itok=qd8ycw78"
+    },
+    {
         "title": "155 Topaz Way",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/155%20Topaz%20Way%20tree%201.jpg?itok=fg4J5uky"
-    },
-    {
-        "title": "407 Cortland Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/407%20Courtland%20Ave%20tree%201%20pic%201.jpg?itok=RjGuM2uV"
     },
     {
         "title": "658 Shotwell St.",
@@ -58,16 +43,6 @@
         "title": "3098 26th St.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3098%2026th%20St%20tree.jpg?itok=GKN6-6N-"
-    },
-    {
-        "title": "500 Capp St.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/500%20Capp%20St%20tree%201%20pic%201.jpg?itok=0uX9HCOj"
-    },
-    {
-        "title": "16 Bronte St.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/16%20Bronte%20St%20tree%201%20pic%201.jpg?itok=INwkgYgz"
     },
     {
         "title": "1102 York St.",
@@ -83,11 +58,6 @@
         "title": "1102 York St.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1102%20York%20St%20tree%206%20pic%201_0.jpg?itok=6erUdRnp"
-    },
-    {
-        "title": "1493 Kansas St.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1493%20Kansas%20St%20tree%201%20pic%201.jpg?itok=Z3Qi122l"
     },
     {
         "title": "41 Ashton Ave.",
