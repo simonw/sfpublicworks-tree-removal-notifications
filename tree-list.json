@@ -5,6 +5,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/778%2032nd%20Ave%20tree%201%20pic%201.jpg?itok=G4gvBoSy"
     },
     {
+        "title": "3760 Washington St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20tree%204%20St%20pic%201.jpg?itok=gou9PMhq"
+    },
+    {
         "title": "1630 Hyde St.",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1630%20Hyde%20St%20tree%201%20pic%201.jpg?itok=-85hpo8q"
@@ -40,24 +45,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/658%20Shotwell%20St%20tree1%20pic%201.jpg?itok=d7U8nHhl"
     },
     {
-        "title": "3098 26th St.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3098%2026th%20St%20tree.jpg?itok=GKN6-6N-"
+        "title": "537 Blanken Ave.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/537%20Blanken%20Ave.%20tree%201%20pic%201.jpg?itok=YTqPkiuj"
     },
     {
-        "title": "1102 York St.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1102%20York%20St%20tree%202%20pic%201_0.jpg?itok=zzMK9R5t"
-    },
-    {
-        "title": "1102 York St.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1102%20York%20St%20tree%203%20pic%201_0.jpg?itok=gIq6hukF"
-    },
-    {
-        "title": "1102 York St.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1102%20York%20St%20tree%206%20pic%201_0.jpg?itok=6erUdRnp"
+        "title": "543 Blanken Ave.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/543%20Blanken%20Ave%20tree%201%20pic%201.jpg?itok=yhCC3B8n"
     },
     {
         "title": "41 Ashton Ave.",
