@@ -10,14 +10,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20tree%204%20St%20pic%201.jpg?itok=gou9PMhq"
     },
     {
-        "title": "1630 Hyde St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1630%20Hyde%20St%20tree%201%20pic%201.jpg?itok=-85hpo8q"
+        "title": "2192 Green St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2192%20Green%20St%20tree%201%20pic%201.jpg?itok=sAjdYwEA"
     },
     {
         "title": "1620 Hayes St.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1620%20Hayes%20St%20tree%201%20pic%201.jpg?itok=Qxuotzbf"
+    },
+    {
+        "title": "2100 Fell St",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2100%20Fell%20St%20tree%201%20pic%201.jpg?itok=_fCwRr6q"
     },
     {
         "title": "590 Masonic Ave.",
@@ -40,9 +45,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/155%20Topaz%20Way%20tree%201.jpg?itok=fg4J5uky"
     },
     {
-        "title": "658 Shotwell St.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/658%20Shotwell%20St%20tree1%20pic%201.jpg?itok=d7U8nHhl"
+        "title": "580 29th St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/580%2029th%20St%20tree%201%20pic%201.jpg?itok=2z5ijuw_"
     },
     {
         "title": "537 Blanken Ave.",
