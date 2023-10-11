@@ -1,10 +1,5 @@
 [
     {
-        "title": "778 32nd Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/778%2032nd%20Ave%20tree%201%20pic%201.jpg?itok=G4gvBoSy"
-    },
-    {
         "title": "3760 Washington St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20tree%204%20St%20pic%201.jpg?itok=gou9PMhq"
@@ -15,29 +10,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2192%20Green%20St%20tree%201%20pic%201.jpg?itok=sAjdYwEA"
     },
     {
-        "title": "1620 Hayes St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1620%20Hayes%20St%20tree%201%20pic%201.jpg?itok=Qxuotzbf"
-    },
-    {
         "title": "2100 Fell St",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2100%20Fell%20St%20tree%201%20pic%201.jpg?itok=_fCwRr6q"
-    },
-    {
-        "title": "590 Masonic Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/590%20Masonic%20Ave%20tree%204%20pic%201.jpg?itok=subG7dj_"
-    },
-    {
-        "title": "1702 Fell St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1702%20Fell%20St%20tree%201%20pic%201.jpg?itok=-9HwfUbR"
-    },
-    {
-        "title": "1770 Fell St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1770%20Fell%20St%20tree%201%20pic%201.jpg?itok=qd8ycw78"
     },
     {
         "title": "155 Topaz Way",
@@ -50,6 +25,16 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/580%2029th%20St%20tree%201%20pic%201.jpg?itok=2z5ijuw_"
     },
     {
+        "title": "1617 Dolores St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1617%20Dolores%20St%20tree%202%20pic%201.jpg?itok=Uu52Oh88"
+    },
+    {
+        "title": "1629 Dolores St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1629%20Dolores%20St%20tree%201%20pic%201.jpg?itok=ftsTTDB6"
+    },
+    {
         "title": "537 Blanken Ave.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/537%20Blanken%20Ave.%20tree%201%20pic%201.jpg?itok=YTqPkiuj"
@@ -58,6 +43,21 @@
         "title": "543 Blanken Ave.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/543%20Blanken%20Ave%20tree%201%20pic%201.jpg?itok=yhCC3B8n"
+    },
+    {
+        "title": "587 Vermont St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/587%20Vermont%20St%20tree%202%20pic%201.jpg?itok=vat4NzSJ"
+    },
+    {
+        "title": "587 Vermont St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/587%20Vermont%20St%20tree%204%20pic%201.jpg?itok=KQhZwcVK"
+    },
+    {
+        "title": "591 Vermont St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/591%20Vermont%20St%20tree%201%20pic%201.jpg?itok=3W6QlKdg"
     },
     {
         "title": "41 Ashton Ave.",
