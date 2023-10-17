@@ -15,9 +15,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2100%20Fell%20St%20tree%201%20pic%201.jpg?itok=_fCwRr6q"
     },
     {
-        "title": "155 Topaz Way",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/155%20Topaz%20Way%20tree%201.jpg?itok=fg4J5uky"
+        "title": "1335 Laguna St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1355%20Laguna%20T2%20CBuck%20photos%209.16.23%20%281%29.jpeg?itok=rszC14Er"
+    },
+    {
+        "title": "2 Seymour St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2%20Seymour%20St%20tree%201%20pic%201.jpg?itok=c3ym8NAg"
     },
     {
         "title": "580 29th St",
@@ -30,19 +35,34 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1617%20Dolores%20St%20tree%202%20pic%201.jpg?itok=Uu52Oh88"
     },
     {
+        "title": "3517 21st St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3517%2021st%20St%20tree%201%20pic%201.jpg?itok=j30CBkB5"
+    },
+    {
         "title": "1629 Dolores St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1629%20Dolores%20St%20tree%201%20pic%201.jpg?itok=ftsTTDB6"
     },
     {
-        "title": "537 Blanken Ave.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/537%20Blanken%20Ave.%20tree%201%20pic%201.jpg?itok=YTqPkiuj"
+        "title": "279 Randall St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/279%20Randall%20St%20sig%20tree%20pic%201.jpg?itok=eYgBSsDO"
     },
     {
-        "title": "543 Blanken Ave.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/543%20Blanken%20Ave%20tree%201%20pic%201.jpg?itok=yhCC3B8n"
+        "title": "279 Randall St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/279%20Randall%20St%20tree%202%20pic%201.jpg?itok=OyGN7w8X"
+    },
+    {
+        "title": "29 Cortland Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/29%20Cortland%20Ave%20tree%201%20pic%201.jpg?itok=YqkgMGcP"
+    },
+    {
+        "title": "36 Cortland Ave.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/36%20Corland%20Ave.%20tree%201%20pic%201.jpg?itok=wMH8dC8T"
     },
     {
         "title": "587 Vermont St.",
@@ -58,11 +78,6 @@
         "title": "591 Vermont St.",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/591%20Vermont%20St%20tree%201%20pic%201.jpg?itok=3W6QlKdg"
-    },
-    {
-        "title": "41 Ashton Ave.",
-        "district": "District 11",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/41%20Ashton%20Ave%20tree%201%20pic%201.jpg?itok=_nxR7cjI"
     },
     {
         "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
