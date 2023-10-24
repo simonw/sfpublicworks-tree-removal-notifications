@@ -5,16 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20tree%204%20St%20pic%201.jpg?itok=gou9PMhq"
     },
     {
-        "title": "2192 Green St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2192%20Green%20St%20tree%201%20pic%201.jpg?itok=sAjdYwEA"
-    },
-    {
-        "title": "2100 Fell St",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2100%20Fell%20St%20tree%201%20pic%201.jpg?itok=_fCwRr6q"
-    },
-    {
         "title": "1335 Laguna St.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1355%20Laguna%20T2%20CBuck%20photos%209.16.23%20%281%29.jpeg?itok=rszC14Er"
@@ -23,11 +13,6 @@
         "title": "2 Seymour St.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2%20Seymour%20St%20tree%201%20pic%201.jpg?itok=c3ym8NAg"
-    },
-    {
-        "title": "580 29th St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/580%2029th%20St%20tree%201%20pic%201.jpg?itok=2z5ijuw_"
     },
     {
         "title": "1617 Dolores St.",
