@@ -1,10 +1,5 @@
 [
     {
-        "title": "3760 Washington St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3760%20Washington%20tree%204%20St%20pic%201.jpg?itok=gou9PMhq"
-    },
-    {
         "title": "1335 Laguna St.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1355%20Laguna%20T2%20CBuck%20photos%209.16.23%20%281%29.jpeg?itok=rszC14Er"
@@ -15,19 +10,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2%20Seymour%20St%20tree%201%20pic%201.jpg?itok=c3ym8NAg"
     },
     {
-        "title": "1617 Dolores St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1617%20Dolores%20St%20tree%202%20pic%201.jpg?itok=Uu52Oh88"
+        "title": "45 Mendosa Ave.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/45%20Mendosa%20Ave%20tree%201%20pic%201.jpg?itok=7QC-WUGO"
     },
     {
         "title": "3517 21st St.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3517%2021st%20St%20tree%201%20pic%201.jpg?itok=j30CBkB5"
-    },
-    {
-        "title": "1629 Dolores St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1629%20Dolores%20St%20tree%201%20pic%201.jpg?itok=ftsTTDB6"
     },
     {
         "title": "279 Randall St.",
@@ -48,11 +38,6 @@
         "title": "36 Cortland Ave.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/36%20Corland%20Ave.%20tree%201%20pic%201.jpg?itok=wMH8dC8T"
-    },
-    {
-        "title": "587 Vermont St.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/587%20Vermont%20St%20tree%202%20pic%201.jpg?itok=vat4NzSJ"
     },
     {
         "title": "587 Vermont St.",
