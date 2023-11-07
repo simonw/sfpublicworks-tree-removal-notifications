@@ -1,8 +1,8 @@
 [
     {
-        "title": "1335 Laguna St.",
+        "title": "1300 Laguna St.",
         "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1355%20Laguna%20T2%20CBuck%20photos%209.16.23%20%281%29.jpeg?itok=rszC14Er"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1300%20Laguna%20St%20tree%201%20pic%201.jpg?itok=p76N48bP"
     },
     {
         "title": "2 Seymour St.",
@@ -15,9 +15,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/45%20Mendosa%20Ave%20tree%201%20pic%201.jpg?itok=7QC-WUGO"
     },
     {
-        "title": "3517 21st St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3517%2021st%20St%20tree%201%20pic%201.jpg?itok=j30CBkB5"
+        "title": "1291 Arguello Blvd.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1291%20Arguello%20Blvd%20tree%201%20pic%201.jpg?itok=MT0anMa1"
     },
     {
         "title": "279 Randall St.",
@@ -30,14 +30,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/279%20Randall%20St%20tree%202%20pic%201.jpg?itok=OyGN7w8X"
     },
     {
-        "title": "29 Cortland Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/29%20Cortland%20Ave%20tree%201%20pic%201.jpg?itok=YqkgMGcP"
-    },
-    {
-        "title": "36 Cortland Ave.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/36%20Corland%20Ave.%20tree%201%20pic%201.jpg?itok=wMH8dC8T"
+        "title": "88 Maryland St.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/88%20Maryland%20St%20tree%201.jpg?itok=OC_uY844"
     },
     {
         "title": "587 Vermont St.",
