@@ -10,9 +10,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2801%20Divisadero%20St%20tree%204%20pic%201.jpg?itok=Aymz_Igf"
     },
     {
-        "title": "1300 Laguna St.",
+        "title": "2938 Clay St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2938%20Clay%20St%20tree%201%20pic%201.jpg?itok=U4eZgKLc"
+    },
+    {
+        "title": "701 Masonic Ave.",
         "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1300%20Laguna%20St%20tree%201%20pic%201.jpg?itok=p76N48bP"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/701%20Masonic%20Ave%20tree%208%20pic%201.jpg?itok=F3erZ4qK"
+    },
+    {
+        "title": "110 Pierce St.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/110%20Pierce%20St%20tree%201%20pic%201.jpg?itok=hJJCyIAc"
     },
     {
         "title": "200 Folsom St.",
@@ -30,14 +40,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1455%20Owens%20St%20tree%202%20pic%202.jpg?itok=eBTaW3g2"
     },
     {
-        "title": "1291 Arguello Blvd.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1291%20Arguello%20Blvd%20tree%201%20pic%201.jpg?itok=MT0anMa1"
-    },
-    {
         "title": "44 Ventura Ave.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/44%20Ventura%20Ave%20tree%202%20pic%201.jpg?itok=TgLQdBDs"
+    },
+    {
+        "title": "1 San Marcos Ave.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20San%20Marcos%20Ave%20tree%201%20pic%202.jpg?itok=k3-Q2Uz_"
     },
     {
         "title": "37 Oakwood St.",
