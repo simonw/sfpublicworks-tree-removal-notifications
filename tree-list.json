@@ -1,10 +1,5 @@
 [
     {
-        "title": "570 39th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/570%2039th%20Ave%20tree%201%20pic%201_0.jpg?itok=SqjLaHnZ"
-    },
-    {
         "title": "2801 Divisadero St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2801%20Divisadero%20St%20tree%204%20pic%201.jpg?itok=Aymz_Igf"
@@ -13,6 +8,11 @@
         "title": "2938 Clay St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2938%20Clay%20St%20tree%201%20pic%201.jpg?itok=U4eZgKLc"
+    },
+    {
+        "title": "2331 Bush St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2331%20Bush%20St%20tree%201%20pic%201.jpg?itok=wWgkYlQ9"
     },
     {
         "title": "701 Masonic Ave.",
@@ -40,24 +40,49 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1455%20Owens%20St%20tree%202%20pic%202.jpg?itok=eBTaW3g2"
     },
     {
-        "title": "44 Ventura Ave.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/44%20Ventura%20Ave%20tree%202%20pic%201.jpg?itok=TgLQdBDs"
-    },
-    {
         "title": "1 San Marcos Ave.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1%20San%20Marcos%20Ave%20tree%201%20pic%202.jpg?itok=k3-Q2Uz_"
     },
     {
-        "title": "88 Maryland St.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/88%20Maryland%20St%20tree%201.jpg?itok=OC_uY844"
+        "title": "100 Yerba Buena Ave.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Yerba%20Buena%20Ave%20tree%201%20pic%201.jpg?itok=1Q7KpyIq"
     },
     {
-        "title": "1221 Mariposa St.",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1221%20Mariposa%20St%20tree%201%20pic%201.jpg?itok=pskiHH6C"
+        "title": "40 Terrace Dr",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/40%20Terrace%20Dr%20tree%201%20pic%201.jpg?itok=YJ3dT03t"
+    },
+    {
+        "title": "70 Terrace Dr",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/70%20Terrace%20Dr%20tree%201%20pic%201.jpg?itok=nmbg5W0D"
+    },
+    {
+        "title": "114 Santa Paula Ave",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/114%20Santa%20Paula%20Ave%20tree%202.jpg?itok=D4W3TxHc"
+    },
+    {
+        "title": "1337 Portola Dr",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1337%20Portola%20Dr%20tree%201%20pic%201.jpg?itok=Iw5m1yxA"
+    },
+    {
+        "title": "1395 Portola Dr",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1395%20Portola%20Dr%20tree%201.jpg?itok=BSOopdbm"
+    },
+    {
+        "title": "1519 Portola Dr",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1519%20Portola%20Dr%20tree%201.jpg?itok=krsD0QnX"
+    },
+    {
+        "title": "1521 Portola Dr",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1521%20Portola%20Dr%20tree%201%20pic%201.jpg?itok=78pfSf7-"
     },
     {
         "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
