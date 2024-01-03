@@ -5,16 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/65%20Cleary%20Ct%20tree%205%20pic%201.jpg?itok=_zeAeJey"
     },
     {
-        "title": "2938 Clay St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2938%20Clay%20St%20tree%201%20pic%201.jpg?itok=U4eZgKLc"
-    },
-    {
-        "title": "2331 Bush St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2331%20Bush%20St%20tree%201%20pic%201.jpg?itok=wWgkYlQ9"
-    },
-    {
         "title": "2160 Larkin St.",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2160%20Larkin%20St%20tree%202%20pic%202.jpg?itok=-HD-C91Y"
@@ -93,6 +83,11 @@
         "title": "47 Brewster St.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/47%20Brewster%20St%20tree%201%20pic%201.jpg?itok=wfb1IK9w"
+    },
+    {
+        "title": "467 Pennsylvania Ave.",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/467%20Pennsylvania%20Ave%20tree%201%20pic%201.png?itok=zxR5Tkgw"
     },
     {
         "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
