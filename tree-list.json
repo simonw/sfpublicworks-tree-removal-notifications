@@ -5,19 +5,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/65%20Cleary%20Ct%20tree%205%20pic%201.jpg?itok=_zeAeJey"
     },
     {
-        "title": "2160 Larkin St.",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2160%20Larkin%20St%20tree%202%20pic%202.jpg?itok=-HD-C91Y"
-    },
-    {
-        "title": "650 7th St",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/650%207th%20St%20tree%202%20pic%201.jpg?itok=4wqFvtFc"
-    },
-    {
         "title": "100 Mission St. (& 60 Spear St)",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Mission%20St%20trees%20.JPG?itok=3nNATCgl"
+    },
+    {
+        "title": "89 Harriet St.",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/89%20Harriet%20St%20tree%205%20pic%201.jpg?itok=z58dX-IM"
     },
     {
         "title": "100 Yerba Buena Ave.",
@@ -65,11 +60,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4828%2019th%20St%20tree%201%20pic%201.jpg?itok=EAgij1nl"
     },
     {
-        "title": "1426 Guerrero St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1426%20Guerrero%20St%20tree%201%20pic%201.jpg?itok=MhilDj4Z"
-    },
-    {
         "title": "3691 21st St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3691%2021st%20St%20tree%201.png?itok=cu057wwn"
@@ -80,9 +70,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1379%20Dolores%20St.%20photo%20from%20customer%20showing%20vol%20palm.jpg?itok=1VwojgBt"
     },
     {
-        "title": "47 Brewster St.",
+        "title": "533 Ellsworth St.",
         "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/47%20Brewster%20St%20tree%201%20pic%201.jpg?itok=wfb1IK9w"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/533%20Ellsworth%20St%20tree%201%20pic%201.jpg?itok=towOC4MG"
     },
     {
         "title": "467 Pennsylvania Ave.",
