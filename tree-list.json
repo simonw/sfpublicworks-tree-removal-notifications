@@ -5,6 +5,16 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/65%20Cleary%20Ct%20tree%205%20pic%201.jpg?itok=_zeAeJey"
     },
     {
+        "title": "903 Pine St",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/903%20Pine%20St%20tree%203%20pic%201.jpg?itok=PUYQ2nW8"
+    },
+    {
+        "title": "510 Stockton St",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/510%20Stockton%20St%20tree%201%20pic%201.jpg?itok=YlhkHBcS"
+    },
+    {
         "title": "100 Mission St. (& 60 Spear St)",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Mission%20St%20trees%20.JPG?itok=3nNATCgl"
@@ -15,49 +25,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/89%20Harriet%20St%20tree%205%20pic%201.jpg?itok=z58dX-IM"
     },
     {
-        "title": "100 Yerba Buena Ave.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Yerba%20Buena%20Ave%20tree%201%20pic%201.jpg?itok=1Q7KpyIq"
-    },
-    {
-        "title": "40 Terrace Dr",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/40%20Terrace%20Dr%20tree%201%20pic%201.jpg?itok=YJ3dT03t"
-    },
-    {
-        "title": "70 Terrace Dr",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/70%20Terrace%20Dr%20tree%201%20pic%201.jpg?itok=nmbg5W0D"
-    },
-    {
-        "title": "114 Santa Paula Ave",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/114%20Santa%20Paula%20Ave%20tree%202.jpg?itok=D4W3TxHc"
-    },
-    {
-        "title": "1337 Portola Dr",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1337%20Portola%20Dr%20tree%201%20pic%201.jpg?itok=Iw5m1yxA"
-    },
-    {
-        "title": "1395 Portola Dr",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1395%20Portola%20Dr%20tree%201.jpg?itok=BSOopdbm"
-    },
-    {
-        "title": "1519 Portola Dr",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1519%20Portola%20Dr%20tree%201.jpg?itok=krsD0QnX"
-    },
-    {
-        "title": "1521 Portola Dr",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1521%20Portola%20Dr%20tree%201%20pic%201.jpg?itok=78pfSf7-"
-    },
-    {
-        "title": "4828 19th St.",
+        "title": "449 Alvarado St",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/4828%2019th%20St%20tree%201%20pic%201.jpg?itok=EAgij1nl"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/449%20Alvarado%20St%20tree%201%20pic%201.jpg?itok=B0WDDsbu"
     },
     {
         "title": "3691 21st St",
@@ -65,9 +35,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3691%2021st%20St%20tree%201.png?itok=cu057wwn"
     },
     {
-        "title": "1379 Dolores St",
+        "title": "453 Alvarado St",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1379%20Dolores%20St.%20photo%20from%20customer%20showing%20vol%20palm.jpg?itok=1VwojgBt"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/453%20Alvarado%20St%20tree%201%20pic%201.jpg?itok=Ov0fLzlo"
+    },
+    {
+        "title": "100 Raccoon Dr",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Raccoon%20Dr%20tree%201%20pic%201.jpg?itok=HP8hd_d3"
     },
     {
         "title": "533 Ellsworth St.",
