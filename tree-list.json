@@ -1,10 +1,5 @@
 [
     {
-        "title": "65 Cleary Ct.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/65%20Cleary%20Ct%20tree%205%20pic%201.jpg?itok=_zeAeJey"
-    },
-    {
         "title": "903 Pine St",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/903%20Pine%20St%20tree%203%20pic%201.jpg?itok=PUYQ2nW8"
@@ -13,11 +8,6 @@
         "title": "510 Stockton St",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/510%20Stockton%20St%20tree%201%20pic%201.jpg?itok=YlhkHBcS"
-    },
-    {
-        "title": "100 Mission St. (& 60 Spear St)",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Mission%20St%20trees%20.JPG?itok=3nNATCgl"
     },
     {
         "title": "89 Harriet St.",
@@ -45,9 +35,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Raccoon%20Dr%20tree%201%20pic%201.jpg?itok=HP8hd_d3"
     },
     {
+        "title": "342 Sanchez St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/342%20Sanchez%20St%20tree%201%20pic%201.jpg?itok=EIfuFHQK"
+    },
+    {
+        "title": "346 Sanchez St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/346%20Sanchez%20St%20tree%201%20pic%201.jpg?itok=cJaetmyX"
+    },
+    {
         "title": "533 Ellsworth St.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/533%20Ellsworth%20St%20tree%201%20pic%201.jpg?itok=towOC4MG"
+    },
+    {
+        "title": "1704 Alabama St",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1704%20Alabama%20St%20tre%201%20pic%201.jpg?itok=5LhBmYZm"
     },
     {
         "title": "467 Pennsylvania Ave.",
