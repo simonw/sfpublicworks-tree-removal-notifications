@@ -1,8 +1,18 @@
 [
     {
-        "title": "449 2nd Ave.",
+        "title": "2610 Lake Street",
         "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/449%2002nd%20Ave%20tree%201%20pic%201.jpg?itok=VxAqwqmg"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2610%20Lake%20St%20tree%204%20pic%201.jpg?itok=pFgqByTU"
+    },
+    {
+        "title": "160 25th Ave",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/160%2025th%20Ave%20tree%201%20pic%201.jpg?itok=TkopdDvN"
+    },
+    {
+        "title": "168 25th Ave",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/168%2025th%20Ave%20tree%201%20pic%201.jpg?itok=qlrLnhbq"
     },
     {
         "title": "2030 Greenwich St",
@@ -13,6 +23,11 @@
         "title": "2106 Divisadero St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2106%20Divisadero%20St%20tree%201%20pic%201_0.jpg?itok=If64GEtM"
+    },
+    {
+        "title": "125 Maple St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/125%20Maple%20St%20tree%2012%20pic%201.jpg?itok=xPphhO9i"
     },
     {
         "title": "2034 Greenwich St",
@@ -40,19 +55,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/45%20Walnust%20St%20tree%201%20pic%201.jpg?itok=OHSTVCo8"
     },
     {
-        "title": "903 Pine St",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/903%20Pine%20St%20tree%203%20pic%201.jpg?itok=PUYQ2nW8"
-    },
-    {
         "title": "1000 Sutter St",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1000%20Sutter%20St%20tree%202%20pic%201.jpg?itok=p3_zYEGA"
     },
     {
-        "title": "510 Stockton St",
+        "title": "1819 Mason St",
         "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/510%20Stockton%20St%20tree%201%20pic%201.jpg?itok=YlhkHBcS"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1819%20Mason%20St%20tree%202%20pic%201.jpg?itok=bFmE375E"
     },
     {
         "title": "2226 15th St",
@@ -65,9 +75,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Raccoon%20Dr%20tree%201%20pic%201.jpg?itok=HP8hd_d3"
     },
     {
+        "title": "551 Alvarado St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/551%20Alvarado%20St%20tree%201%20pic%201.jpg?itok=j4tCW2Bx"
+    },
+    {
+        "title": "255 Chattanooga St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/255%20Chattanooga%20St%20tree%202.jpg?itok=6epnFgGP"
+    },
+    {
         "title": "3733 - 20th St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3733%2020th%20St%20tree%201%20pic%201.jpg?itok=QU4-4Qjm"
+    },
+    {
+        "title": "479 Prentiss St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/479%20Prentiss%20St%20tree%201%20pic%201.jpg?itok=RWPIDg0Q"
     },
     {
         "title": "1704 Alabama St",
