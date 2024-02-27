@@ -40,19 +40,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3370%20Washngton%20St%20tree%201%20pic%201.jpg?itok=IolNy8oU"
     },
     {
-        "title": "2501 Jackson St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2501%20Jackson%20St%20tree%2021%20pic%201.jpg?itok=rf9Gq-8Q"
-    },
-    {
         "title": "2106 Divisadero St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2106%20Divisadero%20St%20tree%201%20pic%201.jpg?itok=O8uZy1CN"
-    },
-    {
-        "title": "45 Walnut St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/45%20Walnust%20St%20tree%201%20pic%201.jpg?itok=OHSTVCo8"
     },
     {
         "title": "1000 Sutter St",
@@ -65,9 +55,29 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1819%20Mason%20St%20tree%202%20pic%201.jpg?itok=bFmE375E"
     },
     {
+        "title": "441 Castenada Ave.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/441%20Castenada%20Ave%20tree%201%20pic%201.jpg?itok=8e45WShP"
+    },
+    {
+        "title": "441 Castenada Ave.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/441%20Castenada%20Ave%20tree%202.jpg?itok=nvYwGeYy"
+    },
+    {
         "title": "2226 15th St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2226%2015th%20St%20tree%201%20pic%201.jpg?itok=aRenO39_"
+    },
+    {
+        "title": "1027 Clayton St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1027%20Clayton%20St%20tree%201%20pic%201.jpg?itok=FGBKNcff"
+    },
+    {
+        "title": "1049 Clayton St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1049%20Clayton%20St.jpg?itok=NrN51ylC"
     },
     {
         "title": "100 Raccoon Dr",
@@ -78,6 +88,11 @@
         "title": "551 Alvarado St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/551%20Alvarado%20St%20tree%201%20pic%201.jpg?itok=j4tCW2Bx"
+    },
+    {
+        "title": "1603 Dolores St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1603%20Dolores%20St%20tree%201%20pic%201.jpg?itok=NV75WGw1"
     },
     {
         "title": "255 Chattanooga St.",
@@ -93,11 +108,6 @@
         "title": "479 Prentiss St.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/479%20Prentiss%20St%20tree%201%20pic%201.jpg?itok=RWPIDg0Q"
-    },
-    {
-        "title": "1704 Alabama St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1704%20Alabama%20St%20tre%201%20pic%201.jpg?itok=5LhBmYZm"
     },
     {
         "title": "696x Valencia St",
@@ -118,6 +128,16 @@
         "title": "1300x De Haro St",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1300x%20De%20Haro%20St%20tree%2019%20pic%201.jpg?itok=ebth8yeC"
+    },
+    {
+        "title": "250 Executive Park Blvd",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/250%20Executive%20Park%20Blvd%20tree%202%20pic%201.jpg?itok=SfWYGHj6"
+    },
+    {
+        "title": "Clone of 250 Executive Park Blvd",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/300%20Toland%20St%20tree%201%20pic%201.jpg?itok=c5p1M772"
     },
     {
         "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
