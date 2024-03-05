@@ -35,14 +35,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2034%20Greenwich%20St%20tree%201%20pic%201.jpg?itok=CM7EPNqL"
     },
     {
-        "title": "3370 Washington St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3370%20Washngton%20St%20tree%201%20pic%201.jpg?itok=IolNy8oU"
-    },
-    {
         "title": "2106 Divisadero St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2106%20Divisadero%20St%20tree%201%20pic%201.jpg?itok=O8uZy1CN"
+    },
+    {
+        "title": "2360 Fillmore St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2360%20Fillmore%20St%20tree%202%20pic%201.jpg?itok=RfQFmx50"
     },
     {
         "title": "1000 Sutter St",
@@ -100,19 +100,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/255%20Chattanooga%20St%20tree%202.jpg?itok=6epnFgGP"
     },
     {
-        "title": "3733 - 20th St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3733%2020th%20St%20tree%201%20pic%201.jpg?itok=QU4-4Qjm"
-    },
-    {
         "title": "479 Prentiss St.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/479%20Prentiss%20St%20tree%201%20pic%201.jpg?itok=RWPIDg0Q"
-    },
-    {
-        "title": "696x Valencia St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/696x%20Valencia%20St%20tree%202%20pic%201.jpg?itok=U-LK9r6d"
     },
     {
         "title": "3425 Cesar Chavez St",
@@ -120,22 +110,12 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3425%20Cesar%20Chavez%20St%20tree%207%20pic%201.jpg?itok=Fa7hkC6k"
     },
     {
-        "title": "1019 Guerrero St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1019%20Guerrero%20St%20tree%201%20pic%201.jpg?itok=frxVhzH9"
-    },
-    {
-        "title": "1300x De Haro St",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1300x%20De%20Haro%20St%20tree%2019%20pic%201.jpg?itok=ebth8yeC"
-    },
-    {
         "title": "250 Executive Park Blvd",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/250%20Executive%20Park%20Blvd%20tree%202%20pic%201.jpg?itok=SfWYGHj6"
     },
     {
-        "title": "Clone of 250 Executive Park Blvd",
+        "title": "300 Toland Street",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/300%20Toland%20St%20tree%201%20pic%201.jpg?itok=c5p1M772"
     },
