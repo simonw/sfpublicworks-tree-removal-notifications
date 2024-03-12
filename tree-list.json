@@ -1,8 +1,8 @@
 [
     {
-        "title": "2610 Lake Street",
+        "title": "708 2nd Ave",
         "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2610%20Lake%20St%20tree%204%20pic%201.jpg?itok=pFgqByTU"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/708%202nd%20Ave%20tree%201%20pic%201.jpg?itok=OPcMkNwe"
     },
     {
         "title": "160 25th Ave",
@@ -15,29 +15,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/168%2025th%20Ave%20tree%201%20pic%201.jpg?itok=qlrLnhbq"
     },
     {
-        "title": "2030 Greenwich St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2030%20Greenwich%20St%20tree%201%20pic%201.jpg?itok=u-4HrG3M"
-    },
-    {
         "title": "2106 Divisadero St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2106%20Divisadero%20St%20tree%201%20pic%201_0.jpg?itok=If64GEtM"
-    },
-    {
-        "title": "125 Maple St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/125%20Maple%20St%20tree%2012%20pic%201.jpg?itok=xPphhO9i"
-    },
-    {
-        "title": "2034 Greenwich St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2034%20Greenwich%20St%20tree%201%20pic%201.jpg?itok=CM7EPNqL"
-    },
-    {
-        "title": "2106 Divisadero St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2106%20Divisadero%20St%20tree%201%20pic%201.jpg?itok=O8uZy1CN"
     },
     {
         "title": "2360 Fillmore St",
@@ -48,11 +28,6 @@
         "title": "1000 Sutter St",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1000%20Sutter%20St%20tree%202%20pic%201.jpg?itok=p3_zYEGA"
-    },
-    {
-        "title": "1819 Mason St",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1819%20Mason%20St%20tree%202%20pic%201.jpg?itok=bFmE375E"
     },
     {
         "title": "441 Castenada Ave.",
@@ -105,9 +80,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/479%20Prentiss%20St%20tree%201%20pic%201.jpg?itok=RWPIDg0Q"
     },
     {
-        "title": "3425 Cesar Chavez St",
+        "title": "14 University St",
         "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3425%20Cesar%20Chavez%20St%20tree%207%20pic%201.jpg?itok=Fa7hkC6k"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/14%20University%20St%20tree%201%20pic%201.jpg?itok=EolvqoJ9"
     },
     {
         "title": "250 Executive Park Blvd",
