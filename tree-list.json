@@ -5,6 +5,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/708%202nd%20Ave%20tree%201%20pic%201.jpg?itok=OPcMkNwe"
     },
     {
+        "title": "2501 Cabrillo St.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2501%20Cabrillo%20St%20tree%201%20pic%201.jpg?itok=mxBXrmsr"
+    },
+    {
         "title": "160 25th Ave",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/160%2025th%20Ave%20tree%201%20pic%201.jpg?itok=TkopdDvN"
@@ -15,9 +20,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/168%2025th%20Ave%20tree%201%20pic%201.jpg?itok=qlrLnhbq"
     },
     {
-        "title": "2106 Divisadero St.",
+        "title": "2323 Sacramento St",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2106%20Divisadero%20St%20tree%201%20pic%201_0.jpg?itok=If64GEtM"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2323%20Sacramento%20St%20tree%201%20pic%201.jpg?itok=g-ZR8KvT"
+    },
+    {
+        "title": "78 Haight St. (80X Haight, in tree database)",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/78%20-%2080%20Haight%20St%20tree%201%20pic%201.jpg?itok=nbti3g1Q"
+    },
+    {
+        "title": "2838 Bush St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2838%20Bush%20St%20tree%201%20pic%201.jpg?itok=q5_kJWMQ"
     },
     {
         "title": "2360 Fillmore St",
@@ -25,9 +40,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2360%20Fillmore%20St%20tree%202%20pic%201.jpg?itok=RfQFmx50"
     },
     {
-        "title": "1000 Sutter St",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1000%20Sutter%20St%20tree%202%20pic%201.jpg?itok=p3_zYEGA"
+        "title": "2300 33rd Avenue, on Santiago frontage",
+        "district": "District 4",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2300%2033rd%20Ave%20T1%20pic%201.jpg?itok=8xHq4_IX"
+    },
+    {
+        "title": "2300 33rd Avenue, on Santiago frontage",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2300%2033rd%20Ave%20T1%20pic%201.jpg?itok=8xHq4_IX"
     },
     {
         "title": "441 Castenada Ave.",
@@ -38,11 +58,6 @@
         "title": "441 Castenada Ave.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/441%20Castenada%20Ave%20tree%202.jpg?itok=nvYwGeYy"
-    },
-    {
-        "title": "2226 15th St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2226%2015th%20St%20tree%201%20pic%201.jpg?itok=aRenO39_"
     },
     {
         "title": "1027 Clayton St",
