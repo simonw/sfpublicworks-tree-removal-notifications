@@ -10,16 +10,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2501%20Cabrillo%20St%20tree%201%20pic%201.jpg?itok=mxBXrmsr"
     },
     {
-        "title": "160 25th Ave",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/160%2025th%20Ave%20tree%201%20pic%201.jpg?itok=TkopdDvN"
-    },
-    {
-        "title": "168 25th Ave",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/168%2025th%20Ave%20tree%201%20pic%201.jpg?itok=qlrLnhbq"
-    },
-    {
         "title": "2323 Sacramento St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2323%20Sacramento%20St%20tree%201%20pic%201.jpg?itok=g-ZR8KvT"
@@ -33,11 +23,6 @@
         "title": "2838 Bush St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2838%20Bush%20St%20tree%201%20pic%201.jpg?itok=q5_kJWMQ"
-    },
-    {
-        "title": "2360 Fillmore St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2360%20Fillmore%20St%20tree%202%20pic%201.jpg?itok=RfQFmx50"
     },
     {
         "title": "2300 33rd Avenue, on Santiago frontage",
@@ -70,24 +55,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Raccoon%20Dr%20tree%201%20pic%201.jpg?itok=HP8hd_d3"
     },
     {
-        "title": "551 Alvarado St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/551%20Alvarado%20St%20tree%201%20pic%201.jpg?itok=j4tCW2Bx"
-    },
-    {
         "title": "1603 Dolores St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1603%20Dolores%20St%20tree%201%20pic%201.jpg?itok=NV75WGw1"
-    },
-    {
-        "title": "255 Chattanooga St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/255%20Chattanooga%20St%20tree%202.jpg?itok=6epnFgGP"
-    },
-    {
-        "title": "479 Prentiss St.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/479%20Prentiss%20St%20tree%201%20pic%201.jpg?itok=RWPIDg0Q"
     },
     {
         "title": "14 University St",
