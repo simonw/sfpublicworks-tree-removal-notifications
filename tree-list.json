@@ -15,11 +15,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2323%20Sacramento%20St%20tree%201%20pic%201.jpg?itok=g-ZR8KvT"
     },
     {
-        "title": "78 Haight St. (80X Haight, in tree database)",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/78%20-%2080%20Haight%20St%20tree%201%20pic%201.jpg?itok=nbti3g1Q"
-    },
-    {
         "title": "2838 Bush St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2838%20Bush%20St%20tree%201%20pic%201.jpg?itok=q5_kJWMQ"
@@ -28,6 +23,11 @@
         "title": "2300 33rd Avenue, on Santiago frontage",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2300%2033rd%20Ave%20T1%20pic%201.jpg?itok=8xHq4_IX"
+    },
+    {
+        "title": "78 Haight St. (80X Haight, in tree database)",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/78%20-%2080%20Haight%20St%20tree%201%20pic%201.jpg?itok=nbti3g1Q"
     },
     {
         "title": "441 Castenada Ave.",
