@@ -1,10 +1,5 @@
 [
     {
-        "title": "708 2nd Ave",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/708%202nd%20Ave%20tree%201%20pic%201.jpg?itok=OPcMkNwe"
-    },
-    {
         "title": "2501 Cabrillo St.",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2501%20Cabrillo%20St%20tree%201%20pic%201.jpg?itok=mxBXrmsr"
@@ -30,49 +25,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/78%20-%2080%20Haight%20St%20tree%201%20pic%201.jpg?itok=nbti3g1Q"
     },
     {
-        "title": "441 Castenada Ave.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/441%20Castenada%20Ave%20tree%201%20pic%201.jpg?itok=8e45WShP"
+        "title": "43 Lafayette St",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/43%20Lafayette%20St%20tree%204%20pic%201.jpg?itok=KXX9TwRv"
     },
     {
-        "title": "441 Castenada Ave.",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/441%20Castenada%20Ave%20tree%202.jpg?itok=nvYwGeYy"
-    },
-    {
-        "title": "1027 Clayton St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1027%20Clayton%20St%20tree%201%20pic%201.jpg?itok=FGBKNcff"
-    },
-    {
-        "title": "1049 Clayton St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1049%20Clayton%20St.jpg?itok=NrN51ylC"
-    },
-    {
-        "title": "100 Raccoon Dr",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20Raccoon%20Dr%20tree%201%20pic%201.jpg?itok=HP8hd_d3"
-    },
-    {
-        "title": "1603 Dolores St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1603%20Dolores%20St%20tree%201%20pic%201.jpg?itok=NV75WGw1"
-    },
-    {
-        "title": "14 University St",
+        "title": "44 University St",
         "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/14%20University%20St%20tree%201%20pic%201.jpg?itok=EolvqoJ9"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/44%20University%20St%20tree%201%20pic%201.jpg?itok=fxyVeZ5A"
     },
     {
-        "title": "250 Executive Park Blvd",
+        "title": "1748 Oakdale Ave",
         "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/250%20Executive%20Park%20Blvd%20tree%202%20pic%201.jpg?itok=SfWYGHj6"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1748%20Oakdale%20Ave%20tree%201%20pic%201.jpg?itok=l-i1oTqa"
     },
     {
-        "title": "300 Toland Street",
+        "title": "68 Whitney Young Cir",
         "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/300%20Toland%20St%20tree%201%20pic%201.jpg?itok=c5p1M772"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/68%20Whitney%20Young%20Cir%20tree%202%20pic%201.jpg?itok=-vDwl8KK"
     },
     {
         "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
