@@ -1,8 +1,8 @@
 [
     {
-        "title": "2501 Cabrillo St.",
+        "title": "785 08th Ave",
         "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2501%20Cabrillo%20St%20tree%201%20pic%201.jpg?itok=mxBXrmsr"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/785%2008th%20Ave%20tree%202%20pic%201.jpg?itok=rBMhkTs_"
     },
     {
         "title": "2323 Sacramento St",
@@ -10,14 +10,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2323%20Sacramento%20St%20tree%201%20pic%201.jpg?itok=g-ZR8KvT"
     },
     {
-        "title": "2838 Bush St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2838%20Bush%20St%20tree%201%20pic%201.jpg?itok=q5_kJWMQ"
-    },
-    {
         "title": "2300 33rd Avenue, on Santiago frontage",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2300%2033rd%20Ave%20T1%20pic%201.jpg?itok=8xHq4_IX"
+    },
+    {
+        "title": "741 Ellis St",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/741%20Ellis%20St%20tree%201%20pic%201.jpg?itok=pmQ1wh4T"
+    },
+    {
+        "title": "640 Polk St",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/640%20Polk%20St%20tree%201%20pic%201.jpg?itok=Ay-tkxG6"
     },
     {
         "title": "78 Haight St. (80X Haight, in tree database)",
@@ -28,6 +33,21 @@
         "title": "43 Lafayette St",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/43%20Lafayette%20St%20tree%204%20pic%201.jpg?itok=KXX9TwRv"
+    },
+    {
+        "title": "170 Noe St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/170%20Noe%20St%20tree%201%20pic%201.jpg?itok=qMc3U7jU"
+    },
+    {
+        "title": "188 Noe St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/188%20Noe%20St%20tree%201%20pic%201.jpg?itok=Db695532"
+    },
+    {
+        "title": "21 Digby St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/21%20Digby%20St%20pic%201.jpg?itok=aIsNSKid"
     },
     {
         "title": "44 University St",
