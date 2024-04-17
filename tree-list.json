@@ -5,9 +5,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/785%2008th%20Ave%20tree%202%20pic%201.jpg?itok=rBMhkTs_"
     },
     {
+        "title": "415 17th Ave",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/415%2017th%20Ave%20tree%201%20pic%201.jpg?itok=tcv4YoXf"
+    },
+    {
         "title": "2323 Sacramento St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2323%20Sacramento%20St%20tree%201%20pic%201.jpg?itok=g-ZR8KvT"
+    },
+    {
+        "title": "438 Laurel St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/438%20Laurel%20St%20tree%201%20pic%201.jpg?itok=JQIuBCeP"
     },
     {
         "title": "2300 33rd Avenue, on Santiago frontage",
@@ -55,14 +65,34 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/44%20University%20St%20tree%201%20pic%201.jpg?itok=fxyVeZ5A"
     },
     {
+        "title": "1502 Florida St",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1502%20Florida%20St%20tree%201%20pic%201.jpg?itok=1mX4VhcT"
+    },
+    {
+        "title": "331 Moultrie St",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/331%20Moultrie%20St%20tree%201%20pic%201.jpg?itok=lFxTPGou"
+    },
+    {
         "title": "1748 Oakdale Ave",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1748%20Oakdale%20Ave%20tree%201%20pic%201.jpg?itok=l-i1oTqa"
     },
     {
+        "title": "554 Rhode Island St",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/554%20Rhode%20Island%20St%20tree%201%20pic%201.jpg?itok=bFOzeCjq"
+    },
+    {
         "title": "68 Whitney Young Cir",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/68%20Whitney%20Young%20Cir%20tree%202%20pic%201.jpg?itok=-vDwl8KK"
+    },
+    {
+        "title": "1740 17th St",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1740%2017th%20St%20tree%201%20pic%201.jpg?itok=fhClfYRq"
     },
     {
         "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
