@@ -5,24 +5,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/785%2008th%20Ave%20tree%202%20pic%201.jpg?itok=rBMhkTs_"
     },
     {
+        "title": "843 37th Ave",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/843%2037th%20Ave%20tree%201%20pic%201.jpg?itok=_nAeBVPw"
+    },
+    {
         "title": "415 17th Ave",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/415%2017th%20Ave%20tree%201%20pic%201.jpg?itok=tcv4YoXf"
     },
     {
-        "title": "2323 Sacramento St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2323%20Sacramento%20St%20tree%201%20pic%201.jpg?itok=g-ZR8KvT"
-    },
-    {
         "title": "438 Laurel St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/438%20Laurel%20St%20tree%201%20pic%201.jpg?itok=JQIuBCeP"
-    },
-    {
-        "title": "2300 33rd Avenue, on Santiago frontage",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2300%2033rd%20Ave%20T1%20pic%201.jpg?itok=8xHq4_IX"
     },
     {
         "title": "741 Ellis St",
@@ -35,19 +30,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/640%20Polk%20St%20tree%201%20pic%201.jpg?itok=Ay-tkxG6"
     },
     {
-        "title": "78 Haight St. (80X Haight, in tree database)",
+        "title": "1030 Post St",
         "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/78%20-%2080%20Haight%20St%20tree%201%20pic%201.jpg?itok=nbti3g1Q"
-    },
-    {
-        "title": "43 Lafayette St",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/43%20Lafayette%20St%20tree%204%20pic%201.jpg?itok=KXX9TwRv"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1030%20Post%20St%20tree%203%20pic%201.jpg?itok=2hp0THwu"
     },
     {
         "title": "170 Noe St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/170%20Noe%20St%20tree%201%20pic%201.jpg?itok=qMc3U7jU"
+    },
+    {
+        "title": "29 Park Hill Ave",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/29%20Park%20Hill%20Ave%20tree%202%20pic%201.jpg?itok=GtgzCOSR"
     },
     {
         "title": "188 Noe St",
@@ -60,11 +55,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/21%20Digby%20St%20pic%201.jpg?itok=aIsNSKid"
     },
     {
-        "title": "44 University St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/44%20University%20St%20tree%201%20pic%201.jpg?itok=fxyVeZ5A"
-    },
-    {
         "title": "1502 Florida St",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1502%20Florida%20St%20tree%201%20pic%201.jpg?itok=1mX4VhcT"
@@ -75,9 +65,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/331%20Moultrie%20St%20tree%201%20pic%201.jpg?itok=lFxTPGou"
     },
     {
-        "title": "1748 Oakdale Ave",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1748%20Oakdale%20Ave%20tree%201%20pic%201.jpg?itok=l-i1oTqa"
+        "title": "483 Prentiss St",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/483%20Prentiss%20St%20tree%201%20pic%201.jpg?itok=e_dHuHen"
     },
     {
         "title": "554 Rhode Island St",
@@ -93,6 +83,11 @@
         "title": "1740 17th St",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1740%2017th%20St%20tree%201%20pic%201.jpg?itok=fhClfYRq"
+    },
+    {
+        "title": "Clone of 483 Prentiss St",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1583%20Shafter%20Ave%20tree%203%20pic%201.jpg?itok=UaZJPDxU"
     },
     {
         "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
