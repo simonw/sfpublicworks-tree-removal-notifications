@@ -1,10 +1,5 @@
 [
     {
-        "title": "785 08th Ave",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/785%2008th%20Ave%20tree%202%20pic%201.jpg?itok=rBMhkTs_"
-    },
-    {
         "title": "843 37th Ave",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/843%2037th%20Ave%20tree%201%20pic%201.jpg?itok=_nAeBVPw"
@@ -20,11 +15,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/438%20Laurel%20St%20tree%201%20pic%201.jpg?itok=JQIuBCeP"
     },
     {
-        "title": "741 Ellis St",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/741%20Ellis%20St%20tree%201%20pic%201.jpg?itok=pmQ1wh4T"
-    },
-    {
         "title": "640 Polk St",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/640%20Polk%20St%20tree%201%20pic%201.jpg?itok=Ay-tkxG6"
@@ -35,19 +25,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1030%20Post%20St%20tree%203%20pic%201.jpg?itok=2hp0THwu"
     },
     {
-        "title": "170 Noe St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/170%20Noe%20St%20tree%201%20pic%201.jpg?itok=qMc3U7jU"
+        "title": "598 Bryant St",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/598%20Bryant%20St%20tree%201%20pic%201.jpg?itok=deafMcv5"
     },
     {
         "title": "29 Park Hill Ave",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/29%20Park%20Hill%20Ave%20tree%202%20pic%201.jpg?itok=GtgzCOSR"
-    },
-    {
-        "title": "188 Noe St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/188%20Noe%20St%20tree%201%20pic%201.jpg?itok=Db695532"
     },
     {
         "title": "21 Digby St",
@@ -80,12 +65,17 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/68%20Whitney%20Young%20Cir%20tree%202%20pic%201.jpg?itok=-vDwl8KK"
     },
     {
+        "title": "1270 Fairfax Ave",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1270%20Fairfax%20Ave%20tree%201%20pic%201.jpg?itok=fLsWt-91"
+    },
+    {
         "title": "1740 17th St",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1740%2017th%20St%20tree%201%20pic%201.jpg?itok=fhClfYRq"
     },
     {
-        "title": "Clone of 483 Prentiss St",
+        "title": "1583 Shafter Ave",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1583%20Shafter%20Ave%20tree%203%20pic%201.jpg?itok=UaZJPDxU"
     },
