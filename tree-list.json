@@ -5,9 +5,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/843%2037th%20Ave%20tree%201%20pic%201.jpg?itok=_nAeBVPw"
     },
     {
-        "title": "415 17th Ave",
+        "title": "6210 Geary Blvd",
         "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/415%2017th%20Ave%20tree%201%20pic%201.jpg?itok=tcv4YoXf"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/6210%20Geary%20Blvd%20tree%205%20pic%201.jpg?itok=ZJEcDp2g"
+    },
+    {
+        "title": "2142 Lyon St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2142%20Lyon%20St%20tree%201%20pic%201.jpg?itok=SUNSAiPg"
     },
     {
         "title": "438 Laurel St",
@@ -40,11 +45,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/21%20Digby%20St%20pic%201.jpg?itok=aIsNSKid"
     },
     {
-        "title": "1502 Florida St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1502%20Florida%20St%20tree%201%20pic%201.jpg?itok=1mX4VhcT"
-    },
-    {
         "title": "331 Moultrie St",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/331%20Moultrie%20St%20tree%201%20pic%201.jpg?itok=lFxTPGou"
@@ -58,11 +58,6 @@
         "title": "554 Rhode Island St",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/554%20Rhode%20Island%20St%20tree%201%20pic%201.jpg?itok=bFOzeCjq"
-    },
-    {
-        "title": "68 Whitney Young Cir",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/68%20Whitney%20Young%20Cir%20tree%202%20pic%201.jpg?itok=-vDwl8KK"
     },
     {
         "title": "1270 Fairfax Ave",
