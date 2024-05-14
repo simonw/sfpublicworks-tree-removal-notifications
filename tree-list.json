@@ -1,13 +1,13 @@
 [
     {
-        "title": "843 37th Ave",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/843%2037th%20Ave%20tree%201%20pic%201.jpg?itok=_nAeBVPw"
-    },
-    {
         "title": "6210 Geary Blvd",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/6210%20Geary%20Blvd%20tree%205%20pic%201.jpg?itok=ZJEcDp2g"
+    },
+    {
+        "title": "514 03rd Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/514_3rd%20Ave%20tree%201%20pic%201.jpg?itok=uz5p8WNK"
     },
     {
         "title": "2142 Lyon St",
@@ -20,9 +20,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/438%20Laurel%20St%20tree%201%20pic%201.jpg?itok=JQIuBCeP"
     },
     {
-        "title": "640 Polk St",
+        "title": "2524 Lombard St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2524%20Lombard%20St%20tree%202%20pic%201.jpg?itok=voFyVPLD"
+    },
+    {
+        "title": "1880 Pine St.",
         "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/640%20Polk%20St%20tree%201%20pic%201.jpg?itok=Ay-tkxG6"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1880%20Pine%20St%20tree%204%20pic%201.jpg?itok=mqFYeUCO"
     },
     {
         "title": "1030 Post St",
@@ -35,14 +40,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/598%20Bryant%20St%20tree%201%20pic%201.jpg?itok=deafMcv5"
     },
     {
+        "title": "120 Stonecrest Dr.",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/120%20Stonecrest%20Dr%20tree%201%20pic%201.jpg?itok=P2O97Ucb"
+    },
+    {
         "title": "29 Park Hill Ave",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/29%20Park%20Hill%20Ave%20tree%202%20pic%201.jpg?itok=GtgzCOSR"
-    },
-    {
-        "title": "21 Digby St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/21%20Digby%20St%20pic%201.jpg?itok=aIsNSKid"
     },
     {
         "title": "331 Moultrie St",
@@ -68,11 +73,6 @@
         "title": "1740 17th St",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1740%2017th%20St%20tree%201%20pic%201.jpg?itok=fhClfYRq"
-    },
-    {
-        "title": "1583 Shafter Ave",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1583%20Shafter%20Ave%20tree%203%20pic%201.jpg?itok=UaZJPDxU"
     },
     {
         "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
