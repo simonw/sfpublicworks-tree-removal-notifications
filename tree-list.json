@@ -15,11 +15,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2142%20Lyon%20St%20tree%201%20pic%201.jpg?itok=SUNSAiPg"
     },
     {
-        "title": "438 Laurel St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/438%20Laurel%20St%20tree%201%20pic%201.jpg?itok=JQIuBCeP"
-    },
-    {
         "title": "2524 Lombard St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2524%20Lombard%20St%20tree%202%20pic%201.jpg?itok=voFyVPLD"
@@ -50,29 +45,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/29%20Park%20Hill%20Ave%20tree%202%20pic%201.jpg?itok=GtgzCOSR"
     },
     {
-        "title": "331 Moultrie St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/331%20Moultrie%20St%20tree%201%20pic%201.jpg?itok=lFxTPGou"
-    },
-    {
         "title": "483 Prentiss St",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/483%20Prentiss%20St%20tree%201%20pic%201.jpg?itok=e_dHuHen"
-    },
-    {
-        "title": "554 Rhode Island St",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/554%20Rhode%20Island%20St%20tree%201%20pic%201.jpg?itok=bFOzeCjq"
-    },
-    {
-        "title": "1270 Fairfax Ave",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1270%20Fairfax%20Ave%20tree%201%20pic%201.jpg?itok=fLsWt-91"
-    },
-    {
-        "title": "1740 17th St",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1740%2017th%20St%20tree%201%20pic%201.jpg?itok=fhClfYRq"
     },
     {
         "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
