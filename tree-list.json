@@ -5,11 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/6210%20Geary%20Blvd%20tree%205%20pic%201.jpg?itok=ZJEcDp2g"
     },
     {
-        "title": "514 03rd Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/514_3rd%20Ave%20tree%201%20pic%201.jpg?itok=uz5p8WNK"
-    },
-    {
         "title": "127 5th Ave",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/127%205th%20Ave%20tree%202%20pic%201.jpg?itok=IgiqHBfA"
@@ -18,6 +13,11 @@
         "title": "2142 Lyon St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2142%20Lyon%20St%20tree%201%20pic%201.jpg?itok=SUNSAiPg"
+    },
+    {
+        "title": "3540 Jackson St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3540%20Jackson%20St.%20Photo%201.jpg?itok=5eWK6YMb"
     },
     {
         "title": "2524 Lombard St.",
@@ -38,6 +38,16 @@
         "title": "120 Stonecrest Dr.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/120%20Stonecrest%20Dr%20tree%201%20pic%201.jpg?itok=P2O97Ucb"
+    },
+    {
+        "title": "761 27th St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/761%2027th%20St.%20photo%201.jpg?itok=66EYYHiw"
+    },
+    {
+        "title": "447 Clipper St.",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/447%20Clipper%20Photo%201.jpg?itok=BPhxKfwI"
     },
     {
         "title": "3095 3rd St",
