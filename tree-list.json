@@ -1,18 +1,8 @@
 [
     {
-        "title": "6210 Geary Blvd",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/6210%20Geary%20Blvd%20tree%205%20pic%201.jpg?itok=ZJEcDp2g"
-    },
-    {
         "title": "127 5th Ave",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/127%205th%20Ave%20tree%202%20pic%201.jpg?itok=IgiqHBfA"
-    },
-    {
-        "title": "2142 Lyon St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2142%20Lyon%20St%20tree%201%20pic%201.jpg?itok=SUNSAiPg"
     },
     {
         "title": "3540 Jackson St.",
@@ -20,14 +10,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3540%20Jackson%20St.%20Photo%201.jpg?itok=5eWK6YMb"
     },
     {
+        "title": "3225 Jackson St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3225%20Jackson%20St%20tree%203%20pic%201.jpg?itok=abK6WZxP"
+    },
+    {
+        "title": "45 Cleary Ct",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/45%20Cleary%20Ct%20tree%202%20pic%201.jpg?itok=zKWacAzM"
+    },
+    {
         "title": "2524 Lombard St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2524%20Lombard%20St%20tree%202%20pic%201.jpg?itok=voFyVPLD"
     },
     {
-        "title": "1880 Pine St.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1880%20Pine%20St%20tree%204%20pic%201.jpg?itok=mqFYeUCO"
+        "title": "1220 Ellis St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1220%20Ellis%20St%20tree%201%20pic%201.jpg?itok=I_K7E5wx"
     },
     {
         "title": "598 Bryant St",
@@ -50,18 +50,13 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/447%20Clipper%20Photo%201.jpg?itok=BPhxKfwI"
     },
     {
+        "title": "76 Manchester St",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/76%20Manchester%20St%20tree%202%20pic%201.jpg?itok=2HbapEdP"
+    },
+    {
         "title": "3095 3rd St",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3095%203rd%20St%20tree%204%20pic%201_0.png?itok=QStkHudZ"
-    },
-    {
-        "title": "1780 Sunset Boulevard at Noriega Street (northeast corner, 73 feet from the crosswalk)",
-        "district": "Tree Removals by Other City Agencies",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1780%20Sunset%20Tree%20for%20Relocation.jpg?itok=WvaPR7RN"
-    },
-    {
-        "title": "1801 Sunset Boulevard at Noriega Street (southwest corner, 43 feet from the crosswalk)",
-        "district": "Tree Removals by Other City Agencies",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1801%20Sunset%20Tree%20for%20Relocation.jpg?itok=HFvh_c_p"
     }
 ]
