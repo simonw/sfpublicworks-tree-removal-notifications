@@ -30,6 +30,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1220%20Ellis%20St%20tree%201%20pic%201.jpg?itok=I_K7E5wx"
     },
     {
+        "title": "1255 Taylor St",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1255%20Taylor%20St%20tree%201%20pic%201.jpg?itok=pv8kucaQ"
+    },
+    {
         "title": "598 Bryant St",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/598%20Bryant%20St%20tree%201%20pic%201.jpg?itok=deafMcv5"
@@ -50,9 +55,39 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/447%20Clipper%20Photo%201.jpg?itok=BPhxKfwI"
     },
     {
+        "title": "420 Castro St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/420%20Castro%20St%20tree%201%20pic%201.jpg?itok=WQJRSsjj"
+    },
+    {
+        "title": "426 Castro St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/426%20Castro%20St%20tree%201%20pic%201.jpg?itok=AgACLYkX"
+    },
+    {
+        "title": "495 Castro St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/495%20Castro%20St%20tree%201%20pic%201.jpg?itok=Z16LsMJw"
+    },
+    {
+        "title": "587 Castro St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/587%20Castro%20St%20tree%201%20pic%201.jpg?itok=Q01gfSnd"
+    },
+    {
+        "title": "590 Castro St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/590%20Castro%20St%20tree%201%20pic%201.jpg?itok=-c7FE58u"
+    },
+    {
         "title": "76 Manchester St",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/76%20Manchester%20St%20tree%202%20pic%201.jpg?itok=2HbapEdP"
+    },
+    {
+        "title": "49 Nevada St",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/49%20Nevada%20St%20tree%201%20and%203.jpg?itok=6taue33P"
     },
     {
         "title": "3095 3rd St",
