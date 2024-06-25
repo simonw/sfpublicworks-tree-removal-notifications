@@ -1,5 +1,10 @@
 [
     {
+        "title": "154 25th Ave",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/154%2025th%20Ave%20tree%201.jpg?itok=KXXF9OxZ"
+    },
+    {
         "title": "127 5th Ave",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/127%205th%20Ave%20tree%202%20pic%201.jpg?itok=IgiqHBfA"
@@ -20,9 +25,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/45%20Cleary%20Ct%20tree%202%20pic%201.jpg?itok=zKWacAzM"
     },
     {
+        "title": "3575 Washington St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3575%20Washington%20St%20pic%201.jpg?itok=DMZuNWn_"
+    },
+    {
         "title": "1220 Ellis St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1220%20Ellis%20St%20tree%201%20pic%201.jpg?itok=I_K7E5wx"
+    },
+    {
+        "title": "2868 Bush St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2868%20Bush%20St%20pic%201.jpg?itok=WxYfqkI2"
     },
     {
         "title": "1255 Taylor St",
@@ -35,9 +50,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1290x%20Golden%20Gate%20Ave%20tree%202%20pic%201.jpg?itok=TnHXNjqX"
     },
     {
-        "title": "761 27th St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/761%2027th%20St.%20photo%201.jpg?itok=66EYYHiw"
+        "title": "700x Golden Gate Ave.",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700x%20Golden%20Gate%20Ave%20tree%204%20pic%202.jpg?itok=SMRFhPqy"
     },
     {
         "title": "447 Clipper St.",
@@ -70,6 +85,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/590%20Castro%20St%20tree%201%20pic%201.jpg?itok=-c7FE58u"
     },
     {
+        "title": "300x Guerrero St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/300x%20Guerrero%20St%20tree%209%20pic%201.jpg?itok=Nj0qPNDn"
+    },
+    {
         "title": "76 Manchester St",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/76%20Manchester%20St%20tree%202%20pic%201.jpg?itok=2HbapEdP"
@@ -83,6 +103,11 @@
         "title": "3095 3rd St",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3095%203rd%20St%20tree%204%20pic%201_0.png?itok=QStkHudZ"
+    },
+    {
+        "title": "1635x Sam Jordan's Way (4003 3rd St)",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Sam%20Jordan%20Way%20pic%201.jpg?itok=PfRkEkoe"
     },
     {
         "title": "2700 Folsom Street at 23rd Street (southwest corner)",
