@@ -5,9 +5,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/154%2025th%20Ave%20tree%201.jpg?itok=KXXF9OxZ"
     },
     {
-        "title": "127 5th Ave",
+        "title": "2694 McAllister St",
         "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/127%205th%20Ave%20tree%202%20pic%201.jpg?itok=IgiqHBfA"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2694%20McAllister%20St%20pic%201%202.jpg?itok=JMXkffiN"
+    },
+    {
+        "title": "486 32nd Ave",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/486%2032nd%20Ave%20tree%201%20pic%201%202.jpg?itok=xaGnqIvx"
+    },
+    {
+        "title": "2510 McAllister St",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2510%20McAllister%20St%20tree%201%20pic%201%202.jpg?itok=_VU2UTdY"
+    },
+    {
+        "title": "3625 Balboa St",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3625%20Balboa%20St%20tree%203%20pic%201%202.jpg?itok=0uHaA8rY"
     },
     {
         "title": "3540 Jackson St.",
@@ -20,19 +35,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3225%20Jackson%20St%20tree%203%20pic%201.jpg?itok=abK6WZxP"
     },
     {
-        "title": "45 Cleary Ct",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/45%20Cleary%20Ct%20tree%202%20pic%201.jpg?itok=zKWacAzM"
-    },
-    {
         "title": "3575 Washington St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3575%20Washington%20St%20pic%201.jpg?itok=DMZuNWn_"
-    },
-    {
-        "title": "1220 Ellis St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1220%20Ellis%20St%20tree%201%20pic%201.jpg?itok=I_K7E5wx"
     },
     {
         "title": "2868 Bush St",
@@ -90,19 +95,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/300x%20Guerrero%20St%20tree%209%20pic%201.jpg?itok=Nj0qPNDn"
     },
     {
-        "title": "76 Manchester St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/76%20Manchester%20St%20tree%202%20pic%201.jpg?itok=2HbapEdP"
-    },
-    {
         "title": "49 Nevada St",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/49%20Nevada%20St%20tree%201%20and%203.jpg?itok=6taue33P"
-    },
-    {
-        "title": "3095 3rd St",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3095%203rd%20St%20tree%204%20pic%201_0.png?itok=QStkHudZ"
     },
     {
         "title": "1635x Sam Jordan's Way (4003 3rd St)",
