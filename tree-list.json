@@ -25,11 +25,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3625%20Balboa%20St%20tree%203%20pic%201%202.jpg?itok=0uHaA8rY"
     },
     {
-        "title": "3540 Jackson St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3540%20Jackson%20St.%20Photo%201.jpg?itok=5eWK6YMb"
-    },
-    {
         "title": "3225 Jackson St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3225%20Jackson%20St%20tree%203%20pic%201.jpg?itok=abK6WZxP"
@@ -38,6 +33,11 @@
         "title": "3575 Washington St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3575%20Washington%20St%20pic%201.jpg?itok=DMZuNWn_"
+    },
+    {
+        "title": "2830 Filbert St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2830%20Filbert%20St%20tree%201%20pic%201.jpg?itok=NQGjMHBo"
     },
     {
         "title": "2868 Bush St",
@@ -50,19 +50,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1255%20Taylor%20St%20tree%201%20pic%201.jpg?itok=pv8kucaQ"
     },
     {
-        "title": "1290x Golden Gate Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1290x%20Golden%20Gate%20Ave%20tree%202%20pic%201.jpg?itok=TnHXNjqX"
-    },
-    {
         "title": "700x Golden Gate Ave.",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700x%20Golden%20Gate%20Ave%20tree%204%20pic%202.jpg?itok=SMRFhPqy"
-    },
-    {
-        "title": "447 Clipper St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/447%20Clipper%20Photo%201.jpg?itok=BPhxKfwI"
     },
     {
         "title": "420 Castro St",
