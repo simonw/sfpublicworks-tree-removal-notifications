@@ -25,11 +25,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3625%20Balboa%20St%20tree%203%20pic%201%202.jpg?itok=0uHaA8rY"
     },
     {
-        "title": "3225 Jackson St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3225%20Jackson%20St%20tree%203%20pic%201.jpg?itok=abK6WZxP"
-    },
-    {
         "title": "3575 Washington St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3575%20Washington%20St%20pic%201.jpg?itok=DMZuNWn_"
@@ -45,9 +40,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2868%20Bush%20St%20pic%201.jpg?itok=WxYfqkI2"
     },
     {
-        "title": "1255 Taylor St",
+        "title": "1100 Sacramento St",
         "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1255%20Taylor%20St%20tree%201%20pic%201.jpg?itok=pv8kucaQ"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1100%20Sacramento%20St%20tree%201.jpg?itok=CzalZ-DJ"
+    },
+    {
+        "title": "1700x Powell St",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1700x%20Powell%20St%20tree%201%20pic%201.jpg?itok=4N-k-fNh"
     },
     {
         "title": "700x Golden Gate Ave.",
@@ -55,39 +55,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700x%20Golden%20Gate%20Ave%20tree%204%20pic%202.jpg?itok=SMRFhPqy"
     },
     {
-        "title": "420 Castro St",
+        "title": "177 Belgrave Ave.",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/420%20Castro%20St%20tree%201%20pic%201.jpg?itok=WQJRSsjj"
-    },
-    {
-        "title": "426 Castro St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/426%20Castro%20St%20tree%201%20pic%201.jpg?itok=AgACLYkX"
-    },
-    {
-        "title": "495 Castro St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/495%20Castro%20St%20tree%201%20pic%201.jpg?itok=Z16LsMJw"
-    },
-    {
-        "title": "587 Castro St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/587%20Castro%20St%20tree%201%20pic%201.jpg?itok=Q01gfSnd"
-    },
-    {
-        "title": "590 Castro St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/590%20Castro%20St%20tree%201%20pic%201.jpg?itok=-c7FE58u"
-    },
-    {
-        "title": "300x Guerrero St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/300x%20Guerrero%20St%20tree%209%20pic%201.jpg?itok=Nj0qPNDn"
-    },
-    {
-        "title": "49 Nevada St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/49%20Nevada%20St%20tree%201%20and%203.jpg?itok=6taue33P"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/177%20Belgrave%20Ave%20tree%201%20pic%201.jpg?itok=x03GEVXI"
     },
     {
         "title": "1635x Sam Jordan's Way (4003 3rd St)",
