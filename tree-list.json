@@ -5,16 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/154%2025th%20Ave%20tree%201.jpg?itok=KXXF9OxZ"
     },
     {
-        "title": "2694 McAllister St",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2694%20McAllister%20St%20pic%201%202.jpg?itok=JMXkffiN"
-    },
-    {
-        "title": "486 32nd Ave",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/486%2032nd%20Ave%20tree%201%20pic%201%202.jpg?itok=xaGnqIvx"
-    },
-    {
         "title": "2510 McAllister St",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2510%20McAllister%20St%20tree%201%20pic%201%202.jpg?itok=_VU2UTdY"
@@ -58,6 +48,11 @@
         "title": "177 Belgrave Ave.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/177%20Belgrave%20Ave%20tree%201%20pic%201.jpg?itok=x03GEVXI"
+    },
+    {
+        "title": "1186 Shotwell St.",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/image004.jpg?itok=EM8UDsEo"
     },
     {
         "title": "1635x Sam Jordan's Way (4003 3rd St)",
