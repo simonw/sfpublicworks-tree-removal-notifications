@@ -1,10 +1,5 @@
 [
     {
-        "title": "154 25th Ave",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/154%2025th%20Ave%20tree%201.jpg?itok=KXXF9OxZ"
-    },
-    {
         "title": "2510 McAllister St",
         "district": "District 1",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2510%20McAllister%20St%20tree%201%20pic%201%202.jpg?itok=_VU2UTdY"
@@ -15,9 +10,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3625%20Balboa%20St%20tree%203%20pic%201%202.jpg?itok=0uHaA8rY"
     },
     {
-        "title": "3575 Washington St",
+        "title": "2501x Franklin St",
         "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3575%20Washington%20St%20pic%201.jpg?itok=DMZuNWn_"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2501%20Franklin%20St%20tree%2010%20pic%201.jpg?itok=f7BJUokG"
     },
     {
         "title": "2830 Filbert St.",
@@ -25,14 +20,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2830%20Filbert%20St%20tree%201%20pic%201.jpg?itok=NQGjMHBo"
     },
     {
-        "title": "2868 Bush St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2868%20Bush%20St%20pic%201.jpg?itok=WxYfqkI2"
-    },
-    {
         "title": "1100 Sacramento St",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1100%20Sacramento%20St%20tree%201.jpg?itok=CzalZ-DJ"
+    },
+    {
+        "title": "1150 Lombard St",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1150%20Lombard%20St%20pic%201.jpg?itok=evgfjnh-"
     },
     {
         "title": "1700x Powell St",
@@ -40,24 +35,29 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1700x%20Powell%20St%20tree%201%20pic%201.jpg?itok=4N-k-fNh"
     },
     {
-        "title": "700x Golden Gate Ave.",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700x%20Golden%20Gate%20Ave%20tree%204%20pic%202.jpg?itok=SMRFhPqy"
-    },
-    {
         "title": "177 Belgrave Ave.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/177%20Belgrave%20Ave%20tree%201%20pic%201.jpg?itok=x03GEVXI"
     },
     {
+        "title": "3980 24th St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3980%2024th%20St%20tree%203%20pic%201.jpg?itok=fc8Nx4-O"
+    },
+    {
+        "title": "315 29th St",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/315%2029th%20St%20tree%201%20pic%201.jpg?itok=FEcjiEIW"
+    },
+    {
+        "title": "1616 Florida St",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1616%20Florida%20St%20tree%202%20pic%201.jpg?itok=AcAiF3iv"
+    },
+    {
         "title": "1186 Shotwell St.",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/image004.jpg?itok=EM8UDsEo"
-    },
-    {
-        "title": "1635x Sam Jordan's Way (4003 3rd St)",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/Sam%20Jordan%20Way%20pic%201.jpg?itok=PfRkEkoe"
     },
     {
         "title": "2700 Folsom Street at 23rd Street (southwest corner)",
