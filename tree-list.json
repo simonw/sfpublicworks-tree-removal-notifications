@@ -5,11 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2501%20Franklin%20St%20tree%2010%20pic%201.jpg?itok=f7BJUokG"
     },
     {
-        "title": "2830 Filbert St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2830%20Filbert%20St%20tree%201%20pic%201.jpg?itok=NQGjMHBo"
-    },
-    {
         "title": "1150 Lombard St",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1150%20Lombard%20St%20pic%201.jpg?itok=evgfjnh-"
@@ -18,6 +13,11 @@
         "title": "1700x Powell St",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1700x%20Powell%20St%20tree%201%20pic%201.jpg?itok=4N-k-fNh"
+    },
+    {
+        "title": "100 McAllister St",
+        "district": "District 5",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20McAllister%20St%20tree%201%20pic%201.jpg?itok=VoYGHOdj"
     },
     {
         "title": "3980 24th St",
