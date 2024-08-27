@@ -15,6 +15,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1150%20Lombard%20St%20pic%201.jpg?itok=evgfjnh-"
     },
     {
+        "title": "700x Columbus Ave",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700x%20Columbus%20Ave%20tree%204%20pic%201.jpg?itok=nN5y2xgQ"
+    },
+    {
         "title": "1249 46th Ave",
         "district": "District 4",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1249%2046th%20Ave%20tree%202%20pic%201.jpg?itok=DCYA7-fj"
@@ -23,6 +28,11 @@
         "title": "100 McAllister St",
         "district": "District 5",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20McAllister%20St%20tree%201%20pic%201.jpg?itok=VoYGHOdj"
+    },
+    {
+        "title": "160 Kenwood Way",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/160%20Kenwood%20Way%20tree%201%20pic%201.jpg?itok=qnd9WleP"
     },
     {
         "title": "5537 Diamond Heights Blvd.",
@@ -35,28 +45,13 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/888%20Moultrie%20St%20tree%201%20pic%201.jpg?itok=g1RZX657"
     },
     {
-        "title": "1186 Shotwell St.",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/image004.jpg?itok=EM8UDsEo"
-    },
-    {
         "title": "1633 Valencia St",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1633%20Valencia%20St%20tree%205%20pic%201.jpg?itok=t0uGRWh1"
     },
     {
-        "title": "1049 Tennessee St",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1049%20Tennessee%20St%20tree%201%20pic%201.jpg?itok=vDNGvFd4"
-    },
-    {
         "title": "1301 Minnesota St",
         "district": "District 10",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1301%20Minnesota%20St%20tree%2043%20pic%201.jpg?itok=y1V59ikq"
-    },
-    {
-        "title": "1069 Tennessee St",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1069%20Tennessee%20St%20tree%201%20pic%201.jpg?itok=d9HTrZ9w"
     }
 ]
