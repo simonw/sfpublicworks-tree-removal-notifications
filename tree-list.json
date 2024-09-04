@@ -1,18 +1,18 @@
 [
     {
-        "title": "2501x Franklin St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2501%20Franklin%20St%20tree%2010%20pic%201.jpg?itok=f7BJUokG"
+        "title": "530 Arguello Blvd",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/530%20Arguello%20Blvd%20tree%202%20pic%201.jpg?itok=6LMMQb-m"
+    },
+    {
+        "title": "2856 Bush St",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2856%20Bush%20St%20tree%202%20pic%201.jpg?itok=LQ02gEB0"
     },
     {
         "title": "1715 Broderick St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1715%20Broderick%20St%20tree%202%20pic%201.jpg?itok=zHGfp1Qe"
-    },
-    {
-        "title": "1150 Lombard St",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1150%20Lombard%20St%20pic%201.jpg?itok=evgfjnh-"
     },
     {
         "title": "700x Columbus Ave",
