@@ -35,6 +35,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/160%20Kenwood%20Way%20tree%201%20pic%201.jpg?itok=qnd9WleP"
     },
     {
+        "title": "461 Gold Mine Dr",
+        "district": "District 8",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/461%20Gold%20Mine%20Dr%20tree%201%20pic%201.jpg?itok=n8guPmHv"
+    },
+    {
         "title": "5537 Diamond Heights Blvd.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5537%20Diamond%20Heights%20Blvd%20tree%201%20view%20area%20damage.jpg?itok=_FSnue05"
@@ -48,10 +53,5 @@
         "title": "1633 Valencia St",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1633%20Valencia%20St%20tree%205%20pic%201.jpg?itok=t0uGRWh1"
-    },
-    {
-        "title": "1301 Minnesota St",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1301%20Minnesota%20St%20tree%2043%20pic%201.jpg?itok=y1V59ikq"
     }
 ]
