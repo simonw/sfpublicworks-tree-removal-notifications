@@ -25,11 +25,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1249%2046th%20Ave%20tree%202%20pic%201.jpg?itok=DCYA7-fj"
     },
     {
-        "title": "100 McAllister St",
-        "district": "District 5",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/100%20McAllister%20St%20tree%201%20pic%201.jpg?itok=VoYGHOdj"
-    },
-    {
         "title": "160 Kenwood Way",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/160%20Kenwood%20Way%20tree%201%20pic%201.jpg?itok=qnd9WleP"
@@ -40,9 +35,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/461%20Gold%20Mine%20Dr%20tree%201%20pic%201.jpg?itok=n8guPmHv"
     },
     {
-        "title": "5537 Diamond Heights Blvd.",
+        "title": "136 Guerrero St",
         "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/5537%20Diamond%20Heights%20Blvd%20tree%201%20view%20area%20damage.jpg?itok=_FSnue05"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/136%20Guerrero%20St%20tree%201%20pic%201.jpg?itok=F7YSsPMy"
     },
     {
         "title": "888 Moultrie St",
