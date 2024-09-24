@@ -10,19 +10,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2856%20Bush%20St%20tree%202%20pic%201.jpg?itok=LQ02gEB0"
     },
     {
-        "title": "1715 Broderick St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1715%20Broderick%20St%20tree%202%20pic%201.jpg?itok=zHGfp1Qe"
-    },
-    {
         "title": "700x Columbus Ave",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700x%20Columbus%20Ave%20tree%204%20pic%201.jpg?itok=nN5y2xgQ"
-    },
-    {
-        "title": "1249 46th Ave",
-        "district": "District 4",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1249%2046th%20Ave%20tree%202%20pic%201.jpg?itok=DCYA7-fj"
     },
     {
         "title": "160 Kenwood Way",
@@ -38,15 +28,5 @@
         "title": "136 Guerrero St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/136%20Guerrero%20St%20tree%201%20pic%201.jpg?itok=F7YSsPMy"
-    },
-    {
-        "title": "888 Moultrie St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/888%20Moultrie%20St%20tree%201%20pic%201.jpg?itok=g1RZX657"
-    },
-    {
-        "title": "1633 Valencia St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1633%20Valencia%20St%20tree%205%20pic%201.jpg?itok=t0uGRWh1"
     }
 ]
