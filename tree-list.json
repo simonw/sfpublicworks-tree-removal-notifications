@@ -15,14 +15,9 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3570%20Jackson%20St.%20Tree%201%20canopy.jpg?itok=jVos-THF"
     },
     {
-        "title": "700x Columbus Ave",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/700x%20Columbus%20Ave%20tree%204%20pic%201.jpg?itok=nN5y2xgQ"
-    },
-    {
-        "title": "160 Kenwood Way",
+        "title": "1575 Plymouth Ave",
         "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/160%20Kenwood%20Way%20tree%201%20pic%201.jpg?itok=qnd9WleP"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1575%20Plymouth%20Ave%20tree%201%20pic%201.jpg?itok=BkskS-L9"
     },
     {
         "title": "461 Gold Mine Dr",
@@ -33,5 +28,10 @@
         "title": "136 Guerrero St",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/136%20Guerrero%20St%20tree%201%20pic%201.jpg?itok=F7YSsPMy"
+    },
+    {
+        "title": "3401 3rd St and 501 Cargo Way",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3401%203rd%20St%20tree%208.jpg?itok=Ak9pjrcX"
     }
 ]
