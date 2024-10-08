@@ -1,15 +1,5 @@
 [
     {
-        "title": "530 Arguello Blvd",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/530%20Arguello%20Blvd%20tree%202%20pic%201.jpg?itok=6LMMQb-m"
-    },
-    {
-        "title": "2856 Bush St",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2856%20Bush%20St%20tree%202%20pic%201.jpg?itok=LQ02gEB0"
-    },
-    {
         "title": "3570 Jackson St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3570%20Jackson%20St.%20Tree%201%20canopy.jpg?itok=jVos-THF"
@@ -23,11 +13,6 @@
         "title": "461 Gold Mine Dr",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/461%20Gold%20Mine%20Dr%20tree%201%20pic%201.jpg?itok=n8guPmHv"
-    },
-    {
-        "title": "136 Guerrero St",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/136%20Guerrero%20St%20tree%201%20pic%201.jpg?itok=F7YSsPMy"
     },
     {
         "title": "3401 3rd St and 501 Cargo Way",
