@@ -5,14 +5,19 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3570%20Jackson%20St.%20Tree%201%20canopy.jpg?itok=jVos-THF"
     },
     {
+        "title": "1810 Lyon St",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1810%20Lyon%20St%20tree%201%20pic%201.jpg?itok=O9KUp3IV"
+    },
+    {
         "title": "1575 Plymouth Ave",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1575%20Plymouth%20Ave%20tree%201%20pic%201.jpg?itok=BkskS-L9"
     },
     {
-        "title": "461 Gold Mine Dr",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/461%20Gold%20Mine%20Dr%20tree%201%20pic%201.jpg?itok=n8guPmHv"
+        "title": "2800x Bryant St",
+        "district": "District 9",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2800x%20Bryant%20St%20tree%201%20pic%201.jpg?itok=olksYCJN"
     },
     {
         "title": "3401 3rd St and 501 Cargo Way",
