@@ -30,11 +30,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/802%20Diamond%20St.%20Tree%20no%202%20main%20photo.jpg?itok=XdqT09Pl"
     },
     {
-        "title": "3810 20th St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3810%2020th%20St.%20Tree%208%20main%20photo.JPG?itok=uz_aF_Bl"
-    },
-    {
         "title": "278 Upper Ter.",
         "district": "District 8",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/278%20Upper%20Ter%20tree%201%20pic%201.jpg?itok=VoISA3OL"
@@ -53,5 +48,10 @@
         "title": "920x Shotwell St (1245 South Van Ness Ave)",
         "district": "District 9",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/920x%20Shotwell%20St%20tree%202%20pic%201.jpg?itok=aSvxnCaK"
+    },
+    {
+        "title": "381 Wilde St",
+        "district": "District 10",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/381%20Wilde%20Ave%20tree%203%20pic%201.jpg?itok=k5xLDdSE"
     }
 ]
