@@ -1,5 +1,15 @@
 [
     {
+        "title": "3027 Anza St",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3027%20Anza%20St%20tree%201%20pic%201.jpg?itok=VEvobLmX"
+    },
+    {
+        "title": "646 40th Ave",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/646%2040th%20Ave%20tree%201%20pic%201.jpg?itok=KkKaGvG6"
+    },
+    {
         "title": "3214 Jackson St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3214%20Jackson%20St%20tree%201%20pic%201.jpg?itok=DKk5JMYL"
@@ -15,6 +25,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/472%20Union%20St%20tree%201%20pic%201.jpg?itok=4v4v1r1H"
     },
     {
+        "title": "1696 09th Ave",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1696%209th%20Ave%20tree%201%20pic%201.jpg?itok=_7pqCy7J"
+    },
+    {
         "title": "184 Lomita Ave.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/184%20Lomita%20Ave%20tree%201%20pic%201.jpg?itok=wAbKUsyT"
@@ -23,16 +38,6 @@
         "title": "638 Moraga St.",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/638%20Moraga%20St%20tree%201%20pic%201.jpg?itok=f2dIY2rt"
-    },
-    {
-        "title": "737 Diamond St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/737%20Diamond%20St.%20tree%20no.%202%20main%20photo.jpg?itok=a4gaqHMs"
-    },
-    {
-        "title": "800 Diamond St.",
-        "district": "District 8",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/802%20Diamond%20St.%20Tree%20no%202%20main%20photo.jpg?itok=XdqT09Pl"
     },
     {
         "title": "278 Upper Ter.",
