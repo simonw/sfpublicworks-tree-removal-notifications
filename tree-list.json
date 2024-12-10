@@ -20,9 +20,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3225%20Jackson%20St%20tree%201%20pic%201.jpg?itok=J5_AqzmH"
     },
     {
-        "title": "472 Union St",
+        "title": "2655 Bush St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2655%20Bush%20St%20Tree%202%20Photo1%20.jpg?itok=J3-_MZHY"
+    },
+    {
+        "title": "1308 Leavenworth St",
         "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/472%20Union%20St%20tree%201%20pic%201.jpg?itok=4v4v1r1H"
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1308%20Leavenworth%20St%20tree%202%20pic%201.jpg?itok=0TvyFN39"
+    },
+    {
+        "title": "1308 Leavenworth St",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1308%20Leavenworth%20St%20tree%203%20pic%201.jpg?itok=7w_Urzvy"
+    },
+    {
+        "title": "1790 Van Ness Ave",
+        "district": "District 3",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1790%20Van%20Ness%20Ave%20tree%201%20pic%201.jpg?itok=RxTiCByO"
     },
     {
         "title": "50 United Nations Plaza",
@@ -30,24 +45,14 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/50%20United%20Nations%20Plaza%20tree%204%20pic%201.jpg?itok=S6SDc1Zp"
     },
     {
+        "title": "111 Page St",
+        "district": "District 6",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/111%20Page%20St%20tree%203.jpg?itok=5-DaFAZn"
+    },
+    {
         "title": "1696 09th Ave",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1696%209th%20Ave%20tree%201%20pic%201.jpg?itok=_7pqCy7J"
-    },
-    {
-        "title": "515 Cortland Ave",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/515%20Cortland%20Ave%20tree%201%20pic%201.jpg?itok=ktZwMtG5"
-    },
-    {
-        "title": "45 Elsie St",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/45%20Elsie%20St%20tree%201%20pic%201.jpg?itok=Q5oTNyp1"
-    },
-    {
-        "title": "920x Shotwell St (1245 South Van Ness Ave)",
-        "district": "District 9",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/920x%20Shotwell%20St%20tree%202%20pic%201.jpg?itok=aSvxnCaK"
     },
     {
         "title": "381 Wilde St",
