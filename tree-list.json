@@ -25,6 +25,11 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2655%20Bush%20St%20Tree%202%20Photo1%20.jpg?itok=J3-_MZHY"
     },
     {
+        "title": "3160 Jackson St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/image001_0.jpg?itok=gxov2LGs"
+    },
+    {
         "title": "1308 Leavenworth St",
         "district": "District 3",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1308%20Leavenworth%20St%20tree%202%20pic%201.jpg?itok=0TvyFN39"
@@ -53,10 +58,5 @@
         "title": "1696 09th Ave",
         "district": "District 7",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1696%209th%20Ave%20tree%201%20pic%201.jpg?itok=_7pqCy7J"
-    },
-    {
-        "title": "381 Wilde St",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/381%20Wilde%20Ave%20tree%203%20pic%201.jpg?itok=k5xLDdSE"
     }
 ]
