@@ -1,23 +1,8 @@
 [
     {
-        "title": "3027 Anza St",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/3027%20Anza%20St%20tree%201%20pic%201.jpg?itok=VEvobLmX"
-    },
-    {
-        "title": "646 40th Ave",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/646%2040th%20Ave%20tree%201%20pic%201.jpg?itok=KkKaGvG6"
-    },
-    {
         "title": "2942 Baker St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2942%20Baker%20St.%20Main%20Photo.jpg?itok=kWAJiet7"
-    },
-    {
-        "title": "2655 Bush St.",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2655%20Bush%20St%20Tree%202%20Photo1%20.jpg?itok=J3-_MZHY"
     },
     {
         "title": "3160 Jackson St.",
@@ -43,11 +28,6 @@
         "title": "111 Page St",
         "district": "District 6",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/111%20Page%20St%20tree%203.jpg?itok=5-DaFAZn"
-    },
-    {
-        "title": "1696 09th Ave",
-        "district": "District 7",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1696%209th%20Ave%20tree%201%20pic%201.jpg?itok=_7pqCy7J"
     },
     {
         "title": "601 Innes Ave",
