@@ -1,5 +1,10 @@
 [
     {
+        "title": "798 24th Ave.",
+        "district": "District 1",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/798%2024th%20Ave%20tree%201%20pic%201.jpg?itok=aZfXjPSO"
+    },
+    {
         "title": "2942 Baker St",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2942%20Baker%20St.%20Main%20Photo.jpg?itok=kWAJiet7"
