@@ -10,29 +10,24 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2942%20Baker%20St.%20Main%20Photo.jpg?itok=kWAJiet7"
     },
     {
+        "title": "2810 Pierce St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2810%20Pierce%20St%20tree%201.jpg?itok=mUKosx3E"
+    },
+    {
+        "title": "150 Cherry St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/150%20Cherry%20St%20tree%201%20pic%201.jpg?itok=R3Bwxd3E"
+    },
+    {
+        "title": "2350 Green St.",
+        "district": "District 2",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2350%20Green%20St%20tree%209.jpg?itok=cSN2DoDX"
+    },
+    {
         "title": "3160 Jackson St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/image001_0.jpg?itok=gxov2LGs"
-    },
-    {
-        "title": "1308 Leavenworth St",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1308%20Leavenworth%20St%20tree%202%20pic%201.jpg?itok=0TvyFN39"
-    },
-    {
-        "title": "1308 Leavenworth St",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1308%20Leavenworth%20St%20tree%203%20pic%201.jpg?itok=7w_Urzvy"
-    },
-    {
-        "title": "1790 Van Ness Ave",
-        "district": "District 3",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/1790%20Van%20Ness%20Ave%20tree%201%20pic%201.jpg?itok=RxTiCByO"
-    },
-    {
-        "title": "111 Page St",
-        "district": "District 6",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/111%20Page%20St%20tree%203.jpg?itok=5-DaFAZn"
     },
     {
         "title": "601 Innes Ave",
