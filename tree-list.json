@@ -5,11 +5,6 @@
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/798%2024th%20Ave%20tree%201%20pic%201.jpg?itok=aZfXjPSO"
     },
     {
-        "title": "2942 Baker St",
-        "district": "District 2",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2942%20Baker%20St.%20Main%20Photo.jpg?itok=kWAJiet7"
-    },
-    {
         "title": "2810 Pierce St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2810%20Pierce%20St%20tree%201.jpg?itok=mUKosx3E"
@@ -28,10 +23,5 @@
         "title": "2790 Broadway / 2500 Broderick",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2790%20Broadway-2500%20Broderick.jpg?itok=Twe7Xfsg"
-    },
-    {
-        "title": "601 Innes Ave",
-        "district": "District 10",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/601%20Innes%20Ave%20T8%20c.JPG?itok=-Fv3-DZ1"
     }
 ]
