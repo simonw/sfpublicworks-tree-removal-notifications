@@ -1,10 +1,5 @@
 [
     {
-        "title": "798 24th Ave.",
-        "district": "District 1",
-        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/798%2024th%20Ave%20tree%201%20pic%201.jpg?itok=aZfXjPSO"
-    },
-    {
         "title": "2810 Pierce St.",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2810%20Pierce%20St%20tree%201.jpg?itok=mUKosx3E"
@@ -23,5 +18,40 @@
         "title": "2790 Broadway / 2500 Broderick",
         "district": "District 2",
         "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/2790%20Broadway-2500%20Broderick.jpg?itok=Twe7Xfsg"
+    },
+    {
+        "title": "15 Gladeview Way / St. Francis Wood",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/15%20Gladeview%20Way%20pic%201.jpg?itok=5dMQGI07"
+    },
+    {
+        "title": "75 San Leandro Way / St. Francis Wood",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/75%20San%20Leandro%20Way%20tree%203%20pic%201.jpg?itok=Q2u9V8Td"
+    },
+    {
+        "title": "37 San Monica Way / St. Francis Wood",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/37%20San%20Monica%20Way%20tree%202%20pic%202.png?itok=XZeofEfD"
+    },
+    {
+        "title": "190 San Pablo Ave / St. Francis Wood",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/190%20San%20Pablo%20Ave%20tree%204%20pic%201.png?itok=SQl9Wp7Z"
+    },
+    {
+        "title": "80 Santa Clara Ave / St. Francis Wood",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/80%20Santa%20Clara%20Ave%20tre%201%20%20pic%201.jpg?itok=DB2z0JG1"
+    },
+    {
+        "title": "98 Santa Clara Ave / St. Francis Wood",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/98%20Santa%20Clara%20Ave%20tree%202%20pic%201.jpg?itok=ZBOx-ang"
+    },
+    {
+        "title": "65 Terrace Dr. / St. Francis Wood",
+        "district": "District 7",
+        "img_src": "https://sfpublicworks.org/sites/default/files/styles/large/public/65%20Terrace%20Dr%20tree%201%20pic%201.jpg?itok=Qnf76ITT"
     }
 ]
